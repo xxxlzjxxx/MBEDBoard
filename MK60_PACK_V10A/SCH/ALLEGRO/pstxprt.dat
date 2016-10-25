@@ -1,0 +1,1837 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-14-2016 at 10:45:46 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MK60_PACK_V10A';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'BEEP_HC12085P_HC12085P_BEEP_HC1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11779540@XXXLZJXXX.BEEP_HC12085P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11779540@xxxlzjxxx.\beep_hc12085p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11779540@xxxlzjxxx.\beep_hc12085p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BEAD1 'FB_L1812_FBMH4532HM132-T':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742931@LIBRARY1.FB.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742931@library1.\fb.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742931@library1.\fb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11796327@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11796327@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11796327@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261773@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261773@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261773@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261829@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261829@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261829@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261845@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261845@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261845@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261861@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261861@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261861@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261877@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261877@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261877@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11514143@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11514143@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11514143@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11514159@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11514159@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11514159@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11514175@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11514175@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11514175@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11126900@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11126900@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11126900@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11262159@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11262159@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11262159@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11796377@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11796377@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11796377@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11646841@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11646841@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11646841@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11646861@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11646861@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11646861@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_CC0805_10UF_16V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842062@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842062@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842062@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_CC0805_10UF_16V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11844048@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11844048@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11844048@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11840180@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11840180@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11840180@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831860@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831860@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831860@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831876@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831876@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831876@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831892@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831892@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831892@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_CC0805_10UF_16V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11844129@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11844129@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11844129@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842866@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842866@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842866@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11802451@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11802451@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11802451@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842892@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842892@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842892@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11840351@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11840351@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11840351@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846445@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846445@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846445@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11845999@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11845999@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11845999@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846257@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846257@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846257@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851198@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851198@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851198@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847261@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847261@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847261@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851470@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851470@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851470@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851865@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851865@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851865@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846663@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846663@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846663@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11804143@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11804143@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11804143@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852342@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852342@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852342@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852446@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852446@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852446@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847061@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847061@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847061@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846847@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846847@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846847@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847221@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847221@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847221@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPACITOR NON-POL_CC0805_10UF_1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11744080@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11744080@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11744080@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAPACITOR NON-POL_CC0805_10UF_1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11744054@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11744054@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11744054@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPT_100UF_3528_6R3V_10%_LXXX_1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742684@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742684@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742684@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAPT_100UF_3528_6R3V_10%_LXXX_1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742666@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742666@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742666@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742650@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742650@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742650@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11123464@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11123464@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11123464@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12451382@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12451382@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins12451382@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12452496@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12452496@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins12452496@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12452709@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12452709@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins12452709@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11465448@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11465448@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11465448@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261669@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261669@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261669@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261721@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261721@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261721@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11261757@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11261757@discrete.\cap np.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11261757@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11821345@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11821345@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11821345@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'D SCHOTTKY_SOD123_MBR0520_SOD12':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801191@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801191@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801191@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12422493@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12422493@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins12422493@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12428536@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12428536@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins12428536@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'D SCHOTTKY_SOD123_MBR0520_SOD12':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12458505@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12458505@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins12458505@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822183@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822183@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822183@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822255@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822255@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822255@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822328@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822328@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822328@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE13_0_SOD123_MBR0520_SOD123':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11725355@F407_PACK_V10A.DIODE13_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11725355@f407_pack_v10a.\diode13_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11725355@f407_pack_v10a.\diode13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE13_0_SOD123_MBR0520_SOD123':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11725391@F407_PACK_V10A.DIODE13_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11725391@f407_pack_v10a.\diode13_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11725391@f407_pack_v10a.\diode13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11744002@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11744002@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11744002@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11748406@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11748406@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11748406@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'D SCHOTTKY_SOD123_MBR0520_SOD12':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801283@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801283@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801283@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN RCPT 32X2_HEADER32X2_CONN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11853417@CONNECTOR.CONN RCPT 32X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11853417@connector.\conn rcpt 32x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11853417@connector.\conn rcpt 32x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CONN RCPT 3_POWER3A_CONN RCPT 3':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852914@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852914@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852914@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'CONN PLUG 2_0_POWER2A_CAN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846763@F407_PACK_V10A.CONN PLUG 2_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846763@f407_pack_v10a.\conn plug 2_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846763@f407_pack_v10a.\conn plug 2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CONN PLUG 2_0_POWER2A_RS485':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847011@F407_PACK_V10A.CONN PLUG 2_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847011@f407_pack_v10a.\conn plug 2_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847011@f407_pack_v10a.\conn plug 2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN RCPT 17X2_1_TFTLCD_3R5_TFT':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11798815@F407_PACK_V10A.CONN RCPT 17X2_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11798815@f407_pack_v10a.\conn rcpt 17x2_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11798815@f407_pack_v10a.\conn rcpt 17x2_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON20_3_HEADER10X2_DIP2/10/2.54':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11126466@MK60N_001.CON20_3.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11126466@mk60n_001.\con20_3.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11126466@mk60n_001.\con20_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN RCPT 11X2_HEADER11X2_CONN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11853744@CONNECTOR.CONN RCPT 11X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11853744@connector.\conn rcpt 11x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11853744@connector.\conn rcpt 11x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN RCPT 9X2_OV2640_OV7620':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801935@CONNECTOR.CONN RCPT 9X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801935@connector.\conn rcpt 9x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11801935@connector.\conn rcpt 9x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CONN RCPT 7X2_HEADER7X2_CONN RC':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11853655@CONNECTOR.CONN RCPT 7X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11853655@connector.\conn rcpt 7x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11853655@connector.\conn rcpt 7x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CONN RCPT 7X2_HEADER7X2_CONN RC':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11853833@CONNECTOR.CONN RCPT 7X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11853833@connector.\conn rcpt 7x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11853833@connector.\conn rcpt 7x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'CONN RCPT 6X2_HEADER6X2_CONN RC':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11853586@CONNECTOR.CONN RCPT 6X2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11853586@connector.\conn rcpt 6x2.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11853586@connector.\conn rcpt 6x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HR911105A_HR911105A_HR911105A':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11830605@XXXLZJXXX.HR911105A.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11830605@xxxlzjxxx.\hr911105a.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11830605@xxxlzjxxx.\hr911105a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11124780@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11124780@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11124780@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11266070@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11266070@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11266070@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_200MA_LC_1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831914@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831914@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831914@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743001@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743001@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743001@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743041@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743041@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743041@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742987@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742987@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742987@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743023@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743023@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743023@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP1 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742947@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742947@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742947@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP2 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742961@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742961@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742961@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'L14G1/TO_1_SOT23_123_S8050_SOT2':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11779233@MK60_SWTH_V10B.L14G1/TO_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11779233@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11779233@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'L14G1/TO_1_SOT23_123_S8050_SOT2':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846055@MK60_SWTH_V10B.L14G1/TO_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846055@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846055@mk60_swth_v10b.\l14g1/to_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11796281@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11796281@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11796281@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_10K_1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11124286@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11124286@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11124286@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11862804@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11862804@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11862804@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_10K_1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11463930@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11463930@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11463930@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_10K_1_RC0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11727410@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11727410@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11727410@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11862856@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11862856@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11862856@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11862830@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11862830@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11862830@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842046@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842046@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842046@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11841235@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11841235@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11841235@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11841261@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11841261@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11841261@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_10K_0603_RC0603_510R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11830671@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11830671@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11830671@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11821371@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11821371@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11821371@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_10K_0603_RC0603_510R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11830687@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11830687@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11830687@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11841434@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11841434@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11841434@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11841475@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11841475@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11841475@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_10K_0603_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842752@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842752@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842752@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_10K_0603_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842778@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842778@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842778@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_10K_0603_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842804@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842804@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842804@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_10K_0603_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842830@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842830@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842830@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842367@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842367@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842367@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831721@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831721@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831721@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842393@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842393@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842393@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822199@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822199@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822199@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11842419@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11842419@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11842419@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_10K_0603_RC0603_6.49K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11840325@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11840325@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11840325@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11840557@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11840557@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11840557@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11840985@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11840985@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11840985@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11841062@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11841062@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11841062@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_10K_1_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846593@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846593@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846593@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_10K_1_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846617@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846617@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846617@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851849@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851849@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851849@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851418@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851418@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851418@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851392@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851392@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851392@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_10K_0603_RC0603_100R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11779624@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11779624@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11779624@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11851444@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11851444@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11851444@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_10K_1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846485@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846485@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846485@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852424@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852424@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852424@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852310@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852310@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852310@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852294@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852294@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852294@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11852326@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11852326@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11852326@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846795@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846795@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846795@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_RC0603_120R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846731@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846731@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846731@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847089@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847089@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847089@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846129@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846129@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846129@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822271@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822271@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822271@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_RC0603_120R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846991@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846991@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846991@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847109@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847109@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847109@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_RC0603_510R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846089@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846089@discrete.\r.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846089@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743986@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743986@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743986@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11748390@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11748390@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11748390@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_10K_0603_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743872@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743872@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743872@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801541@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801541@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801541@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801557@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801557@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801557@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801444@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801444@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801444@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_10K_0603_RC0603_22R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11801478@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11801478@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11801478@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_10K_0603_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11779564@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11779564@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11779564@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12422477@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12422477@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins12422477@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12428520@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12428520@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins12428520@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_10K_0603_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822344@PASSIVE.R_10K_0603.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822344@passive.\r_10k_0603.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822344@passive.\r_10k_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_10K_1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11124222@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11124222@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11124222@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_10K_1_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11124250@MK60_SWTH_V10A.R_10K_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11124250@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11124250@mk60_swth_v10a.\r_10k_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RP1 'RESISTOR VAR_0_VISHAY_RES_VAR_6':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS12421465@MK60_YTAI_V41A.RESISTOR VAR_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins12421465@mk60_ytai_v41a.\resistor var_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins12421465@mk60_ytai_v41a.\resistor var_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_SW-6X6X6-L_KEY1':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11822763@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11822763@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11822763@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH-SPST-4P_SW-6X6X6-L_RESET':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11828208@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11828208@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11828208@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH-SPST-4P_SW-6X6X6-L_KEY2':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11823952@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11823952@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11823952@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SWITCH-SPST-4P_SW-6X6X6-L_KEY3':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11825010@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11825010@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11825010@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SWITCH_3P_SWITCH_3P_SWITCH_3P':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11748826@XXXLZJXXX.SWITCH_3P.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11748826@xxxlzjxxx.\switch_3p.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11748826@xxxlzjxxx.\switch_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TOUCHPAD_TOUCHPAD_TOUCHPAD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11827960@XXXLZJXXX.TOUCHPAD.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11827960@xxxlzjxxx.\touchpad.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11827960@xxxlzjxxx.\touchpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TOUCHPAD_TOUCHPAD_TOUCHPAD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11827974@XXXLZJXXX.TOUCHPAD.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11827974@xxxlzjxxx.\touchpad.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11827974@xxxlzjxxx.\touchpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'TOUCHPAD_TOUCHPAD_TOUCHPAD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11827988@XXXLZJXXX.TOUCHPAD.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11827988@xxxlzjxxx.\touchpad.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11827988@xxxlzjxxx.\touchpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T4 'TOUCHPAD_TOUCHPAD_TOUCHPAD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11829801@XXXLZJXXX.TOUCHPAD.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11829801@xxxlzjxxx.\touchpad.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11829801@xxxlzjxxx.\touchpad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_0_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742568@F407_PACK_V10A.TESTPOINT_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742568@f407_pack_v10a.\testpoint_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742568@f407_pack_v10a.\testpoint_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IS61LV25626_0_TSOP-44_IS62WV512':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11795935@F407_PACK_V11A.IS61LV25626_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11795935@f407_pack_v11a.\is61lv25626_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11795935@f407_pack_v11a.\is61lv25626_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'W25Q64_0_SOIC16W_W25Q128FVFG':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846523@MK60_SWTH_V10A.W25Q64_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846523@mk60_swth_v10a.\w25q64_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846523@mk60_swth_v10a.\w25q64_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TFCARD_1_TFCARD_TFCARD':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846913@F407_PACK_V10A.TFCARD_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846913@f407_pack_v10a.\tfcard_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846913@f407_pack_v10a.\tfcard_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'TJA1050_SOIC8_TJA1050T/CM':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846695@XXXLZJXXX.TJA1050.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846695@xxxlzjxxx.\tja1050.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846695@xxxlzjxxx.\tja1050.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'MAX3485ESA_0_SOIC8_MAX3485ESA':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846885@MK60_PACK_V10A.MAX3485ESA_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846885@mk60_pack_v10a.\max3485esa_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846885@mk60_pack_v10a.\max3485esa_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'CP2102_QFN-28_CP2102':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743680@XXXLZJXXX.CP2102.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743680@xxxlzjxxx.\cp2102.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743680@xxxlzjxxx.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'TPS7133_0_SOIC8_TPS76833Q':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11742618@F407_PACK_V10A.TPS7133_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11742618@f407_pack_v10a.\tps7133_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11742618@f407_pack_v10a.\tps7133_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'K60_LQFP144_MK60DN512VLQ10':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11126052@MYLIB.K60.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11126052@mylib.\k60.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11126052@mylib.\k60.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SP706T_0_SOIC8_SP706REN':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11460279@MK60_SWTH_V10A.SP706T_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11460279@mk60_swth_v10a.\sp706t_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11460279@mk60_swth_v10a.\sp706t_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'BATTERY_CR1220_BATTERY':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11724931@XXXLZJXXX.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11724931@xxxlzjxxx.\battery.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11724931@xxxlzjxxx.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'KSZ8041NL_MLF-32_KSZ8041NL':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11831185@XXXLZJXXX.KSZ8041NL.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11831185@xxxlzjxxx.\ksz8041nl.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11831185@xxxlzjxxx.\ksz8041nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'ADXL345_1_LGA-14_ADXL345':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11847159@F543_WIND_V30A.ADXL345_1.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11847159@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11847159@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'AT24C512_0_SOIC8_AT24C512':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846321@MK60_PACK_V10A.AT24C512_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846321@mk60_pack_v10a.\at24c512_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846321@mk60_pack_v10a.\at24c512_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'NRF24L01PACK_NRF24L01PACK_NRF24':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11846149@XXXLZJXXX.NRF24L01PACK.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11846149@xxxlzjxxx.\nrf24l01pack.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11846149@xxxlzjxxx.\nrf24l01pack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'LM2904QDR_SOIC8_LM2904QDR':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11850763@XXXLZJXXX.LM2904QDRA.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11850763@xxxlzjxxx.\lm2904qdra.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11850763@xxxlzjxxx.\lm2904qdra.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11850864@XXXLZJXXX.LM2904QDRB.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11850864@xxxlzjxxx.\lm2904qdrb.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page3_ins11850864@xxxlzjxxx.\lm2904qdrb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ USB1 'USB-MICRO_USB-MICRO_USB-MICRO':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11743752@XXXLZJXXX.USB-MICRO.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11743752@xxxlzjxxx.\usb-micro.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11743752@xxxlzjxxx.\usb-micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB2 'USB-MICRO_USB-MICRO_USB-MICRO':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11749343@XXXLZJXXX.USB-MICRO.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11749343@xxxlzjxxx.\usb-micro.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11749343@xxxlzjxxx.\usb-micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB3 'USB-A_0_USB-A_USB-A':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11800993@F407_PACK_V10A.USB-A_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11800993@f407_pack_v10a.\usb-a_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page4_ins11800993@f407_pack_v10a.\usb-a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_5032_0_X-2P-3R2X1R5-SMD_XT':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11646825@F407_PACK_V10A.XTAL_5032_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11646825@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11646825@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'SMD_OSC_3_OSC7X5_SG7050CAN-50M-':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V10A.MAIN(SCH_1):INS11124652@MK60_PACK_V10A.SMD_OSC_3.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v10a.main(sch_1):ins11124652@mk60_pack_v10a.\smd_osc_3.normal\(chips)',
+ P_PATH='@mk60_pack_v10a.main(sch_1):page2_ins11124652@mk60_pack_v10a.\smd_osc_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
