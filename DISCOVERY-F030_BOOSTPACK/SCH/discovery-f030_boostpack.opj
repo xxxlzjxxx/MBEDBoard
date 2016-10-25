@@ -1,0 +1,130 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "h:\cadencelib\xxxlzjxxx\xxxlzjxxx.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\xxxlzjxxx\xxxlzjxxx.olb"
+        (Type "Schematic Library")))
+    (File ".\discovery-f030_boostpack.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\DISCOVERY-F030_BOOSTPACK.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (NoModify)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\discovery-f030_boostpack.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (SWITCH-SPST-2P
+      (FullPartName "SWITCH-SPST-2P.Normal")
+      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    ("TEST P"
+      (FullPartName "TEST P.Normal")
+      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (RES1
+      (FullPartName "RES1.Normal")
+      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (XTAL
+      (FullPartName "XTAL.Normal")
+      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0")))
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\discovery-f030_boostpack.dsn")
+      (Path "Design Resources" ".\discovery-f030_boostpack.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\discovery-f030_boostpack.dsn" "SCHEMATIC1"
+         "[04]MSP430F5438A_PACK"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1383 104 521")
+        (Scroll "343 120")
+        (Zoom "272")
+        (Occurrence "/"))
+      (Path
+         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "[04]MSP430F5438A_PACK"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1357 78 495")
+        (Scroll "-36 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "[01]IDSCOVERY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1383 104 521")
+        (Scroll "0 0")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path
+         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "[02]MODULAR")))
+  (MPSSessionName "HUIYUAN-LZJ")
+  (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

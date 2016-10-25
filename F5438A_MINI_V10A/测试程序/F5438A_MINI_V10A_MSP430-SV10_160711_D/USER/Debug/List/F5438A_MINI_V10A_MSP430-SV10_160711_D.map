@@ -1,0 +1,578 @@
+################################################################################
+#                                                                              #
+#      IAR Universal Linker V6.0.0.46                                          #
+#                                                                              #
+#           Link time     =  11/Jul/2016  19:49:45                             #
+#           Target CPU    =  MSP430                                            #
+#           List file     =  E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\List\F5438A_MINI_V10A_MSP430 #
+#                            -SV10_160711_D.map                                #
+#           Output file 1 =  E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Exe\F5438A_MINI_V10A_MSP430- #
+#                            SV10_160711_D.d43                                 #
+#                            Format: debug                                     #
+#                            UBROF version 10.0.6                              #
+#                            Using library modules for C-SPY (-rt)             #
+#           Command line  =  E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\ad7414.r43               #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\adc12.r43                #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\check.r43                #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\eeprom.r43               #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\fft.r43                  #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\GPIO.r43                 #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\main.r43                 #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\oled.r43                 #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\sysclk.r43               #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\timer.r43                #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\uart.r43                 #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Obj\wdog.r43                 #
+#                            -o                                                #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\Exe\F5438A_MINI_V10A_MSP430- #
+#                            SV10_160711_D.d43                                 #
+#                            -l                                                #
+#                            E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10 #
+#                            _160711_D\USER\Debug\List\F5438A_MINI_V10A_MSP430 #
+#                            -SV10_160711_D.map                                #
+#                            -xes "-ID:\IAR for 430\430\LIB\" -f               #
+#                            "D:\IAR for 430\430\config\linker\lnk430F5438A.xc #
+#                            l"                                                #
+#                            (-cmsp430 -D?CPU30_OFFSET=2 -QCODE_I=CODE_ID      #
+#                            -QTLS16_I=TLS16_ID -Z(CONST)INFO=1800-19FF        #
+#                            -Z(CONST)INFOA=1980-19FF                          #
+#                            -Z(CONST)INFOB=1900-197F                          #
+#                            -Z(CONST)INFOC=1880-18FF                          #
+#                            -Z(CONST)INFOD=1800-187F                          #
+#                            -Z(DATA)DATA16_I,DATA16_Z,DATA16_N,TLS16_I=1C00-5 #
+#                            BFF                                               #
+#                            -Z(DATA)DATA16_HEAP+_DATA16_HEAP_SIZE             #
+#                            -Z(DATA)CODE_I                                    #
+#                            -Z(DATA)DATA20_I,DATA20_Z,DATA20_N,DATA20_HEAP+_D #
+#                            ATA20_HEAP_SIZE                                   #
+#                            -Z(DATA)CSTACK+_STACK_SIZE#                       #
+#                            -Z(CONST)DATA16_C,DATA16_ID,TLS16_ID,DIFUNCT,CHEC #
+#                            KSUM=5C00-FF7F                                    #
+#                            -Z(CODE)CSTART,ISR_CODE,CODE16=5C00-FF7F          #
+#                            -P(CODE)CODE=5C00-FF7F,10000-45BFF                #
+#                            -Z(CODE)CODE_ID                                   #
+#                            -Z(CONST)DATA20_C,DATA20_ID=5C00-FF7F,10000-45BFF #
+#                            -Z(CODE)INTVEC=FF80-FFFF                          #
+#                            -Z(CODE)RESET=FFFE-FFFF) -f                       #
+#                            "D:\IAR for 430\430\config\linker\multiplier32_lo #
+#                            c2.xcl"                                           #
+#                            (-e?Mul8HwLoc2=?Mul8 -e?Mul16HwLoc2=?Mul16        #
+#                            -e?Mul16to32uHwLoc2=?Mul16to32u                   #
+#                            -e?Mul16to32sHwLoc2=?Mul16to32s                   #
+#                            -e?Mul32Hw32Loc2=?Mul32                           #
+#                            -e?Mul64Hw32Loc2=_Mul64i                          #
+#                            -e?Mul32u32uto64iHw32Loc2=_Mul32u32uto64i         #
+#                            -e?Mul32fHwLoc2=_Mul32f                           #
+#                            -e_Mul64fHwPtrLoc2=_Mul64fPtr)                    #
+#                            -D_STACK_SIZE=400 -rt                             #
+#                            "D:\IAR for 430\430\lib\dlib\dl430xlmff.r43"      #
+#                            -e_PrintfLarge=_Printf -e_ScanfLarge=_Scanf       #
+#                            -D_DATA16_HEAP_SIZE=80 -s __program_start         #
+#                            -D_DATA20_HEAP_SIZE=50                            #
+#                                                                              #
+#                           Copyright (C) 1987-2014 IAR Systems AB.            #
+################################################################################
+
+
+
+
+
+                ****************************************
+                *                                      *
+                *           CROSS REFERENCE            *
+                *                                      *
+                ****************************************
+
+       Program entry at :           6314  Relocatable, from module : ?cstart
+
+
+
+
+                ****************************************
+                *                                      *
+                *            RUNTIME MODEL             *
+                *                                      *
+                ****************************************
+
+  __Heap_Handler             = Basic
+  __SystemLibrary            = DLib
+  __code_model               = large
+  __core                     = 430X
+  __data_model               = medium
+  __dlib_file_descriptor     = 1
+  __dlib_full_locale_support = 1
+  __double_size              = 32
+  __pic                      = no
+  __reg_r4                   = free
+  __reg_r5                   = free
+  __rt_version               = 3
+
+                ****************************************
+                *                                      *
+                *    AUTOMATIC SYMBOL REDIRECTIONS     *
+                *                                      *
+                ****************************************
+
+                  There are no automatic symbol redirections.
+
+                ****************************************
+                *                                      *
+                *              ENTRY LIST              *
+                *                                      *
+                ****************************************
+
+Module  Entry                            Address
+------  -----                            -------
+?FILLER_BYTES
+?ABS_ENTRY_MOD
+        _DATA20_HEAP_SIZE                 0050
+        _DATA16_HEAP_SIZE                 0080
+        _STACK_SIZE                       0400
+        ?CPU30_OFFSET                     0002
+ad7414 ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\ad7414.r43 )
+        _A_PAIN_L                         0200
+        _A_PAOUT_L                        0202
+        _A_PADIR_L                        0204
+        _A_PASEL_L                        020A
+        PAIN                              0200
+        PAIN_H                            0201
+        PAIN_L                            0200
+        PAOUT                             0202
+        PAOUT_H                           0203
+        PAOUT_L                           0202
+        PADIR                             0204
+        PADIR_H                           0205
+        PADIR_L                           0204
+        PASEL                             020A
+        PASEL_H                           020B
+        PASEL_L                           020A
+adc12 ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\adc12.r43 )
+        _A_ADC12CTL0_L                    0700
+        _A_ADC12CTL1_L                    0702
+        ADC12MCTL0                        0710
+        _A_PCSEL_L                        024A
+        _A_REFCTL0_L                      01B0
+        ADC12CTL0                         0700
+        ADC12CTL0_H                       0701
+        ADC12CTL0_L                       0700
+        ADC12CTL1                         0702
+        ADC12CTL1_H                       0703
+        ADC12CTL1_L                       0702
+        PCSEL                             024A
+        PCSEL_H                           024B
+        PCSEL_L                           024A
+        REFCTL0                           01B0
+        REFCTL0_H                         01B1
+        REFCTL0_L                         01B0
+check ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\check.r43 )
+eeprom ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\eeprom.r43 )
+        _A_PBIN_L                         0220
+        _A_PBOUT_L                        0222
+        _A_PBDIR_L                        0224
+        _A_PBSEL_L                        022A
+        PAOUT                             0202
+        PAOUT_H                           0203
+        PAOUT_L                           0202
+        PADIR                             0204
+        PADIR_H                           0205
+        PADIR_L                           0204
+        PASEL                             020A
+        PASEL_H                           020B
+        PASEL_L                           020A
+        PBIN                              0220
+        PBIN_H                            0221
+        PBIN_L                            0220
+        PBOUT                             0222
+        PBOUT_H                           0223
+        PBOUT_L                           0222
+        PBDIR                             0224
+        PBDIR_H                           0225
+        PBDIR_L                           0224
+        PBSEL                             022A
+        PBSEL_H                           022B
+        PBSEL_L                           022A
+fft ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\fft.r43 )
+GPIO ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\GPIO.r43 )
+        _A_PCOUT_L                        0242
+        _A_PCDIR_L                        0244
+        _A_PDOUT_L                        0262
+        _A_PDDIR_L                        0264
+        _A_PEOUT_L                        0282
+        _A_PEDIR_L                        0284
+        _A_PFOUT_L                        02A2
+        _A_PFDIR_L                        02A4
+        GPIO_Init                         780A
+        Ext_Wdog_Feed                     83A0
+        PAOUT                             0202
+        PAOUT_H                           0203
+        PAOUT_L                           0202
+        PADIR                             0204
+        PADIR_H                           0205
+        PADIR_L                           0204
+        PBOUT                             0222
+        PBOUT_H                           0223
+        PBOUT_L                           0222
+        PBDIR                             0224
+        PBDIR_H                           0225
+        PBDIR_L                           0224
+        PCOUT                             0242
+        PCOUT_H                           0243
+        PCOUT_L                           0242
+        PCDIR                             0244
+        PCDIR_H                           0245
+        PCDIR_L                           0244
+        PDOUT                             0262
+        PDOUT_H                           0263
+        PDOUT_L                           0262
+        PDDIR                             0264
+        PDDIR_H                           0265
+        PDDIR_L                           0264
+        PEOUT                             0282
+        PEOUT_H                           0283
+        PEOUT_L                           0282
+        PEDIR                             0284
+        PEDIR_H                           0285
+        PEDIR_L                           0284
+        PFOUT                             02A2
+        PFOUT_H                           02A3
+        PFOUT_L                           02A2
+        PFDIR                             02A4
+        PFDIR_H                           02A5
+        PFDIR_L                           02A4
+main ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\main.r43 )
+        _A_ADC12IFG_L                     070A
+        _A_ADC12MEM0_L                    0720
+        Flag_Timer1A0                     1C2E
+        cnt                               1C4C
+        main                              7DCA
+        TIMER1_A0_ISR                     633C
+        Process                           80D6
+        OLED_Display                      7E12
+        TIMER1_A0_ISR::??INTVEC 98        FFE2
+        ADC12CTL0                         0700
+        ADC12CTL0_H                       0701
+        ADC12CTL0_L                       0700
+        ADC12IFG                          070A
+        ADC12IFG_H                        070B
+        ADC12IFG_L                        070A
+        ADC12MEM0                         0720
+        ADC12MEM0_H                       0721
+        ADC12MEM0_L                       0720
+        PFOUT                             02A2
+        PFOUT_H                           02A3
+        PFOUT_L                           02A2
+oled ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\oled.r43 )
+        F8X16                             5CCF
+        OLED_WR_Byte                      7F64
+        OLED_Set_Pos                      8018
+        OLED_Clear                        7F22
+        OLED_ShowChar                     7C76
+        oled_pow                          8128
+        OLED_ShowNum                      79FA
+        OLED_ShowString                   807A
+        OLED_Init                         743E
+        PDOUT                             0262
+        PDOUT_H                           0263
+        PDOUT_L                           0262
+sysclk ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\sysclk.r43 )
+        _A_SFRIFG1_L                      0102
+        _A_UCSCTL3_L                      0166
+        _A_UCSCTL4_L                      0168
+        _A_UCSCTL5_L                      016A
+        _A_UCSCTL6_L                      016C
+        _A_UCSCTL7_L                      016E
+        SystemClock                       80AA
+        PCSEL                             024A
+        PCSEL_H                           024B
+        PCSEL_L                           024A
+        SFRIFG1                           0102
+        SFRIFG1_H                         0103
+        SFRIFG1_L                         0102
+        UCSCTL3                           0166
+        UCSCTL3_H                         0167
+        UCSCTL3_L                         0166
+        UCSCTL4                           0168
+        UCSCTL4_H                         0169
+        UCSCTL4_L                         0168
+        UCSCTL5                           016A
+        UCSCTL5_H                         016B
+        UCSCTL5_L                         016A
+        UCSCTL6                           016C
+        UCSCTL6_H                         016D
+        UCSCTL6_L                         016C
+        UCSCTL7                           016E
+        UCSCTL7_H                         016F
+        UCSCTL7_L                         016E
+timer ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\timer.r43 )
+        TA1CTL                            0380
+        TA1CCTL0                          0382
+        TA1CCR0                           0392
+        TA1EX0                            03A0
+        TB0CTL                            03C0
+        TB0CCTL0                          03C2
+        TB0CCR0                           03D2
+        TB0EX0                            03E0
+        Init_TimerA                       8244
+uart ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\uart.r43 )
+        _A_UCA0CTLW0_L                    05C0
+        _A_UCA0BRW_L                      05C6
+        UCA0MCTL                          05C8
+        UCA0RXBUF                         05CC
+        UCA0TXBUF                         05CE
+        _A_UCA0ICTL_L                     05DC
+        UsartInit                         8100
+        putchar                           83C8
+        PBSEL                             022A
+        PBSEL_H                           022B
+        PBSEL_L                           022A
+        UCA0CTLW0                         05C0
+        UCA0CTLW0_H                       05C1
+        UCA0CTLW0_L                       05C0
+        UCA0BRW                           05C6
+        UCA0BRW_H                         05C7
+        UCA0BRW_L                         05C6
+        UCA0ICTL                          05DC
+        UCA0ICTL_H                        05DD
+        UCA0ICTL_L                        05DC
+wdog ( E:\IAR_WORKSPACE\430\F5438A_MINI_V10A_MSP430-SV10_160711_D\USER\Debug\Obj\wdog.r43 )
+        _A_WDTCTL_L                       015C
+        WDOG_Init                         814C
+        PBOUT                             0222
+        PBOUT_H                           0223
+        PBOUT_L                           0222
+        PBDIR                             0224
+        PBDIR_H                           0225
+        PBDIR_L                           0224
+        WDTCTL                            015C
+        WDTCTL_H                          015D
+        WDTCTL_L                          015C
+?abort ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?__dbg_break ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __DebugBreak                      83FC
+?remove ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?__close ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?__dwrite ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?__exit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __exit                            8278
+?__write ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?_exit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _exit                             83F0
+?cos ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?cppinit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?cstart ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __program_start                   6314
+        ?cstart_begin                     6314
+        ?cstart_init_zero                 6318
+        ?cstart_init_copy                 6324
+        ?cstart_call_main                 6334
+        ?cstart_end                       633C
+lowinit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?reset_vector ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?reset_vector                     FFFE
+?div64i ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Div64u                           78BA
+        _Mod64u                           7B1E
+?div ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        div                               822A
+?errno ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?exit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        exit                              83F8
+?fclose ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?fflush ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?fmod ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?Cast32f32i ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Cast32sto32f                     795C
+        _Cast32uto32f                     7972
+_Cast32fto32u ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Cast32fto32u                     83BC
+_Cast32fto32s ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?FLT_Extract ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?FLT_Extract                      7D2C
+?FLT_EQ ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?FLT_GE ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?FLT_LT ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?FLT_LT                           7CD6
+_CmpEq32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+_CmpNe32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+_CmpGe32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+_CmpLt32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _CmpLt32f                         83DE
+_Div32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Div32f                           758E
+_Add32f ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Add32f                           72D0
+        _Sub32f                           72CC
+?isdigit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?Mul32fHwLoc2 ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?Mul32fHwLoc2                     76CE
+?Mul32Hw32Loc2 ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?Mul32Hw32Loc2                    8170
+?localeconv ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Locale_lconv                     1C00
+        __iar_Tls_setup__Locale_lconv     1C30
+        localeconv                        82D0
+?log ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?malloc ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?DivMod816u ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?DivMod8u                         820E
+        ?DivMod16u                        8212
+?DivMod816s ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?DivMod8s                         7FE0
+        ?DivMod16s                        7FE4
+?DivMod32u ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?DivMod32u                        7E58
+?DivMod32s ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        ?DivMod32s                        7E9C
+?ShiftLeft32 ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?memchr ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __iar_Memchr                      82A8
+?memcpy ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        memcpy                            834E
+?memmove ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?CopyMemoryWords ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?memzero ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __data16_memzero                  8306
+        __data16_memcpy                   83F4
+?MpuInit ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?pow ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?printf ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        printf                            81B2
+?setjmp ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?longjmp ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?setlocale ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Locale_Profile                   1C34
+        __iar_Tls_setup__Locale_Profile   1C42
+        _LocaleEncoding                   83D4
+?sin ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?sqrt ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?strcat ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?strchr ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __iar_Strchr                      8372
+?strcmp ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?strcpy ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?strlen ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        strlen                            82BE
+?strncmp ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?strpbrk ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xcloseall ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xdint ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xdscale ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xdtest ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xdunscal ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __iar_Dunscale                    7D80
+?xencoding_sb ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _EncodingSb_Wctomb                8192
+        _EncodingSb_Mbtowc                7FA6
+?xexp ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xfiles ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xfofind ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xgetmemchunk ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __data16_GetMemChunk              81D2
+?xgetptime ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xlocale_c ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xlog ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xmbcurmax ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __iar_Mbcurmax                    83E8
+?xmbtowc ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Mbtowc                           81F0
+?xprintflarge ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _PrintfLarge                      646C
+        pad                               63A6
+        LoadInt                           63D8
+        _PutstrLarge                      6F28
+        _LitobLarge                       7118
+        scale                             7EE0
+        _LdtobLarge                       6CD4
+        _GenldLarge                       6A56
+        _PutcharsLarge                    804A
+?xprout ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Prout                            8290
+?xquad ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xsin ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+?xwctomb ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        _Wctomb                           825E
+?xxmemxfree ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __data16_free                     7A96
+?xxmemxmalloc ( D:\IAR for 430\430\lib\dlib\dl430xlmff.r43 )
+        __data16_Aldata                   1C48
+        __data16_malloc                   7BA4
+        __data16_findmem                  7C12
+
+
+                ****************************************
+                *                                      *
+                *      SEGMENTS IN ADDRESS ORDER       *
+                *                                      *
+                ****************************************
+
+
+SEGMENT              SPACE    START ADDRESS   END ADDRESS     SIZE  TYPE  ALIGN
+=======              =====    =============   ===========     ====  ====  =====
+DATA16_AN                              0102 - 0103               2   rel    0
+                                       015C - 015D               2 
+                                       0166 - 016F               A 
+                                       01B0 - 01B1               2 
+                                       0200 - 0205               6 
+                                       020A - 020B               2 
+                                       0220 - 0225               6 
+                                       022A - 022B               2 
+                                       0242 - 0245               4 
+                                       024A - 024B               2 
+                                       0262 - 0265               4 
+                                       0282 - 0285               4 
+                                       02A2 - 02A5               4 
+                                       0380 - 0383               4 
+                                       0392 - 0393               2 
+                                       03A0 - 03A1               2 
+                                       03C0 - 03C3               4 
+                                       03D2 - 03D3               2 
+                                       03E0 - 03E1               2 
+                                       05C0 - 05C1               2 
+                                       05C6 - 05C8               3 
+                                       05CC - 05CC               1 
+                                       05CE - 05CE               1 
+                                       05DC - 05DD               2 
+                                       0700 - 0703               4 
+                                       070A - 070B               2 
+                                       0710 - 0710               1 
+                                       0720 - 0721               2 
+DATA16_I                               1C00 - 1C2D              2E   rel    1
+DATA16_Z                               1C2E - 1C4C              1F   rel    1
+DATA16_HEAP                            1C4E - 1CCD              80   rel    1
+CSTACK                                 5800 - 5BFF             400   rel    1
+DATA16_C                               5C00 - 62E5             6E6   rel    0
+DATA16_ID                              62E6 - 6313              2E   rel    1
+CSTART                                 6314 - 633B              28   rel    1
+ISR_CODE                               633C - 6359              1E   rel    1
+<CODE> 1                               635A - 83FD            20A4   rel    1
+INTVEC                                 FF80 - FFE3              64   com    1
+RESET                                  FFFE - FFFF               2   rel    1
+
+                ****************************************
+                *                                      *
+                *        END OF CROSS REFERENCE        *
+                *                                      *
+                ****************************************
+
+ 8 528 bytes of CODE  memory
+ 1 229 bytes of DATA  memory (+ 84 absolute )
+ 1 812 bytes of CONST memory
+
+Errors: none
+Warnings: none
+

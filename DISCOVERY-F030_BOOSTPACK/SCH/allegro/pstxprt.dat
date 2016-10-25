@@ -1,0 +1,1830 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-24-2015 at 19:59:44 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DISCOVERY-F030_BOOSTPACK';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ ANT1 'AN9520-245_AN9520-245_AN9520-24':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10961923@XXXLZJXXX.AN9520-245.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10961923@xxxlzjxxx.\an9520-245.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10961923@xxxlzjxxx.\an9520-245.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BAT1 'BATTERY_POWER2A_BATTERY':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575075@XXXLZJXXX.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575075@xxxlzjxxx.\battery.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575075@xxxlzjxxx.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BAT2 'BATTERY_BAT-XH414HG_XH414':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963306@XXXLZJXXX.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963306@xxxlzjxxx.\battery.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963306@xxxlzjxxx.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542175@ALEX_GENERAL_LIB.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8542175@alex_general_lib.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8542175@alex_general_lib.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_C0603_0.22UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546681@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546681@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546681@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543219@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8543219@discrete.\cap np.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8543219@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545124@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545124@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545124@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_C0603_12PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545012@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545012@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545012@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR NON-POL_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643973@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643973@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643973@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR NON-POL_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643957@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643957@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643957@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545569@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545569@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545569@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8648545@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8648545@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8648545@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8648586@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8648586@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8648586@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_C0603_22UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8650489@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8650489@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8650489@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643805@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643805@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643805@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8656245@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8656245@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8656245@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8656229@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8656229@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8656229@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_C0603_22UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8651659@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8651659@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8651659@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_C0603_22UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8651701@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8651701@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8651701@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574809@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574809@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574809@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574889@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574889@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574889@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575967@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575967@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575967@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575673@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575673@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575673@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575793@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575793@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575793@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575817@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575817@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575817@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542191@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8542191@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8542191@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575007@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575007@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575007@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575653@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575653@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575653@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575757@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575757@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575757@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575773@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575773@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575773@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575099@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575099@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575099@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_C0603_4.7PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962337@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962337@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962337@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963760@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963760@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963760@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_CC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10937526@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10937526@discrete.\cap np.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10937526@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546043@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546043@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546043@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_C0603_8.2PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963524@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963524@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963524@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_C0603_470PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963632@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963632@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963632@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_CC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10937742@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10937742@discrete.\cap np.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10937742@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_CC0603_12PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10942296@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10942296@discrete.\cap np.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10942296@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_CC0603_12PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10942352@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10942352@discrete.\cap np.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10942352@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10945292@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10945292@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10945292@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10946023@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10946023@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10946023@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10955984@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10955984@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10955984@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10956066@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10956066@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10956066@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10956144@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10956144@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10956144@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643781@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643781@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643781@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10956224@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10956224@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10956224@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'C_GENERIC_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10959922@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10959922@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10959922@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962141@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962141@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962141@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962169@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962169@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962169@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962213@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962213@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962213@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP_C0603_2.2NF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962309@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962309@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962309@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP_C0603_1.5PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962381@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962381@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962381@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP_C0603_1PF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962397@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962397@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962397@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963616@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963616@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963616@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542207@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8542207@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8542207@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP1_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541799@ALEX_GENERAL_LIB.CAP1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541799@alex_general_lib.\cap1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541799@alex_general_lib.\cap1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546769@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546769@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546769@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546705@XXXLZJXXX.CAP.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546705@xxxlzjxxx.\cap.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546705@xxxlzjxxx.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'D SCHOTTKY_SOD-123_MBRM0520':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545194@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545194@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545194@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8644069@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8644069@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8644069@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'D SCHOTTKY_SOD-123_MBRM120':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574785@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574785@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574785@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'D SCHOTTKY_SOD-123_MBRM120':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8665489@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8665489@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8665489@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'D SCHOTTKY_SOD-123_MBRM120':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8665619@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8665619@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8665619@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'D SCHOTTKY_SOD-123_MBRM120':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963712@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963712@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963712@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'D SCHOTTKY_SOD-123_MBRM120':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10964130@XXXLZJXXX.D SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10964130@xxxlzjxxx.\d schottky.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10964130@xxxlzjxxx.\d schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_R2512_1.5A':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575195@XXXLZJXXX.FUSE.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575195@xxxlzjxxx.\fuse.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575195@xxxlzjxxx.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IPX1 'IPEX_IPEX3_IPEX':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963474@XXXLZJXXX.IPEX.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963474@xxxlzjxxx.\ipex.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963474@xxxlzjxxx.\ipex.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IPX2 'IPEX_IPEX3_IPEX':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963808@XXXLZJXXX.IPEX.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963808@xxxlzjxxx.\ipex.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963808@xxxlzjxxx.\ipex.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'JUMP_2P_JUMP-2P_JUMP_2P':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575143@XXXLZJXXX.JUMP_2P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575143@xxxlzjxxx.\jump_2p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575143@xxxlzjxxx.\jump_2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP1 'JTAG_0_JTAG_JTAG':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10937390@DISCOVERY-F030_BOOSTPACK.JTAG_0.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10937390@\discovery-f030_boostpack\.\jtag_0.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10937390@\discovery-f030_boostpack\.\jtag_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546095@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546095@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546095@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10961879@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10961879@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10961879@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_L0603_8.2NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962237@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962237@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962237@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_L0603_3.9NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962253@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962253@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962253@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_L0603_2.7NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962277@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962277@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962277@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_L0603_27NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963410@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963410@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963410@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L15 'INDUCTOR_L0603_6.8NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963584@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963584@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963584@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L16 'INDUCTOR_L0603_27NH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963600@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963600@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963600@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'BEAD_L0603_BLM18PG600SH1':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8542139@ALEX_GENERAL_LIB.BEAD.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8542139@alex_general_lib.\bead.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8542139@alex_general_lib.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546949@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546949@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546949@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'BEAD_L0603_BLM18PG600SH1':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541783@ALEX_GENERAL_LIB.BEAD.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541783@alex_general_lib.\bead.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541783@alex_general_lib.\bead.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545689@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545689@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545689@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_L4532-P_4.7UH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575493@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575493@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575493@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_L4532-P_4.7UH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575513@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575513@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575513@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10945820@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10945820@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10945820@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10945853@XXXLZJXXX.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10945853@xxxlzjxxx.\inductor.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10945853@xxxlzjxxx.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_LED0805_LED-RED':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575219@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575219@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575219@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED10 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10977189@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10977189@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10977189@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED5 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963850@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963850@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963850@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED6 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10976881@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10976881@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10976881@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED7 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10976984@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10976984@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10976984@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED8 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10977038@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10977038@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10977038@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED9 'LED_LED0805_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10977173@XXXLZJXXX.LED.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10977173@xxxlzjxxx.\led.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10977173@xxxlzjxxx.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD300D180_HOLD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10933437@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10933437@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins10933437@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD300D180_HOLD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10933481@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10933481@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins10933481@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD300D180_HOLD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10933423@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10933423@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins10933423@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD300D180_HOLD':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10933463@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10933463@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins10933463@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545999@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545999@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545999@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RC0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8644113@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8644113@discrete.\r.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8644113@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RC0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8644129@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8644129@discrete.\r.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8644129@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543486@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8543486@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8543486@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543502@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8543502@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8543502@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543558@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8543558@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8543558@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_RC0603_470R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8644053@MYLIB.RES.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8644053@mylib.\res.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8644053@mylib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES1_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545064@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545064@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545064@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES1_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545080@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545080@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545080@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RC0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8659392@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8659392@discrete.\r.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8659392@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RC0603_0R/NC':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8659408@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8659408@discrete.\r.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8659408@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546019@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546019@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546019@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RES1_R0603_10K/NC':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8652362@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8652362@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8652362@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RES1_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8652414@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8652414@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8652414@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RES1_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8655667@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8655667@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8655667@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RES1_R0603_390K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8651035@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8651035@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8651035@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RES1_R0603_1M':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575601@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575601@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575601@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RES1_R0603_3.32K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574829@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574829@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574829@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RES1_R0603_1.24K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575243@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575243@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575243@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RES1_R0603_1.24K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574909@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574909@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574909@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RES1_R0603_249K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575529@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575529@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575529@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RES1_R0603_1.24K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575039@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575039@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575039@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541975@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541975@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541975@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RES1_R0603_2.49M':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575305@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575305@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575305@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RES1_R0603_249K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575561@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575561@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575561@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RES1_R0603_80.6K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575545@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575545@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575545@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RES1_R0603_806K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574649@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574649@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574649@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RES1_R0603_80.6K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575585@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575585@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575585@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RES1_R0603_200K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8576099@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8576099@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8576099@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RES1_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8576123@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8576123@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8576123@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RES1_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10943513@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10943513@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10943513@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RES1_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10943642@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10943642@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10943642@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541991@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541991@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541991@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10960192@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10960192@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10960192@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RES1_R0603_22K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962031@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962031@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962031@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RES1_R0603_10R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963426@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963426@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963426@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963834@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963834@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963834@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RES1_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10967867@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10967867@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10967867@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RES1_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10967993@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10967993@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10967993@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RES1_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10968019@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10968019@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10968019@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10976865@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10976865@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10976865@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10978003@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10978003@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10978003@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10978031@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10978031@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10978031@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RC0603_20K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643749@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643749@discrete.\r.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643749@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10978059@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10978059@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10978059@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RES1_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10978087@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10978087@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10978087@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546853@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546853@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546853@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES1_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546869@XXXLZJXXX.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546869@xxxlzjxxx.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546869@xxxlzjxxx.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541865@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541865@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541865@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES1_RC0603_47K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541889@ALEX_GENERAL_LIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541889@alex_general_lib.\res1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541889@alex_general_lib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_SW-4P-5R4X4R5_BA':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547378@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8547378@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins8547378@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH-SPST-4P_SW-4P-5R4X4R5_EN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547398@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8547398@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins8547398@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH-SPST-4P_SW-4P-5R4X4R5_ME':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8547418@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8547418@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins8547418@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SWITCH-SPST-4P_SW-4P-5R4X4R5_SW':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575621@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575621@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575621@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SWITCH-SPST-2P_KEY_SMD_2_SWITCH':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10968612@XXXLZJXXX.SWITCH-SPST-2P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10968612@xxxlzjxxx.\switch-spst-2p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10968612@xxxlzjxxx.\switch-spst-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TEST P_TP-0R75_TEST P':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575915@XXXLZJXXX.TEST P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575915@xxxlzjxxx.\test p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575915@xxxlzjxxx.\test p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TEST P_TP-0R75_TEST P':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8575933@XXXLZJXXX.TEST P.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8575933@xxxlzjxxx.\test p.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8575933@xxxlzjxxx.\test p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10955582@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10955582@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10955582@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10955614@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10955614@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10955614@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TESTPOINT_TP-0R75_TESTPOINT':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10955638@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10955638@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10955638@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DISCOVERY-F030_0_DISCOVERY-F030':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8576483@DISCOVERY-F030_BOOSTPACK.DISCOVERY-F030_0.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8576483@\discovery-f030_boostpack\.\discovery-f030_0.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins8576483@\discovery-f030_boostpack\.\discovery-f030_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'W25QXX_SO-8-300_W25QXX':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545661@XXXLZJXXX.W25QXX.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545661@xxxlzjxxx.\w25qxx.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545661@xxxlzjxxx.\w25qxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'OLED_1_OLED_0R96_OLED_0R96':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8645235@DISCOVERY-F030_BOOSTPACK.OLED_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8645235@\discovery-f030_boostpack\.\oled_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8645235@\discovery-f030_boostpack\.\oled_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'ESP8266PACK_ESP8266PACK_ESP8266':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8655936@XXXLZJXXX.ESP8266PACK.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8655936@xxxlzjxxx.\esp8266pack.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8655936@xxxlzjxxx.\esp8266pack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'LTC3455_QFN-24_LTC3455':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574685@XXXLZJXXX.LTC3455.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574685@xxxlzjxxx.\ltc3455.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574685@xxxlzjxxx.\ltc3455.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'MSP430F5438A_0_LQFP100_MSP430F5':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10937062@DISCOVERY-F030_BOOSTPACK.MSP430F5438A_0.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10937062@\discovery-f030_boostpack\.\msp430f5438a_0.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10937062@\discovery-f030_boostpack\.\msp430f5438a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'DISCOVERY-F030_0_DISCOVERY-F030':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10946288@DISCOVERY-F030_BOOSTPACK.DISCOVERY-F030_0.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10946288@\discovery-f030_boostpack\.\discovery-f030_0.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10946288@\discovery-f030_boostpack\.\discovery-f030_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'SP706T_SOIC8_SP706REN':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10959946@MYLIB.SP706T.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10959946@mylib.\sp706t.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10959946@mylib.\sp706t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'NRF24L01_TQFN-4X4-20_NRF24L01':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962425@XXXLZJXXX.NRF24L01.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962425@xxxlzjxxx.\nrf24l01.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962425@xxxlzjxxx.\nrf24l01.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'NEO-6M_NEO-6M_NEO-6M':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963326@XXXLZJXXX.NEO-6M.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963326@xxxlzjxxx.\neo-6m.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963326@xxxlzjxxx.\neo-6m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'MAX2659_DFN-6_MAX2659':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10963386@XXXLZJXXX.MAX2659.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10963386@xxxlzjxxx.\max2659.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10963386@xxxlzjxxx.\max2659.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'BMP180_BMP180_BMP180':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545957@XXXLZJXXX.BMP180.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545957@xxxlzjxxx.\bmp180.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545957@xxxlzjxxx.\bmp180.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ADXL345_1_LGA-14_ADXL345':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541935@F543_WIND_V30A.ADXL345_1.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541935@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541935@f543_wind_v30a.\adxl345_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 '900HP_2_900HP_900HP':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643677@BTRF_V10A.900HP_2.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643677@btrf_v10a.\900hp_2.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643677@btrf_v10a.\900hp_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'AD7414ARTZ-OREEL7_SOT23-6_AD741':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8541759@XXXLZJXXX.AD7414ARTZ-OREEL7.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8541759@xxxlzjxxx.\ad7414artz-oreel7.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8541759@xxxlzjxxx.\ad7414artz-oreel7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'HMC5883_TQFN-3X3-16_HMC5883L':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8546905@XXXLZJXXX.HMC5883.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8546905@xxxlzjxxx.\hmc5883.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8546905@xxxlzjxxx.\hmc5883.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'HC-06_HC-06_HC-06':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8643853@XXXLZJXXX.HC-06.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8643853@xxxlzjxxx.\hc-06.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8643853@xxxlzjxxx.\hc-06.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'AT24C512_SOIC8_AT24C512':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8543111@XXXLZJXXX.AT24C512.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8543111@xxxlzjxxx.\at24c512.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8543111@xxxlzjxxx.\at24c512.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'PCF8563_SOIC8_PCF8563':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8545262@XXXLZJXXX.PCF8563.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8545262@xxxlzjxxx.\pcf8563.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8545262@xxxlzjxxx.\pcf8563.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB-MINI_USB-MICRO_USB-MICRO':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8574747@XXXLZJXXX.USB-MINI.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8574747@xxxlzjxxx.\usb-mini.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page3_ins8574747@xxxlzjxxx.\usb-mini.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_X-2P-3R2X1R5-SMD_32.768K':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS8544984@XXXLZJXXX.XTAL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins8544984@xxxlzjxxx.\xtal.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page2_ins8544984@xxxlzjxxx.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'XTAL_X-2P-5R0X3R2-SMD_12MHZ':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10941873@XXXLZJXXX.XTAL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10941873@xxxlzjxxx.\xtal.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10941873@xxxlzjxxx.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 'XTAL_X-2P-3R2X1R5-SMD_32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10942318@XXXLZJXXX.XTAL.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10942318@xxxlzjxxx.\xtal.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10942318@xxxlzjxxx.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X4 'CSTCE-8M00_X-3P-3R2X1R3-SMD_CST':;
+
+SECTION_NUMBER 1
+ '@DISCOVERY-F030_BOOSTPACK.SCHEMATIC1(SCH_1):INS10962091@XXXLZJXXX.CSTCE-8M00.NORMAL(CHIPS)':
+ C_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):ins10962091@xxxlzjxxx.\cstce-8m00.normal\(chips)',
+ P_PATH='@\discovery-f030_boostpack\.schematic1(sch_1):page1_ins10962091@xxxlzjxxx.\cstce-8m00.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

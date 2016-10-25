@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>918978540</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\SYSTEM\USART\uart.c</file>
+      <file>$PROJ_DIR$\..\HARDWARE\AD7414\ad7414.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\AT24C512\eeprom.c</file>
+      <file>$PROJ_DIR$\..\HARDWARE\AD7414\ad7414.c</file>
+      <file>$PROJ_DIR$\..\HARDWARE\AT24C512\eeprom.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\TIMER\timer.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\USART\uart.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\SYSCLK\sysclk.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\SYSCLK\sysclk.c</file>
+      <file>$PROJ_DIR$\..\HARDWARE\OLED\oled.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\WDOG\wdog.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\OLED\oledfont.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\ADC12\adc12.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\FFT\fft.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\CHECK\check.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\FFT\fft.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\WDOG\wdog.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\GPIO\GPIO.h</file>
+      <file>$PROJ_DIR$\..\SYSTEM\TIMER\timer.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\DELAY\delay.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\OLED\oled.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\GPIO\GPIO.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\CHECK\check.c</file>
+      <file>$PROJ_DIR$\..\SYSTEM\ADC12\adc12.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdog.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup.r43</file>
+      <file>$PROJ_DIR$\Debug\List\F5438A_MINI_V10A_MSP430-SV10_160711_D.map</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier32_loc2.xcl</file>
+      <file>$PROJ_DIR$\uart.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\check.pbi</file>
+      <file>$PROJ_DIR$\LTC1865L.c</file>
+      <file>$PROJ_DIR$\check.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\check.r43</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\GPIO.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\delay.c</file>
+      <file>$PROJ_DIR$\..\HARDWARE\LTC1865L\LTC1865L.h</file>
+      <file>$PROJ_DIR$\ad7414.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\fft.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\&#x5B66;&#x4e60;\&#x5F00;&#x53D1;&#x677F;&#x8D44;&#x6599;\MSP430F149&#x76F8;&#x5173;&#x53C2;&#x8003;&#x4F8B;&#x7A0B;\F5438A_BreezeVibrate_FFT_002\common\check\check.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\F5438A_MINI_V10A_MSP430-SV10_160711_D.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.r43</file>
+      <file>$PROJ_DIR$\LTC1865L.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\fft.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\F5438A_MINI_V10A_MSP430-SV10_160711_D.pbd</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\wdog.pbi</file>
+      <file>$PROJ_DIR$\fft.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlmff.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\irq.r43</file>
+      <file>$PROJ_DIR$\adc12.c</file>
+      <file>$PROJ_DIR$\sysclk.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.pbi</file>
+      <file>$PROJ_DIR$\GPIO.h</file>
+      <file>$PROJ_DIR$\ad7414.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LTC1865L.pbi</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430f5438a.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\includes.h</file>
+      <file>$PROJ_DIR$\check.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LTC1865L.r43</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\adc12.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\F5438A_ANGE_debug.d43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xllff.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\F5438A_BOOSTPACK_debug.d43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5438a.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\F5438A_MINI_V10A_MSP430-SV10_160711_D.ulp</file>
+      <file>$PROJ_DIR$\wdog.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ad7414.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlmff.h</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\sysclk.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.r43</file>
+      <file>$PROJ_DIR$\..\..\..\&#x5B66;&#x4e60;\&#x5F00;&#x53D1;&#x677F;&#x8D44;&#x6599;\MSP430F149&#x76F8;&#x5173;&#x53C2;&#x8003;&#x4F8B;&#x7A0B;\F5438A_BreezeVibrate_FFT_002\common\check\&lt;invalid loc&gt;</file>
+      <file>$PROJ_DIR$\timer.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\delay.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\eeprom.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\fft.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\cstartup.s43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sysclk.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc12.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\F5438A_BreezeVibrate_FFT_001.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ad7414.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\oled.r43</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sysclk.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc12.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\HARDWARE\LTC1865L\LTC1865L.c</file>
+      <file>$PROJ_DIR$\wdog.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\irq.pbi</file>
+      <file>$PROJ_DIR$\..\SYSTEM\TIMER\irq.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\oled.pbi</file>
+      <file>$PROJ_DIR$\irq.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\USART\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 46 28</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\HARDWARE\AT24C512\eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\HARDWARE\AD7414\ad7414.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\SYSCLK\sysclk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\FFT\fft.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\HARDWARE\WDOG\wdog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\TIMER\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\HARDWARE\OLED\oled.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 102</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\GPIO\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\CHECK\check.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\ADC12\adc12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LTC1865L.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\check.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ad7414.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\&#x5B66;&#x4e60;\&#x5F00;&#x53D1;&#x677F;&#x8D44;&#x6599;\MSP430F149&#x76F8;&#x5173;&#x53C2;&#x8003;&#x4F8B;&#x7A0B;\F5438A_BreezeVibrate_FFT_002\common\check\check.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\F5438A_MINI_V10A_MSP430-SV10_160711_D.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 29 101 98 35 86 49 47 26 102 104 99 81 25 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\fft.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\adc12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sysclk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\F5438A_ANGE_debug.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 29 101 98 35 86 49 47 70 26 104 99 81 25 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\F5438A_BOOSTPACK_debug.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 29 101 98 35 86 49 47 70 26 102 104 99 25 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wdog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 83 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup.s43</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\F5438A_BreezeVibrate_FFT_001.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 62 29 101 98 35 27 86 49 47 70 26 104 99 81 25 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\HARDWARE\LTC1865L\LTC1865L.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 77 94 36 34 65 63 67 75 83 93 111 40 64 66 78 106 91 10 17 7 15 5 6 12 14 19 42 1 4 9 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\SYSTEM\TIMER\irq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\irq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 34 65 63 67 75 74 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 68 34 65 63 67 75 74 93 111 40 64 66 78 106 108 77 94 36 91 59 85 48 92 84 51 72 69 103 60</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\uart.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\LTC1865L.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\check.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\GPIO.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\ad7414.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\fft.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\adc12.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\sysclk.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\wdog.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\timer.c</name>
+      <tool>ICC430</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\uart.c</file>
+      <file>$PROJ_DIR$\LTC1865L.c</file>
+      <file>$PROJ_DIR$\check.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\GPIO.c</file>
+      <file>$PROJ_DIR$\ad7414.c</file>
+      <file>$PROJ_DIR$\LTC1865L.h</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$PROJ_DIR$\fft.c</file>
+      <file>$PROJ_DIR$\adc12.c</file>
+      <file>$PROJ_DIR$\Release\Obj\fft.pbi</file>
+      <file>$PROJ_DIR$\sysclk.c</file>
+      <file>$PROJ_DIR$\GPIO.h</file>
+      <file>$PROJ_DIR$\ad7414.h</file>
+      <file>$PROJ_DIR$\includes.h</file>
+      <file>$PROJ_DIR$\check.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\adc12.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5438a.h</file>
+      <file>$PROJ_DIR$\wdog.c</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\sysclk.h</file>
+      <file>$PROJ_DIR$\timer.c</file>
+      <file>$PROJ_DIR$\fft.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\cstartup.s43</file>
+      <file>$PROJ_DIR$\delay.h</file>
+      <file>$PROJ_DIR$\wdog.h</file>
+      <file>$PROJ_DIR$\Release\Obj\adc12.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\fft.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\wdog.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f149.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\Release\Obj\main.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\sysclk.pbi</file>
+      <file>$PROJ_DIR$\macros.m43</file>
+      <file>$PROJ_DIR$\Release\Obj\sysclk.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\adc12.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\check.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\wdog.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\ad7414.pbi</file>
+      <file>$PROJ_DIR$\release\Exe\F5438A_BreezeVibrate_FFT_001.txt</file>
+      <file>$PROJ_DIR$\Release\Obj\timer.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\uart.r43</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\cfi.m43</file>
+      <file>$PROJ_DIR$\Release\Obj\ad7414.r43</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+      <file>$PROJ_DIR$\Release\Obj\LTC1865L.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+      <file>$PROJ_DIR$\Release\Obj\check.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\GPIO.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\LTC1865L.r43</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\cstartup.r43</file>
+      <file>$PROJ_DIR$\Release\Exe\F5438A_BreezeVibrate_FFT_001.ulp</file>
+      <file>$PROJ_DIR$\Release\Obj\GPIO.r43</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LTC1865L.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\check.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ad7414.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\fft.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\adc12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sysclk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wdog.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 14 50 49 60 32 27 18 24 3 46 12 21 6 23 20 7 17 15 26 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup.s43</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>A430</name>
+          <file> 35 47 52 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,300 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-31-2016 at 15:58:42 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RS485_V10A';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS13113843@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins13113843@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins13113843@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631628@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631628@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16633826@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16633826@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16633826@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16633858@MK60_YTAI_V41A.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16633858@mk60_ytai_v41a.\cap np_0.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16633858@mk60_ytai_v41a.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS13113895@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins13113895@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins13113895@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS13113764@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins13113764@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins13113764@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS13113788@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins13113788@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins13113788@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_GREEN_RX':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS12463006@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins12463006@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins12463006@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_RED_TX':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS12462964@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins12462964@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins12462964@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'P6SMB_1_DO-214AA_P6SMB8.2CA-E3/':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631548@MK60_SUID_V10A.P6SMB_1.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631548@mk60_suid_v10a.\p6smb_1.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631548@mk60_suid_v10a.\p6smb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'P6SMB_1_DO-214AA_P6SMB8.2CA-E3/':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631736@MK60_SUID_V10A.P6SMB_1.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631736@mk60_suid_v10a.\p6smb_1.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631736@mk60_suid_v10a.\p6smb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'P6SMB_2_DO-214AA_P6SMB8.2CA-E3/':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631752@MK60_SUID_V10A.P6SMB_2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631752@mk60_suid_v10a.\p6smb_2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631752@mk60_suid_v10a.\p6smb_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN RCPT 4_HEADER4X1_2R54_HEAD':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16387320@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16387320@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16387320@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'WJ2EDGRC-5.08-4P_WJ2EDGRC-5R08-':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631840@I283_SDM1_V11A.WJ2EDGRC-5.08-4P.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631840@i283_sdm1_v11a.\wj2edgrc-5.08-4p.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631840@i283_sdm1_v11a.\wj2edgrc-5.08-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16633804@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16633804@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16633804@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16386744@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16386744@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16386744@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631668@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631668@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631668@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_RC0603_120R/NI':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631704@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631704@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631704@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631652@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631652@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631652@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_RC0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16632805@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16632805@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16632805@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16632831@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16632831@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16632831@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16633600@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16633600@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16633600@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16386854@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16386854@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16386854@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_RC0603_1K':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16386782@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16386782@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16386782@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16386905@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16386905@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16386905@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CP2102_QFN-28_CP2102':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS12463502@XXXLZJXXX.CP2102.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins12463502@xxxlzjxxx.\cp2102.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins12463502@xxxlzjxxx.\cp2102.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS13113721@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins13113721@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins13113721@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'MAX3485ESA_SOIC8_MAX3485ESA':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS16631582@LIBRARY1.MAX3485ESA.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins16631582@library1.\max3485esa.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins16631582@library1.\max3485esa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB-MICRO_USB-MICRO_USB-MICRO_U':;
+
+SECTION_NUMBER 1
+ '@RS485_V10A.SCHEMATIC1(SCH_1):INS12463026@XXXLZJXXX.USB-MICRO.NORMAL(CHIPS)':
+ C_PATH='@rs485_v10a.schematic1(sch_1):ins12463026@xxxlzjxxx.\usb-micro.normal\(chips)',
+ P_PATH='@rs485_v10a.schematic1(sch_1):page1_ins12463026@xxxlzjxxx.\usb-micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
