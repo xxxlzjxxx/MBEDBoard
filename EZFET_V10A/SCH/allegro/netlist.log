@@ -1,0 +1,26 @@
+{ Using PSTWRITER 16.6.0 d001Oct-27-2016 at 17:03:30 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.12" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "T_UART_RTS".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.10" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "T_UART_RXD".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.2" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "N16723407".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.14" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "T_UART_CTS".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.8" ignored for JP1: F5528, 02 F5528 (345.44, 27.94). Connecting pin to net "EZFET_TEST".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.8" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "T_TEST_TCKC".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.6" ignored for JP2: F5528, 02 F5528 (345.44, 91.44). Connecting pin to net "T_UART_TXD".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.2" ignored for JP1: F5528, 02 F5528 (345.44, 27.94). Connecting pin to net "N16723385".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.43" ignored for U1: F5528, 02 F5528 (134.62, 63.50). Connecting pin to net "N16729632".
+#10 WARNING(ORCAP-36006): Part Name "MARKPOINT_MARKPOINT_R3_MARKPOINT" is renamed to "MARKPOINT_MARKPOINT_R3_MARKPOIN".
+#11 WARNING(ORCAP-36006): Part Name "MSP430F5528IRGC_VQFN-64_MSP430F5528IRGC" is renamed to "MSP430F5528IRGC_VQFN-64_MSP430F".
+#12 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#13 WARNING(ORCAP-36006): Part Name "NUP2202W1_D_2_SC-88_NUP4202W1T2G" is renamed to "NUP2202W1_D_2_SC-88_NUP4202W1T2".
+#14 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-HC-49S_XTAL_4MHZ_X49SD4MSD2SC" is renamed to "XTAL_5032_0_X-HC-49S_XTAL_4MHZ_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\GITHUB\MBEDBOARD\EZFET_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\MBEDBOARD\EZFET_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\MBEDBOARD\EZFET_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... E:\GITHUB\MBEDBOARD\EZFET_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

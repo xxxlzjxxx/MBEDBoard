@@ -215,13 +215,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\GitHub\test.cc\45_STM32F407\F407_PACK_V10C\SCH\f407_pack_v10c.dsn")
-      (Path "Design Resources"
-         "E:\GitHub\test.cc\45_STM32F407\F407_PACK_V10C\SCH\f407_pack_v10c.dsn"
-         "MAIN")
+      (Path "Design Resources" ".\f407_pack_v10c.dsn")
+      (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "03 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

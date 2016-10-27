@@ -1,0 +1,23 @@
+Date and Time : 10/27/16 15:51:34
+
+--------------------------------------------------
+Checking Schematic: F5528
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections T_NC_TMSC 
+                    F5528, 02 F5528  (256.54, 99.06) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: F5529
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections T_NC_TMSC 
+                    F5529, 03 F5529  (281.94, 116.84) 
+
+Checking For Unconnected Bus Nets
