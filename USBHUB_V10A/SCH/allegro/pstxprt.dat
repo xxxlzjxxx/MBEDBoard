@@ -1,0 +1,740 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Nov-02-2016 at 10:45:05 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='USBHUB_V10A';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CC0603_20PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724005@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724005@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724005@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_GENERIC_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724787@CUDJOE SV.C_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724787@\cudjoe sv\.\c_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724787@\cudjoe sv\.\c_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16723445@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16723445@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16723445@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724611@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724611@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724611@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16754762@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16754762@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16754762@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16754778@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16754778@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16754778@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16753166@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16753166@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16753166@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724901@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724901@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724901@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724677@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724677@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724677@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724027@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724027@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724027@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724879@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724879@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724879@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CC0603_20PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16723665@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16723665@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16723665@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759200@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759200@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759200@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759216@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759216@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759216@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16751622@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16751622@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16751622@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16758992@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16758992@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16758992@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759014@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759014@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759014@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16756779@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16756779@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16756779@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CC0603_22PF_50V':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16756795@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16756795@discrete.\cap np.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16756795@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762566@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762566@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762566@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724765@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724765@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724765@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762610@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762610@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762610@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16761816@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16761816@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16761816@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762028@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762028@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762028@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762239@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762239@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762239@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC1 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16750557@HYOC.DC005.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16750557@hyoc.\dc005.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16750557@hyoc.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16744481@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16744481@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16744481@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16744503@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16744503@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16744503@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16744525@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16744525@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16744525@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD250D134_HOLD':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16744547@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16744547@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16744547@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP1 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16744467@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16744467@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16744467@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MP2 'MARKPOINT_MARKPOINT_R3_MARKPOIN':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16745015@XXXLZJXXX.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16745015@xxxlzjxxx.\markpoint.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16745015@xxxlzjxxx.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_RC0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16750318@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16750318@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16750318@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759132@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759132@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759132@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16756811@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16756811@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16756811@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16756827@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16756827@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16756827@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755288@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755288@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755288@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755272@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755272@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755272@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755346@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755346@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755346@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755330@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755330@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755330@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755768@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755768@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755768@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16755794@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16755794@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16755794@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762582@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762582@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762582@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759232@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759232@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759232@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16761480@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16761480@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16761480@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762632@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762632@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762632@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16761838@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16761838@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16761838@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762050@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762050@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762050@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_RC0603_2K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16762261@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16762261@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16762261@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724655@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724655@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724655@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16723983@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16723983@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16723983@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16723621@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16723621@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16723621@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_RC0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724119@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724119@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724119@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759248@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759248@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759248@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759068@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759068@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759068@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759052@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759052@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759052@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_RC0603_100K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16751486@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16751486@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16751486@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759100@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759100@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759100@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_GENERIC_RC0603_27R':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759084@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759084@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759084@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_GENERIC_RC0603_15K':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759116@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759116@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759116@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TUSB2046BVFR_LQFP-32_TUSB2046BV':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16747973@HYOC.TUSB2046BVFR.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16747973@hyoc.\tusb2046bvfr.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16747973@hyoc.\tusb2046bvfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'NUP2202W1_D_2_SC-88_NUP4202W1T2':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16759350@MK60_YTAI_V41B.NUP2202W1_D_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16759350@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16759350@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'NUP2202W1_D_2_SC-88_NUP4202W1T2':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16757461@MK60_YTAI_V41B.NUP2202W1_D_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16757461@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16757461@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TPS2051BDBVR_SOT23-5_TPS2051BDB':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748487@HYOC.TPS2051BDBVR.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748487@hyoc.\tps2051bdbvr.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748487@hyoc.\tps2051bdbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TPS2051BDBVR_SOT23-5_TPS2051BDB':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748573@HYOC.TPS2051BDBVR.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748573@hyoc.\tps2051bdbvr.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748573@hyoc.\tps2051bdbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724251@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724251@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724251@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'TPS2051BDBVR_SOT23-5_TPS2051BDB':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748659@HYOC.TPS2051BDBVR.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748659@hyoc.\tps2051bdbvr.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748659@hyoc.\tps2051bdbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'TPS2051BDBVR_SOT23-5_TPS2051BDB':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748745@HYOC.TPS2051BDBVR.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748745@hyoc.\tps2051bdbvr.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748745@hyoc.\tps2051bdbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'NUP2202W1_D_2_SC-88_NUP4202W1T2':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724285@MK60_YTAI_V41B.NUP2202W1_D_2.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724285@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724285@mk60_ytai_v41b.\nup2202w1_d_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB-A-DOUBLE_USB-A-DOUBLE_USB-A':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748078@HYOC.USB-A-DOUBLE.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748078@hyoc.\usb-a-double.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748078@hyoc.\usb-a-double.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB2 'USB-A-DOUBLE_USB-A-DOUBLE_USB-A':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16748114@HYOC.USB-A-DOUBLE.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16748114@hyoc.\usb-a-double.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16748114@hyoc.\usb-a-double.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB3 'USB-B_USB-B_USB-B':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724547@HYOC.USB-B.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724547@hyoc.\usb-b.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724547@hyoc.\usb-b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_5032_0_X-HC-49SMD_XTAL_6MH':;
+
+SECTION_NUMBER 1
+ '@USBHUB_V10A.USBHUB(SCH_1):INS16724141@F407_PACK_V10A.XTAL_5032_0.NORMAL(CHIPS)':
+ C_PATH='@usbhub_v10a.usbhub(sch_1):ins16724141@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ P_PATH='@usbhub_v10a.usbhub(sch_1):page2_ins16724141@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

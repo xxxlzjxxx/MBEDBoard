@@ -1,3 +1,0 @@
-DRILLING               LAYER-PAIR
-BACKDRILL              NO
-CAVITY                 NO
