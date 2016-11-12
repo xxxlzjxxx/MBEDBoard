@@ -1,0 +1,29 @@
+{ Using PSTWRITER 16.6.0 d001Nov-04-2016 at 09:15:43 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.8" ignored for U3: SCHEMATIC1, 01 MCU (66.04, 256.54). Connecting pin to net "N11833384".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.6" ignored for U3: SCHEMATIC1, 01 MCU (66.04, 256.54). Connecting pin to net "P1.4".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.10" ignored for JP2: SCHEMATIC1, 01 MCU (353.06, 22.86). Connecting pin to net "P3.4".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.8" ignored for JP2: SCHEMATIC1, 01 MCU (353.06, 22.86). Connecting pin to net "TEST".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.6" ignored for JP2: SCHEMATIC1, 01 MCU (353.06, 22.86). Connecting pin to net "P3.5".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.2" ignored for JP2: SCHEMATIC1, 01 MCU (353.06, 22.86). Connecting pin to net "N16725429".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.1" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.3" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.2" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.4" ignored for USB1: SCHEMATIC1, 02 POWER (86.36, 53.34). Connecting pin to net "GND".
+#11 WARNING(ORCAP-36006): Part Name "D SCHOTTKY_SOD123_MBR0520_SOD123" is renamed to "D SCHOTTKY_SOD123_MBR0520_SOD12".
+#12 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_HEADER6X2_CONN RCPT 6X2" is renamed to "CONN RCPT 6X2_HEADER6X2_CONN RC".
+#13 WARNING(ORCAP-36006): Part Name "CONN RCPT 21X2_HEADER21X2-2R54_CONN RCPT 21X2" is renamed to "CONN RCPT 21X2_HEADER21X2-2R54_".
+#14 WARNING(ORCAP-36006): Part Name "MARKPOINT_MARKPOINT_R3_MARKPOINT" is renamed to "MARKPOINT_MARKPOINT_R3_MARKPOIN".
+#15 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-3-3/TR_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-3-3/TR_SOT23-5_SPX3".
+#16 WARNING(ORCAP-36006): Part Name "0R96-OLED-PACK_0R96-OLED-PACK_0R96-OLED-PACK" is renamed to "0R96-OLED-PACK_0R96-OLED-PACK_0".
+#17 WARNING(ORCAP-36006): Part Name "MSP430F5438AIZQW_BGA113-MSP430F5438A_MSP430F5438AIZQW" is renamed to "MSP430F5438AIZQW_BGA113-MSP430F".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\ALLEGRO/pstxprt.dat
+
+Loading... E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

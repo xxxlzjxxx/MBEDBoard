@@ -215,61 +215,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f407_pack_v10b.dsn")
-      (Path "Design Resources" ".\f407_pack_v10b.dsn" "MAIN")
+      (Path "Design Resources"
+         "e:\github\mbedboard\f407_pack_v10b\sch\f407_pack_v10b.dsn")
+      (Path "Design Resources"
+         "e:\github\mbedboard\f407_pack_v10b\sch\f407_pack_v10b.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10b.dsn" "MAIN" "03 MODULE"))
+      (Select "Design Resources"
+         "e:\github\mbedboard\f407_pack_v10b\sch\f407_pack_v10b.dsn" "MAIN"
+         "03 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 373"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1207 26 547")
-        (Scroll "0 665")
-        (Zoom "122")
-        (Occurrence "/"))
-      (Path
-         "E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10B\SCH\F407_PACK_V10B.DSN")
-      (Schematic "MAIN")
-      (Page "01 COVER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1233 52 573")
-        (Scroll "-67 0")
-        (Zoom "61")
-        (Occurrence "/"))
-      (Path
-         "E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10B\SCH\F407_PACK_V10B.DSN")
-      (Schematic "MAIN")
-      (Page "02 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1312 104 624")
-        (Scroll "1524 286")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10B\SCH\F407_PACK_V10B.DSN")
-      (Schematic "MAIN")
-      (Page "12 USB DEVICE&UART"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1390 182 702")
-        (Scroll "3376 2231")
-        (Zoom "400")
-        (Occurrence "/"))
-      (Path
-         "E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10B\SCH\F407_PACK_V10B.DSN")
-      (Schematic "MAIN")
-      (Page "03 MODULE"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Tab 0))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")

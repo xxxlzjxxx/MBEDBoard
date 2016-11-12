@@ -219,13 +219,24 @@
       (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "03 MODULE"))
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN"
+         "12 USB DEVICE&UART"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 373"))
-      (Tab 0))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 970 130 694")
+        (Scroll "876 280")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "02 MCU"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")

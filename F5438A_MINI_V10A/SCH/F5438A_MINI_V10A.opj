@@ -167,22 +167,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1380 182 678")
-        (Scroll "2492 0")
-        (Zoom "236")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\47_MSP430F5438A最小系统板\SCH\F5438A_MINI_V10A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "01 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 874 208 772")
+        (Placement "44 0 1 -1 -1 -8 -31 130 970 130 694")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "E:\GITHUB\47_MSP430F5438A最小系统板\SCH\F5438A_MINI_V10A.DSN")
+      (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10A\SCH\F5438A_MINI_V10A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 POWER")))
+      (Page "01 MCU")))
   (MPSSessionName "HUIYUAN-LZJ")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

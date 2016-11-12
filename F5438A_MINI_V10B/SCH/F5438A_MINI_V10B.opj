@@ -2,11 +2,14 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File "e:\cadencelib\orcad\hyoc.olb"
+        (Type "Schematic Library")))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "E:\GITHUB\48_CP2102\RS485_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory"
+       "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -59,7 +62,8 @@
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "E:\GitHub\48_CP2102\RS485_V10A\SCH\RS485_V10A.DRC")
+    (DRC_Report_File
+       "E:\GitHub\MBEDBoard\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -87,10 +91,10 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (File ".\rs485_v10a.dsn"
+    (File ".\f5438a_mini_v10b.dsn"
       (Type "Schematic Design")))
   (Folder "Outputs"
-    (File ".\rs485_v10a.drc"
+    (File ".\f5438a_mini_v10b.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -103,9 +107,12 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    ("CONN RCPT 4"
-      (FullPartName "CONN RCPT 4.Normal")
-      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+    (MSP430F5438AIZQW
+      (FullPartName "MSP430F5438AIZQWB.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "1"))
+    (GND_SIGNAL
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (0R96-OLED-PACK
       (FullPartName "0R96-OLED-PACK.Normal")
@@ -151,15 +158,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\f5438a_mini_v10b.dsn")
+      (Path "Design Resources" ".\f5438a_mini_v10b.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn"
-         "SCHEMATIC1" "01 USBtoRS485"))
+      (Select "Design Resources" ".\f5438a_mini_v10b.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -169,13 +172,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1022 182 746")
-        (Scroll "481 110")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1131 26 524")
+        (Scroll "-41 0")
+        (Zoom "59")
         (Occurrence "/"))
-      (Path
-         "E:\GITHUB\MBEDBOARD\CP2102-UART-RS485\RS485_V10A\SCH\RS485_V10A.DSN")
+      (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "01 USBtoRS485")))
+      (Page "01 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1330 156 654")
+        (Scroll "408 312")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 POWER")))
   (MPSSessionName "HUIYUAN-LZJ")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

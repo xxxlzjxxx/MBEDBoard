@@ -6,7 +6,8 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "E:\GITHUB\48_CP2102\RS485_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory"
+       "E:\GITHUB\MBEDBOARD\CP2102-UART-RS485\RS485_V10B\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -59,7 +60,8 @@
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "E:\GitHub\48_CP2102\RS485_V10A\SCH\RS485_V10A.DRC")
+    (DRC_Report_File
+       "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10B\SCH\RS485_V10B.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -87,7 +89,7 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (File ".\rs485_v10a.dsn"
+    (File ".\rs485_v10b.dsn"
       (Type "Schematic Design")))
   (Folder "Outputs"
     (File ".\rs485_v10a.drc"
@@ -100,7 +102,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\rs485_v10b.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     ("CONN RCPT 4"
@@ -152,14 +156,13 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn")
+         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10B\SCH\rs485_v10b.dsn")
       (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn"
+         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10B\SCH\rs485_v10b.dsn"
          "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources"
-         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10A\SCH\rs485_v10a.dsn"
-         "SCHEMATIC1" "01 USBtoRS485"))
+         "E:\GitHub\MBEDBoard\CP2102-UART-RS485\RS485_V10B\SCH\rs485_v10b.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -169,12 +172,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1022 182 746")
-        (Scroll "481 110")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1074 234 798")
+        (Scroll "725 680")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
-         "E:\GITHUB\MBEDBOARD\CP2102-UART-RS485\RS485_V10A\SCH\RS485_V10A.DSN")
+         "E:\GITHUB\MBEDBOARD\CP2102-UART-RS485\RS485_V10B\SCH\RS485_V10B.DSN")
       (Schematic "SCHEMATIC1")
       (Page "01 USBtoRS485")))
   (MPSSessionName "HUIYUAN-LZJ")
