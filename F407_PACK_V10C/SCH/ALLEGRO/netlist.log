@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Oct-24-2016 at 11:08:56 }
+{ Using PSTWRITER 16.6.0 d001Nov-30-2016 at 10:45:22 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U20.4" ignored for U20: MAIN, 13 POWER (203.20, 116.84). Connecting pin to net "N13706171".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "USB3.2" ignored for USB3: MAIN, 13 POWER (142.24, 43.18). Connecting pin to net "CH340_D-".
@@ -45,11 +45,11 @@
 #43 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-5R0X3R2-SMD_XTAL_12MHZ_5032" is renamed to "XTAL_5032_0_X-2P-5R0X3R2-SMD__2".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10C\SCH\ALLEGRO/pstchip.dat
+Loading... E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\ALLEGRO/pstchip.dat
 
-Loading... E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10C\SCH\ALLEGRO/pstchip.dat
+Loading... E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\ALLEGRO/pstchip.dat
 
-Loading... E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10C\SCH\ALLEGRO/pstxprt.dat
+Loading... E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\ALLEGRO/pstxprt.dat
 
-Loading... E:\GITHUB\TEST.CC\45_STM32F407\F407_PACK_V10C\SCH\ALLEGRO/pstxnet.dat
+Loading... E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\ALLEGRO/pstxnet.dat
 packaging the design view...

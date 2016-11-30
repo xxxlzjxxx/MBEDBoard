@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Oct-24-2016 at 11:08:57}
+{ Using PSTWRITER 16.6.0 d001Nov-30-2016 at 10:45:24}
 primitive 'BEEP_HC12085P_BEEP_12X7R6_BEEP';
   pin
     'P':
@@ -2016,7 +2016,7 @@ primitive 'TJA1050_SOIC8_TJA1050T/CM';
     VALUE='TJA1050T/CM';
   end_body;
 end_primitive;
-primitive 'HS0038_HS0038_HS0038';
+primitive 'HS0038_HS0038B_HS0038B';
   pin
     'DATA':
       PIN_NUMBER='(1)';
@@ -2030,8 +2030,8 @@ primitive 'HS0038_HS0038_HS0038';
   end_pin;
   body
     PART_NAME='HS0038';
-    JEDEC_TYPE='HS0038';
-    VALUE='HS0038';
+    JEDEC_TYPE='HS0038B';
+    VALUE='HS0038B';
   end_body;
 end_primitive;
 primitive 'DHT11_DHT11_DHT11&DS18B20';

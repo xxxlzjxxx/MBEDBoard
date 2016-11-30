@@ -218,16 +218,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "e:\github\mbedboard\f407_pack_v10a\sch\f407_pack_v10a.dsn")
-      (Path "Design Resources"
-         "e:\github\mbedboard\f407_pack_v10a\sch\f407_pack_v10a.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\f407_pack_v10a.dsn")
+      (Path "Design Resources" ".\f407_pack_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "e:\github\mbedboard\f407_pack_v10a\sch\f407_pack_v10a.dsn"
-         "SCHEMATIC1" "04 EARTHNET"))
+      (Select "Design Resources" ".\f407_pack_v10a.dsn" "SCHEMATIC1"
+         "03 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
