@@ -180,22 +180,24 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\usbhub_v10a.dsn")
-      (Path "Design Resources" ".\usbhub_v10a.dsn" "USBHUB")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\USBHUB_V10A\SCH\usbhub_v10a.dsn")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\USBHUB_V10A\SCH\usbhub_v10a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\usbhub_v10a.dsn" "USBHUB" "02 USBHUB"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1234 26 546")
-        (Scroll "934 315")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1234 26 546")
+        (Scroll "1873 216")
         (Zoom "256")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\USBHUB_V10A\SCH\USBHUB_V10A.DSN")

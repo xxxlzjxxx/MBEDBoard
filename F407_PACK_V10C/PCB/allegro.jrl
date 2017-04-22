@@ -1,0 +1,57 @@
+\t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 27 10:56:19 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=6804 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\MBEDBoard\F407_PACK_V10C\PCB\F407_PACK_V10C.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/GitHub/MBEDBoard/F407_PACK_V10C/PCB/F407_PACK_V10C.brd
+\i (00:00:04) trapsize 18523
+\i (00:00:04) trapsize 18134
+\i (00:00:04) trapsize 18590
+\i (00:00:04) trapsize 18999
+\i (00:00:04) trapsize 18999
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 6.0096 31.4703
+\i (00:00:06) trapsize 9499
+\t (00:00:06) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 4.6797 31.4703
+\i (00:00:06) trapsize 4750
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 2.7799 31.4704
+\i (00:00:06) trapsize 2375
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 3.0174 40.8747
+\i (00:00:07) trapsize 1187
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 9.5245 38.8324
+\i (00:00:08) trapsize 594
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 10.7001 41.0054
+\i (00:00:08) trapsize 297
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 11.2819 40.0080
+\i (00:00:09) trapsize 594
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 10.9494 36.5527
+\i (00:00:10) trapsize 297
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 10.0172 36.8437
+\i (00:00:11) trapsize 594
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 10.2072 36.6299
+\i (00:00:11) trapsize 1187
+\i (00:09:54) exit 
+\t (00:09:54)     Journal end - Tue Dec 27 11:06:13 2016

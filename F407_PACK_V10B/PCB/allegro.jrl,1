@@ -1,0 +1,31 @@
+\t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 13 14:22:13 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=4504 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) Starting new design...
+\i (00:00:02) trapsize 751
+\i (00:00:02) trapsize 735
+\i (00:00:02) trapsize 753
+\i (00:00:02) trapsize 770
+\i (00:00:02) trapsize 1107
+\i (00:00:02) generaledit 
+\i (00:00:04) EDA365_New 
+\e (00:00:06) Finish current command first.
+\e (00:00:10) Finish current command first.
+\e (00:00:12) Finish current command first.
+\e (00:00:15) Finish current command first.
+\i (00:00:15) newdrawfillin "menu_cancel"
+\i (00:00:15) generaledit 
+\t (00:00:18) >>EDA365 Skill V2.3 加载成功!
+   (00:00:22) function EDA365_Report_NoRefdes redefined
+   (00:00:22) function EDA365_ReportSinglePin redefined
+\t (00:00:22) >>EDA365 Skill V2.3 加载成功!
+\i (00:00:25) EDA365_New 
+\e (00:00:30) Finish current command first.
+\e (00:00:35) Finish current command first.
+\i (00:00:38) newdrawfillin "menu_cancel"
+\i (00:00:38) generaledit 
+\i (00:00:39) exit 
+\t (00:00:39)     Journal end - Tue Dec 13 14:22:53 2016

@@ -96,35 +96,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1383 104 521")
-        (Scroll "343 120")
-        (Zoom "272")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1421 156 686")
+        (Scroll "2503 0")
+        (Zoom "400")
         (Occurrence "/"))
       (Path
-         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
+         "E:\GITHUB\MBEDBOARD\DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "[04]MSP430F5438A_PACK"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1357 78 495")
-        (Scroll "-36 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "[01]IDSCOVERY"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1383 104 521")
-        (Scroll "0 0")
-        (Zoom "124")
-        (Occurrence "/"))
-      (Path
-         "F:\Ñ¸À×ÏÂÔØ\42_DISCOVERY-F030_BOOSTPACK\SCH\DISCOVERY-F030_BOOSTPACK.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "[02]MODULAR")))
+      (Page "[04]MSP430F5438A_PACK")))
   (MPSSessionName "HUIYUAN-LZJ")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

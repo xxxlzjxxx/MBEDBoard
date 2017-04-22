@@ -1,167 +1,20 @@
 \t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
-\t (00:00:00)     Journal start - Wed Nov 16 16:50:47 2016
-\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=7328 CPUs=4
+\t (00:00:00)     Journal start - Wed Nov 30 19:01:44 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=188 CPUs=4
 \t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\MBEDBoard\MK60_PACK_V10A\PCB\MK60_PACK_V10A.brd
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
 \t (00:00:00) Opening existing design...
-\d (00:00:01) Design opened: E:/GitHub/MBEDBoard/MK60_PACK_V10A/PCB/MK60_PACK_V10A.brd
-\i (00:00:01) trapsize 4539
-\i (00:00:01) trapsize 4444
-\i (00:00:01) trapsize 4555
-\i (00:00:01) trapsize 4602
-\i (00:00:01) trapsize 4704
-\i (00:00:01) trapsize 4827
-\i (00:00:02) generaledit 
+\d (00:00:00) Design opened: E:/GitHub/MBEDBoard/MK60_PACK_V10A/PCB/MK60_PACK_V10A.brd
+\i (00:00:00) trapsize 4539
+\i (00:00:00) trapsize 4444
+\i (00:00:00) trapsize 4555
+\i (00:00:00) trapsize 4656
+\i (00:00:00) trapsize 5035
+\i (00:00:01) generaledit 
 \i (00:00:02) zoom out 1 
 \i (00:00:02) setwindow pcb
-\i (00:00:02) zoom out 86.5847 2.7767
-\i (00:00:02) trapsize 9654
-\i (00:00:04) shadow toggle 
-\i (00:00:06) add connect 
-\t (00:00:06) Pick first element.
-\e (00:00:06) Finish current command first.
-\i (00:00:07) done 
-\i (00:00:07) generaledit 
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 81.8521 83.2037
-\i (00:00:08) trapsize 4827
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 84.4588 84.0726
-\i (00:00:08) trapsize 2414
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in 84.4589 84.0727
-\i (00:00:08) trapsize 1207
-\i (00:00:09) zoom in 1 
-\i (00:00:09) setwindow pcb
-\i (00:00:09) zoom in 84.4589 84.0727
-\i (00:00:09) trapsize 603
-\i (00:00:11) subclass -+ 
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out 83.7590 82.5039
-\i (00:00:11) trapsize 1207
-\t (00:00:12) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
-\i (00:00:15) flipdesign 
-\i (00:00:16) zoom out 1 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom out 85.3036 78.7628
-\i (00:00:16) trapsize 2414
-\i (00:00:19) trapsize 6596
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out 85.7697 129.5572
-\i (00:00:20) trapsize 13192
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in 93.6848 77.0536
-\i (00:00:21) trapsize 6596
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in 93.6848 77.0536
-\i (00:00:21) trapsize 3298
-\i (00:00:22) zoom in 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom in 82.4717 78.0430
-\i (00:00:22) trapsize 1649
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in 80.9876 79.1972
-\i (00:00:24) trapsize 824
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in 81.2680 75.9157
-\i (00:00:25) trapsize 412
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in 81.2598 75.9157
-\i (00:00:25) trapsize 206
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out 81.2144 76.2167
-\i (00:00:25) trapsize 412
-\i (00:15:46) pick grid 84.3640 77.3379
-\t (00:15:46) last pick:  84.4000 77.3000
-\i (00:15:48) zoom out 1 
-\i (00:15:48) setwindow pcb
-\i (00:15:48) zoom out 83.0283 77.4450
-\i (00:15:48) trapsize 824
-\i (00:15:49) zoom out 1 
-\i (00:15:49) setwindow pcb
-\i (00:15:49) zoom out 83.0284 77.4121
-\i (00:15:49) trapsize 1649
-\i (00:15:49) zoom in 1 
-\i (00:15:49) setwindow pcb
-\i (00:15:49) zoom in 80.9177 82.6557
-\i (00:15:49) trapsize 824
-\i (00:15:49) zoom in 1 
-\i (00:15:49) setwindow pcb
-\i (00:15:49) zoom in 80.9177 82.6557
-\i (00:15:49) trapsize 412
-\i (00:15:49) zoom in 1 
-\i (00:15:49) setwindow pcb
-\i (00:15:49) zoom in 80.9178 82.6558
-\i (00:15:49) trapsize 206
-\i (00:15:50) zoom out 1 
-\i (00:15:50) setwindow pcb
-\i (00:15:50) zoom out 80.8354 82.6558
-\i (00:15:50) trapsize 412
-\i (00:15:50) zoom out 1 
-\i (00:15:50) setwindow pcb
-\i (00:15:50) zoom out 80.8106 82.6558
-\i (00:15:50) trapsize 824
-\i (00:15:50) zoom in 1 
-\i (00:15:50) setwindow pcb
-\i (00:15:50) zoom in 82.4431 75.7631
-\i (00:15:50) trapsize 412
-\i (00:15:51) zoom out 1 
-\i (00:15:51) setwindow pcb
-\i (00:15:51) zoom out 81.7836 76.5876
-\i (00:15:51) trapsize 824
-\i (00:15:52) zoom in 1 
-\i (00:15:52) setwindow pcb
-\i (00:15:52) zoom in 82.3442 76.1424
-\i (00:15:52) trapsize 412
-\i (02:12:58) zoom out 1 
-\i (02:12:58) setwindow pcb
-\i (02:12:58) zoom out 81.3136 77.2307
-\i (02:12:58) trapsize 824
-\i (02:12:58) zoom out 1 
-\i (02:12:58) setwindow pcb
-\i (02:12:58) zoom out 81.2807 77.2472
-\i (02:12:58) trapsize 1649
-\i (02:12:58) zoom out 1 
-\i (02:12:58) setwindow pcb
-\i (02:12:58) zoom out 81.2476 77.2473
-\i (02:12:58) trapsize 3298
-\i (02:12:59) zoom out 1 
-\i (02:12:59) setwindow pcb
-\i (02:12:59) zoom out 80.9839 77.3792
-\i (02:12:59) trapsize 6596
-\i (02:12:59) zoom out 1 
-\i (02:12:59) setwindow pcb
-\i (02:12:59) zoom out 80.9838 77.3792
-\i (02:12:59) trapsize 13192
-\i (02:12:59) zoom out 1 
-\i (02:12:59) setwindow pcb
-\i (02:12:59) zoom out 80.9839 77.3791
-\i (02:12:59) trapsize 26383
-\i (02:13:01) zoom in 1 
-\i (02:13:01) setwindow pcb
-\i (02:13:01) zoom in 80.9838 87.6417
-\i (02:13:01) trapsize 13192
-\i (02:13:01) zoom in 1 
-\i (02:13:01) setwindow pcb
-\i (02:13:01) zoom in 80.9839 93.5159
-\i (02:13:01) trapsize 6596
-\i (02:13:01) zoom in 1 
-\i (02:13:01) setwindow pcb
-\i (02:13:01) zoom in 80.9839 93.5159
-\i (02:13:01) trapsize 3298
-\i (02:13:02) exit 
-\e (02:13:02) Do you want to save the changes you made to MK60_PACK_V10A.brd?
-\i (02:13:03) fillin no 
-\t (02:13:03)     Journal end - Wed Nov 16 19:03:50 2016
+\i (00:00:02) zoom out 54.6331 -11.9776
+\i (00:00:02) trapsize 10069
+\i (00:00:04) exit 
+\t (00:00:05)     Journal end - Wed Nov 30 19:01:49 2016

@@ -216,13 +216,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "e:\github\45_stm32f407\f407_pack_v11a\sch\f407_pack_v11a.dsn")
-      (Path "Design Resources"
-         "e:\github\45_stm32f407\f407_pack_v11a\sch\f407_pack_v11a.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\f407_pack_v11a.dsn")
+      (Path "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1" "04 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -232,22 +230,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 666 0 564")
-        (Scroll "2352 0")
-        (Zoom "216")
+        (Placement "44 0 1 -1 -1 -8 -31 130 998 130 670")
+        (Scroll "3948 1600")
+        (Zoom "400")
         (Occurrence "/"))
-      (Path "E:\GITHUB\45_STM32F407\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
+      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "02 POWER"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 692 26 590")
-        (Scroll "0 0")
-        (Zoom "54")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
+        (Scroll "22 5288")
+        (Zoom "544")
         (Occurrence "/"))
-      (Path "E:\GITHUB\45_STM32F407\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
+      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "03 MODULE")))
+      (Page "04 MCU")))
   (MPSSessionName "HUIYUAN-LZJ")
   (ISPCBBASICLICENSE "false"))

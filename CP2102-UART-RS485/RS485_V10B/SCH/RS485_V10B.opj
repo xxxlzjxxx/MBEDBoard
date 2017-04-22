@@ -164,14 +164,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 234 1074 234 798")
-        (Scroll "1232 0")
-        (Zoom "236")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1074 234 798")
+        (Scroll "0 0")
+        (Zoom "59")
         (Occurrence "/"))
       (Path
          "E:\GITHUB\MBEDBOARD\CP2102-UART-RS485\RS485_V10B\SCH\RS485_V10B.DSN")

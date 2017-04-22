@@ -158,11 +158,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f5438a_mini_v10b.dsn")
-      (Path "Design Resources" ".\f5438a_mini_v10b.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\f5438a_mini_v10b.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -173,8 +175,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1131 26 524")
-        (Scroll "-41 0")
-        (Zoom "59")
+        (Scroll "0 0")
+        (Zoom "136")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DSN")
       (Schematic "SCHEMATIC1")

@@ -1,0 +1,91 @@
+\t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:00)     Journal start - Wed Nov 30 19:18:44 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=4036 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\MBEDBoard\F407_PACK_V10C\PCB\F407_PACK_V10C.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/GitHub/MBEDBoard/F407_PACK_V10C/PCB/F407_PACK_V10C.brd
+\i (00:00:04) trapsize 18523
+\i (00:00:04) trapsize 18134
+\i (00:00:04) trapsize 18590
+\i (00:00:04) trapsize 18999
+\i (00:00:04) trapsize 18999
+\i (00:00:05) generaledit 
+\t (00:00:06) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 138.9997 78.5868
+\i (00:00:07) trapsize 9499
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 138.9997 78.5868
+\i (00:00:07) trapsize 4750
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 138.3348 76.6869
+\i (00:00:08) trapsize 2375
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 139.4273 78.2543
+\i (00:00:08) trapsize 1187
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 131.1629 77.8268
+\i (00:00:12) trapsize 594
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 130.9254 78.3612
+\i (00:00:12) trapsize 297
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 131.8931 78.4027
+\i (00:00:16) trapsize 594
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 132.0593 78.2841
+\i (00:00:16) trapsize 1187
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 138.5426 78.0941
+\i (00:00:17) trapsize 594
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 138.1271 77.9041
+\i (00:00:21) trapsize 1187
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 139.5282 77.3104
+\i (00:00:23) trapsize 2375
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 130.7888 79.3527
+\i (00:00:32) trapsize 1187
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 130.7888 79.3528
+\i (00:00:32) trapsize 594
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 130.7888 79.3528
+\i (00:00:32) trapsize 297
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 130.7057 78.2070
+\i (00:00:33) trapsize 594
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 130.8363 78.2664
+\i (00:00:33) trapsize 1187
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 130.6938 78.1952
+\i (00:00:33) trapsize 594
+\i (00:41:41) xhilite 
+\i (00:41:41) xname_flush 
+\i (00:41:42) done 
+\i (00:41:42) generaledit 
+\i (00:41:43) exit 
+\e (00:41:43) Do you want to save the changes you made to F407_PACK_V10C.brd?
+\i (00:41:44) fillin no 
+\t (00:41:44)     Journal end - Wed Nov 30 20:00:27 2016
