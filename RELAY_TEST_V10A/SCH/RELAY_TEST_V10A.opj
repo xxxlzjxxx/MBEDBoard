@@ -16,7 +16,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\GPS_V10B.DRC")
+       "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -62,7 +62,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\ALLEGRO")
+       "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -81,7 +81,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\GPS_V10B.BOM")
+       "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
@@ -93,10 +93,10 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "FALSE")
     (BOM_View_Output "FALSE")
-    (File ".\gps_v10b.dsn"
+    (File ".\relay_test_v10a.dsn"
       (Type "Schematic Design")))
   (Folder "Outputs"
-    (File ".\gps_v10b.drc"
+    (File ".\relay_test_v10a.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -107,39 +107,38 @@
     (File ".\allegro\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat"))
-    (File ".\gps_v10b.bom"
+    (File ".\relay_test_v10a.bom"
       (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\gps_v10b.dsn")
-      (Path "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\gps_v10b.dsn"
-         "SCH")
+      (Path "Design Resources" ".\relay_test_v10a.dsn")
+      (Path "Design Resources" ".\relay_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\gps_v10b.dsn"
-         "SCH" "02 GPS"))
+      (Select "Design Resources" ".\relay_test_v10a.dsn" "SCH" "02 RELAY"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "0 196")
-        (Zoom "136")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
+        (Scroll "600 51")
+        (Zoom "224")
         (Occurrence "/"))
       (Path
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\GPS_V10B\SCH\GPS_V10B.DSN")
+         "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "02 GPS")))
-  (PartMRUSelector)
+      (Page "02 RELAY")))
+  (PartMRUSelector
+    (HLK-PM12
+      (FullPartName "HLK-PM12.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "HUIYUAN-LZJ"))

@@ -216,11 +216,16 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f407_pack_v11a.dsn")
-      (Path "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "e:\github\mbedboard\f407_pack_v11a\sch\f407_pack_v11a.dsn")
+      (Path "Design Resources"
+         "e:\github\mbedboard\f407_pack_v11a\sch\f407_pack_v11a.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1" "04 MCU"))
+      (Select "Design Resources"
+         "e:\github\mbedboard\f407_pack_v11a\sch\f407_pack_v11a.dsn"
+         "SCHEMATIC1" "04 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -230,18 +235,18 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 998 130 670")
-        (Scroll "3948 1600")
-        (Zoom "400")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1448 104 684")
+        (Scroll "0 800")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 POWER"))
+      (Page "03 MODULE"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "22 5288")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1500 156 736")
+        (Scroll "0 4510")
         (Zoom "544")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")

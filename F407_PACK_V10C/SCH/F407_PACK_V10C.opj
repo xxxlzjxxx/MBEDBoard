@@ -219,33 +219,23 @@
       (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "13 POWER"))
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "03 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 373"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 373"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1526 182 762")
-        (Scroll "0 150")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1260 104 586")
+        (Scroll "1277 1201")
+        (Zoom "224")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")
-      (Page "12 USB DEVICE&UART"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1552 208 788")
-        (Scroll "914 31")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
-      (Schematic "MAIN")
-      (Page "13 POWER"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Page "03 MODULE"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
