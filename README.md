@@ -1,6 +1,15 @@
 # MBEDBoard
 	包含内容为自己做的部分嵌入式开发板，以及程序。
 
+##IMX28x_TEST_V10A
+	该版本是基于IMX28x核心板制作的ARM9开发板的初始版本。
+	
+##RELAY_TEST_V10A
+	该版本是基于STM32F10RCT6制作的继电器定时开断的初始版本。
+	
+##OPAMP_TEST_V10A
+	该版本是基于TPA3110D2制作的功放的初始版本。
+	
 ##USBHUB_V10A
 	该版本是基于TUSB2046B制作的USB2.0HUB的初始版本。
 	

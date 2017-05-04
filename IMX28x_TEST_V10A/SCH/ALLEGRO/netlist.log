@@ -1,0 +1,88 @@
+{ Using PSTWRITER 16.6.0 d001Jul-30-2016 at 09:50:46 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U29.5" ignored for U29: MAIN BOARD, 10 POWER (71.12, 200.66). Connecting pin to net "VCC_5V".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.3" ignored for U7: MAIN BOARD, 06 USB&485&CAN (200.66, 76.20). Connecting pin to net "USB_0_DM".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.2" ignored for USB1: MAIN BOARD, 06 USB&485&CAN (231.14, 63.50). Connecting pin to net "USB_0_DM".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.4" ignored for U7: MAIN BOARD, 06 USB&485&CAN (200.66, 76.20). Connecting pin to net "USB_0_DP".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.4" ignored for USB1: MAIN BOARD, 06 USB&485&CAN (231.14, 63.50). Connecting pin to net "N13700908".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "J6.6" ignored for J6: MAIN BOARD, 06 USB&485&CAN (276.86, 218.44). Connecting pin to net "VCC_48V".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.74" ignored for U1: MAIN BOARD, 03 B2B (99.06, 55.88). Connecting pin to net "485_RD#".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U27.5" ignored for U27: MAIN BOARD, 10 POWER (71.12, 172.72). Connecting pin to net "VCC_12V".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.6" ignored for J5: MAIN BOARD, 06 USB&485&CAN (279.40, 160.02). Connecting pin to net "VCC_12V".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "J12.4" ignored for J12: MAIN BOARD, 08 OPTICAL FIBER (16.10, 10.30). Connecting pin to net "N16207457".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "J12.5" ignored for J12: MAIN BOARD, 08 OPTICAL FIBER (16.10, 10.30). Connecting pin to net "N16207493".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.75" ignored for U1: MAIN BOARD, 03 B2B (99.06, 55.88). Connecting pin to net "AUART4_TX".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.73" ignored for U1: MAIN BOARD, 03 B2B (99.06, 55.88). Connecting pin to net "AUART4_RX".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U14.11" ignored for U14: MAIN BOARD, 08 OPTICAL FIBER (2.00, 1.50). Connecting pin to net "SPEED5".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U14.9" ignored for U14: MAIN BOARD, 08 OPTICAL FIBER (2.00, 1.50). Connecting pin to net "SPEED6".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.1" ignored for J5: MAIN BOARD, 06 USB&485&CAN (279.40, 160.02). Connecting pin to net "GND".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "J6.1" ignored for J6: MAIN BOARD, 06 USB&485&CAN (276.86, 218.44). Connecting pin to net "GND".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.16" ignored for U1: MAIN BOARD, 03 B2B (99.06, 55.88). Connecting pin to net "SWITCH_ALARMOUT".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.2" ignored for J5: MAIN BOARD, 06 USB&485&CAN (279.40, 160.02). Connecting pin to net "GND_EARTH".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "J6.2" ignored for J6: MAIN BOARD, 06 USB&485&CAN (276.86, 218.44). Connecting pin to net "GND_EARTH".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "J13.2" ignored for J13: MAIN BOARD, 09 SENSOR (193.04, 40.64). Connecting pin to net "GND_EARTH".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.18" ignored for U1: MAIN BOARD, 03 B2B (99.06, 55.88). Connecting pin to net "SWITCH_RST".
+INFO(ORCAP-36102): Diff Pair DRC check Warnings:
+INFO(ORCAP-17055): Differential pair DP15 has only one net RXN5 associated with it. A valid differential pair must have two nets associated with it. 
+INFO(ORCAP-17055): Differential pair DP22 has only one net TXN4 associated with it. A valid differential pair must have two nets associated with it. 
+
+#23 WARNING(ORCAP-36006): Part Name "TMP_154254_CC3528_12_47UF_10V_3528" is renamed to "TMP_154254_CC3528_12_47UF_10V_3".
+#24 WARNING(ORCAP-36006): Part Name "TMP_154254_CC3528_12_10UF_16V_3528" is renamed to "TMP_154254_CC3528_12_10UF_16V_3".
+#25 WARNING(ORCAP-36006): Part Name "TMP_154254_CC7343_20_100UF_10V_7343" is renamed to "TMP_154254_CC7343_20_100UF_10V_".
+#26 WARNING(ORCAP-36006): Part Name "TMP_154254_CC7343_20_47UF_25V_7343" is renamed to "TMP_154254_CC7343_20_47UF_25V_7".
+#27 WARNING(ORCAP-36006): Part Name "TMP_154254_CC7343_20_220UF_10V_7343" is renamed to "TMP_154254_CC7343_20_220UF_10V_".
+#28 WARNING(ORCAP-36006): Part Name "P6SMB_2_DO-214AA_P6SMB8.2CA-E3/52" is renamed to "P6SMB_2_DO-214AA_P6SMB8.2CA-E3/".
+#29 WARNING(ORCAP-36006): Part Name "P6SMB_1_DO-214AA_P6SMB8.2CA-E3/52" is renamed to "P6SMB_1_DO-214AA_P6SMB8.2CA-E3/".
+#30 WARNING(ORCAP-36006): Part Name "FB_L1812_BEAD_FBMH4532HM132-T/NI" is renamed to "FB_L1812_BEAD_FBMH4532HM132-T/N".
+#31 WARNING(ORCAP-36006): Part Name "43045-0612_2_43045_0612_43045-0612" is renamed to "43045-0612_2_43045_0612_43045-0".
+#32 WARNING(ORCAP-36006): Part Name "HDR_1X2_HEADER2X1_DIP2/1/2.54MM/NI" is renamed to "HDR_1X2_HEADER2X1_DIP2/1/2.54MM".
+#33 WARNING(ORCAP-36006): Part Name "CON_RJ45_1X8_F_RA_0_HR911105A_RJ45/HR911105A" is renamed to "CON_RJ45_1X8_F_RA_0_HR911105A_R".
+#34 WARNING(ORCAP-36006): Part Name "RJ45_VTK_RJ45X1_LED_VTK_RJ45/1X8/BILED" is renamed to "RJ45_VTK_RJ45X1_LED_VTK_RJ45/1X".
+#35 WARNING(ORCAP-36006): Part Name "HDR_1_HEADER1X2_2R54_HEADER1X2_2R54" is renamed to "HDR_1_HEADER1X2_2R54_HEADER1X2_".
+#36 WARNING(ORCAP-36006): Part Name "CON20A_0_HEADER10X2_2R54_HEADER10X2_2R54" is renamed to "CON20A_0_HEADER10X2_2R54_HEADER".
+#37 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#1" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#38 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#2" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#16" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#18" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package CON20A_0 , J3: MAIN BOARD, 05 JTAG&232 (205.74, 81.28).
+#48 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
+#49 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600/NI" is renamed to "IND_BEAD_0805_600OHM_200MA_LC_1".
+#50 WARNING(ORCAP-36006): Part Name "MARKPOINT_MARKPOINT_R3_MARKPOINT" is renamed to "MARKPOINT_MARKPOINT_R3_MARKPOIN".
+#51 WARNING(ORCAP-36006): Part Name "MOS-P_0_TO252_GDS_SUD50P08-25L-E3_PMOS" is renamed to "MOS-P_0_TO252_GDS_SUD50P08-25L-".
+#52 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_0_KEY_SMD_2_KEY_RESETN" is renamed to "SW PUSHBUTTON_0_KEY_SMD_2_KEY_R".
+#53 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_0_KEY_SMD_2_KEY_RESET" is renamed to "SW PUSHBUTTON_0_KEY_SMD_2_KEY_1".
+#54 WARNING(ORCAP-36006): Part Name "COM-S2416_28_ISAMI_120_COM-IMX28X" is renamed to "COM-S2416_28_ISAMI_120_COM-IMX2".
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#7" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#102" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#90" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#108" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#20" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#60" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#86" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#76" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#97" as visible power pin of same name already exists in Package CoM-S2416_28 , U1: MAIN BOARD, 03 B2B (99.06, 55.88).
+#65 WARNING(ORCAP-36006): Part Name "SN74AUP1G32YZPR_SOT23_5_SN74AHC1G00DBVR" is renamed to "SN74AUP1G32YZPR_SOT23_5_SN74AHC".
+#66 WARNING(ORCAP-36006): Part Name "1*9 OPTICAL_1_9_OPTICAL_1*9 OPTICAL" is renamed to "1*9 OPTICAL_1_9_OPTICAL_1*9 OPT".
+#67 WARNING(ORCAP-36006): Part Name "74AHC1G08_0_SOT23_5_SN74AHC1G08DBVR" is renamed to "74AHC1G08_0_SOT23_5_SN74AHC1G08".
+#68 WARNING(ORCAP-36006): Part Name "1*9 OPTICAL_2_9_OPTICAL_1*9 OPTICAL" is renamed to "1*9 OPTICAL_2_9_OPTICAL_1*9 OPT".
+#69 WARNING(ORCAP-36006): Part Name "F247_MOD_A_F247_MOD_A_F247_MOD_A" is renamed to "F247_MOD_A_F247_MOD_A_F247_MOD_".
+#70 WARNING(ORCAP-36006): Part Name "TCA9517ADGKR_0_VSSOP8_TCA9517ADGKR" is renamed to "TCA9517ADGKR_0_VSSOP8_TCA9517AD".
+#71 WARNING(ORCAP-36006): Part Name "PTH05000_1_PTH05000WAH_HPSD0533I4" is renamed to "PTH05000_1_PTH05000WAH_HPSD0533".
+#72 WARNING(ORCAP-36006): Part Name "NUP2202W1_D_2_SOT-363_NUP4202W1T2G" is renamed to "NUP2202W1_D_2_SOT-363_NUP4202W1".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\I283_SDM1_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\I283_SDM1_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\I283_SDM1_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\I283_SDM1_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
