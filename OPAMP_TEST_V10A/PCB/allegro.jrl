@@ -1,0 +1,2532 @@
+\t (00:00:01) allegro 16.6-2015 S083 (v16-6-112GM) Windows 32
+\t (00:00:01)     Journal start - Mon May 08 16:26:38 2017
+\t (00:00:01)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=10104 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\PCB\OPAMP_TEST_V10A.brd
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: E:/GitHub/MBEDBoard/OPAMP_TEST_V10A/PCB/OPAMP_TEST_V10A.brd
+\i (00:00:05) trapsize 7515
+\i (00:00:05) trapsize 7326
+\i (00:00:05) trapsize 7548
+\i (00:00:06) trapsize 7749
+\i (00:00:06) trapsize 7899
+\i (00:00:07) generaledit 
+\t (00:00:08) Begin Load EDA365 Skill...
+\t (00:00:09) >>EDA365 Skill V2.4 ���سɹ�!
+\t (00:00:09) >>�˵���ݼ�CTRL+E
+\i (00:00:09) trapsize 11140
+\i (00:00:11) trapsize 6509
+\i (00:00:15) setwindow form.vf_vis
+\i (00:00:15) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:15) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) EDA365_QuickView 
+   (00:00:17) Loading axlcore.cxt 
+\i (00:00:17) generaledit 
+\i (00:00:19) setwindow form.EDA365_QuickView
+\i (00:00:19) FORM EDA365_QuickView close  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) delete 
+\i (00:00:21) setwindow form.find
+\i (00:00:21) FORM find all_on  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 110.7740 7.3447
+\i (00:00:22) trapsize 12771
+\i (00:00:22) drag_start grid 263.8871 -20.8429
+\i (00:00:23) drag_stop -31.6429 125.2618
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:00:23) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\i (00:00:25) dimension edit 
+\i (00:00:26) prepopup 67.7185 111.7241
+\i (00:00:29) pop dyn_option_select '@:@Delete dimensions' 
+\i (00:00:30) drag_start grid -27.8115 99.7190
+\w (00:00:30) WARNING(SPMHDI-55): No dimension found.
+\i (00:00:31) drag_stop 178.8296 -24.9298
+\i (00:00:31) prepopup 77.9356 90.7791
+\i (00:00:32) done 
+\i (00:00:33) generaledit 
+\i (00:00:33) save 
+\i (00:00:34) fillin yes 
+\i (00:00:35) generaledit 
+\i (00:00:38) pick grid 11.5244 39.4381
+\t (00:00:38) last pick:  11.5000 39.4000
+\i (00:00:39) add line 
+\i (00:00:40) setwindow form.mini
+\i (00:00:40) FORM mini subclass OUTLINE 
+\i (00:00:44) FORM mini line_width 0.1524 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick 0 0 
+\t (00:00:46) last pick:  0.0000 0.0000
+\i (00:00:49) ipick 100 
+\t (00:00:49) last pick:  100.0000 0.0000
+\i (00:00:51) ipick 0 100 
+\t (00:00:51) last pick:  100.0000 100.0000
+\i (00:00:53) ipick -100 
+\t (00:00:53) last pick:  0.0000 100.0000
+\i (00:00:55) pick 0 0 
+\t (00:00:55) last pick:  0.0000 0.0000
+\i (00:00:55) done 
+\i (00:00:56) generaledit 
+\i (00:00:57) delete 
+\i (00:00:58) save 
+\i (00:00:59) fillin yes 
+\i (00:00:59) generaledit 
+\i (00:01:01) netin 
+\i (00:01:04) setwindow form.niparams
+\i (00:01:04) FORM niparams browse  
+\i (00:01:12) fillin "E:/GitHub/MBEDBoard/OPAMP_TEST_V10A/SCH/ALLEGRO"
+\i (00:01:13) FORM niparams other  
+\i (00:01:14) FORM niparams browse_filename  
+\i (00:01:19) fillin "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\ALLEGRO\pxlBA.txt"
+\i (00:01:20) FORM niparams import  
+\t (00:01:20) Starting 3rd party (netin) Logic Import...
+\t (00:01:23) Opening existing design...
+\i (00:01:23) setwindow pcb
+\i (00:01:23) trapsize 12771
+\i (00:01:25) generaledit 
+\i (00:01:27) netin 
+\i (00:01:28) setwindow form.niparams
+\i (00:01:28) FORM niparams import  
+\t (00:01:28) Starting Cadence Logic Import...
+\e (00:01:30) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:02:03) setwindow pcb
+\i (00:02:03) xname_flush 
+\i (00:02:03) xname_flush 
+\i (00:02:09) xname_flush 
+\i (00:02:18) xname_flush 
+\i (00:10:24) setwindow text
+\i (00:10:24) close 
+\i (00:10:25) setwindow form.niparams
+\i (00:10:25) FORM niparams import  
+\t (00:10:25) Starting Cadence Logic Import...
+\e (00:10:27) ERROR(SPMHGE-268): netrev had errors, use Viewlog to review the log file.
+\i (00:10:37) setwindow text
+\i (00:10:37) close 
+\i (00:10:38) setwindow form.niparams
+\i (00:10:38) FORM niparams cancel  
+\i (00:10:38) setwindow pcb
+\i (00:10:38) generaledit 
+\i (00:11:13) netin 
+\i (00:11:14) setwindow form.niparams
+\i (00:11:14) FORM niparams import  
+\t (00:11:14) Starting Cadence Logic Import...
+\t (00:11:15) Opening existing design...
+\i (00:11:15) setwindow pcb
+\i (00:11:15) trapsize 12771
+\i (00:11:17) generaledit 
+\i (00:11:21) quickplace 
+\i (00:11:24) setwindow form.quickplc
+\i (00:11:24) FORM quickplc place  
+\w (00:11:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:25) FORM quickplc done  
+\i (00:11:25) setwindow pcb
+\i (00:11:25) generaledit 
+\i (00:11:26) zoom in 1 
+\i (00:11:26) setwindow pcb
+\i (00:11:26) zoom in 132.5972 10.5747
+\i (00:11:26) trapsize 6386
+\i (00:11:26) zoom in 1 
+\i (00:11:26) setwindow pcb
+\i (00:11:26) zoom in 132.9803 10.4470
+\i (00:11:26) trapsize 3193
+\i (00:11:26) zoom in 1 
+\i (00:11:26) setwindow pcb
+\i (00:11:26) zoom in 137.4504 9.7446
+\i (00:11:26) trapsize 1596
+\i (00:11:28) zoom in 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom in 135.1196 11.2772
+\i (00:11:28) trapsize 798
+\i (00:11:28) zoom in 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom in 135.1356 11.2932
+\i (00:11:28) trapsize 399
+\i (00:11:28) zoom in 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom in 135.1356 11.2932
+\i (00:11:28) trapsize 200
+\i (00:11:28) zoom out 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom out 135.7663 11.2373
+\i (00:11:28) trapsize 399
+\i (00:11:28) zoom out 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom out 135.8381 11.2294
+\i (00:11:28) trapsize 798
+\i (00:11:28) zoom out 1 
+\i (00:11:28) setwindow pcb
+\i (00:11:28) zoom out 135.9498 11.2293
+\i (00:11:28) trapsize 1596
+\i (00:11:29) zoom out 1 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom out 137.2588 11.1336
+\i (00:11:29) trapsize 3193
+\i (00:11:29) zoom out 1 
+\i (00:11:29) setwindow pcb
+\i (00:11:29) zoom out 138.3444 10.6866
+\i (00:11:29) trapsize 6386
+\i (00:11:30) zoom in 1 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 103.7339 10.8142
+\i (00:11:30) trapsize 3193
+\i (00:11:30) zoom in 1 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom in 103.7339 10.8142
+\i (00:11:30) trapsize 1596
+\i (00:11:30) zoom out 1 
+\i (00:11:30) setwindow pcb
+\i (00:11:30) zoom out 105.8412 9.9202
+\i (00:11:30) trapsize 3193
+\i (00:11:30) zoom out 1 
+\i (00:11:31) setwindow pcb
+\i (00:11:31) zoom out 106.0329 9.8564
+\i (00:11:31) trapsize 6386
+\i (00:11:31) zoom in 1 
+\i (00:11:31) setwindow pcb
+\i (00:11:31) zoom in 131.7033 59.1539
+\i (00:11:31) trapsize 3193
+\i (00:11:31) zoom in 1 
+\i (00:11:31) setwindow pcb
+\i (00:11:31) zoom in 131.7033 59.1540
+\i (00:11:31) trapsize 1596
+\i (00:11:32) zoom out 1 
+\i (00:11:32) setwindow pcb
+\i (00:11:32) zoom out 124.3598 48.4579
+\i (00:11:32) trapsize 3193
+\i (00:11:33) zoom out 1 
+\i (00:11:33) setwindow pcb
+\i (00:11:33) zoom out 123.1465 50.8845
+\i (00:11:33) trapsize 6386
+\i (00:11:34) zoom in 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom in 133.7468 54.8437
+\i (00:11:34) trapsize 3193
+\i (00:11:34) zoom in 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom in 133.7469 54.8437
+\i (00:11:34) trapsize 1596
+\i (00:11:34) zoom out 1 
+\i (00:11:34) setwindow pcb
+\i (00:11:34) zoom out 134.8325 55.5142
+\i (00:11:34) trapsize 3193
+\i (00:11:35) zoom out 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom out 135.0241 55.6419
+\i (00:11:35) trapsize 6386
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in 136.1735 55.6419
+\i (00:11:35) trapsize 3193
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in 136.1735 55.6419
+\i (00:11:35) trapsize 1596
+\i (00:11:35) zoom in 1 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) zoom in 136.1735 55.6419
+\i (00:11:35) trapsize 798
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 136.1735 55.8335
+\i (00:11:36) trapsize 1596
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 136.1735 55.8336
+\i (00:11:36) trapsize 3193
+\i (00:11:36) zoom out 1 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 136.1736 55.8336
+\i (00:11:36) trapsize 6386
+\i (00:11:39) zoom in 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom in 159.2898 66.0507
+\i (00:11:39) trapsize 3193
+\i (00:11:39) zoom in 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom in 159.2898 66.0508
+\i (00:11:39) trapsize 1596
+\i (00:11:41) zoom in 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom in 160.4711 59.3458
+\i (00:11:41) trapsize 798
+\i (00:11:41) zoom in 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom in 160.4711 59.3458
+\i (00:11:41) trapsize 399
+\i (00:11:41) zoom in 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom in 160.4712 59.3458
+\i (00:11:41) trapsize 200
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out 160.2078 59.9565
+\i (00:11:41) trapsize 399
+\i (00:11:41) zoom out 1 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) zoom out 160.2078 59.9565
+\i (00:11:41) trapsize 798
+\i (00:11:50) zoom out 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom out 159.2181 62.1435
+\i (00:11:50) trapsize 1596
+\i (00:11:50) zoom out 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom out 159.2181 62.1435
+\i (00:11:50) trapsize 3193
+\i (00:11:50) zoom out 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom out 159.2181 62.1436
+\i (00:11:50) trapsize 6386
+\i (00:11:51) zoom out 1 
+\i (00:11:51) setwindow pcb
+\i (00:11:51) zoom out 86.0380 80.7899
+\i (00:11:51) trapsize 12771
+\i (00:11:53) mirror 
+\t (00:11:53) Select element(s) to mirror.
+\i (00:11:55) change 
+\i (00:11:57) setwindow form.mini
+\i (00:11:57) FORM mini change_subclass SILKSCREEN_TOP 
+\i (00:11:58) setwindow pcb
+\i (00:11:58) drag_start grid 71.0391 120.6641
+\i (00:11:59) drag_stop 243.7083 -34.1252
+\e (00:11:59) ERROR(SPMHGE-552): Text cannot be changed from another class to this class.
+\t (00:11:59) No DRC errors detected.
+\t (00:11:59) Changed 114 items out of 122 items found.
+\i (00:11:59) zoom in 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom in 147.1566 40.4598
+\i (00:11:59) trapsize 6386
+\i (00:11:59) zoom in 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom in 147.1566 40.4598
+\i (00:11:59) trapsize 3193
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 156.2882 38.8634
+\i (00:12:00) trapsize 1596
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 156.2882 38.8634
+\i (00:12:00) trapsize 798
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 156.2883 38.8634
+\i (00:12:00) trapsize 399
+\i (00:12:00) prepopup 153.7819 39.9889
+\i (00:12:01) done 
+\i (00:12:01) generaledit 
+\i (00:12:02) save 
+\i (00:12:03) fillin yes 
+\i (00:12:04) generaledit 
+\i (00:23:14) zoom out 1 
+\i (00:23:14) setwindow pcb
+\i (00:23:14) zoom out 155.4741 39.7255
+\i (00:23:14) trapsize 798
+\i (00:23:14) zoom out 1 
+\i (00:23:14) setwindow pcb
+\i (00:23:14) zoom out 155.6657 39.6776
+\i (00:23:14) trapsize 1596
+\i (00:23:15) zoom out 1 
+\i (00:23:15) setwindow pcb
+\i (00:23:15) zoom out 157.9645 38.8793
+\i (00:23:15) trapsize 3193
+\i (00:23:15) zoom out 1 
+\i (00:23:15) setwindow pcb
+\i (00:23:15) zoom out 160.1996 38.1770
+\i (00:23:15) trapsize 6386
+\i (00:23:16) zoom out 1 
+\i (00:23:16) setwindow pcb
+\i (00:23:16) zoom out 163.7755 36.6443
+\i (00:23:16) trapsize 12771
+\i (00:23:19) zoom in 1 
+\i (00:23:19) setwindow pcb
+\i (00:23:19) zoom in 173.2102 76.7305
+\i (00:23:19) trapsize 6386
+\i (00:23:19) zoom in 1 
+\i (00:23:19) setwindow pcb
+\i (00:23:19) zoom in 173.2102 76.7306
+\i (00:23:19) trapsize 3193
+\i (00:23:20) zoom out 1 
+\i (00:23:20) setwindow pcb
+\i (00:23:20) zoom out 178.7658 77.1138
+\i (00:23:20) trapsize 6386
+\i (00:23:20) zoom out 1 
+\i (00:23:20) setwindow pcb
+\i (00:23:20) zoom out 179.4044 76.7306
+\i (00:23:20) trapsize 12771
+\i (00:24:59) zoom in 1 
+\i (00:24:59) setwindow pcb
+\i (00:24:59) zoom in 117.5270 86.4368
+\i (00:24:59) trapsize 6386
+\i (00:24:59) zoom in 1 
+\i (00:24:59) setwindow pcb
+\i (00:24:59) zoom in 117.5270 86.4368
+\i (00:24:59) trapsize 3193
+\i (00:25:01) zoom in 1 
+\i (00:25:01) setwindow pcb
+\i (00:25:01) zoom in 108.4594 96.4623
+\i (00:25:01) trapsize 1596
+\i (00:25:01) zoom in 1 
+\i (00:25:01) setwindow pcb
+\i (00:25:01) zoom in 108.4594 96.4623
+\i (00:25:01) trapsize 798
+\i (00:25:01) zoom out 1 
+\i (00:25:01) setwindow pcb
+\i (00:25:01) zoom out 108.8266 96.3826
+\i (00:25:01) trapsize 1596
+\i (00:25:01) zoom out 1 
+\i (00:25:01) setwindow pcb
+\i (00:25:01) zoom out 108.8585 96.3825
+\i (00:25:01) trapsize 3193
+\i (00:25:02) zoom out 1 
+\i (00:25:02) setwindow pcb
+\i (00:25:02) zoom out 108.8585 96.3826
+\i (00:25:02) trapsize 6386
+\i (00:25:02) zoom in 1 
+\i (00:25:02) setwindow pcb
+\i (00:25:02) zoom in 150.4933 93.8282
+\i (00:25:02) trapsize 3193
+\i (00:25:04) zoom in 1 
+\i (00:25:04) setwindow pcb
+\i (00:25:04) zoom in 162.6900 83.1641
+\i (00:25:04) trapsize 1596
+\i (00:25:04) zoom in 1 
+\i (00:25:04) setwindow pcb
+\i (00:25:04) zoom in 162.6900 83.1641
+\i (00:25:04) trapsize 798
+\i (00:25:04) zoom out 1 
+\i (00:25:04) setwindow pcb
+\i (00:25:04) zoom out 161.5087 85.3193
+\i (00:25:04) trapsize 1596
+\i (00:25:04) zoom out 1 
+\i (00:25:04) setwindow pcb
+\i (00:25:04) zoom out 161.5406 85.3193
+\i (00:25:04) trapsize 3193
+\i (00:25:04) zoom out 1 
+\i (00:25:04) setwindow pcb
+\i (00:25:04) zoom out 161.6684 85.2555
+\i (00:25:04) trapsize 6386
+\i (00:25:05) zoom out 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom out 171.6301 81.5519
+\i (00:25:05) trapsize 12771
+\i (00:25:06) zoom in 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom in 162.2268 73.1545
+\i (00:25:06) trapsize 6386
+\i (00:25:06) zoom in 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom in 162.3545 73.2823
+\i (00:25:06) trapsize 3193
+\i (00:25:06) zoom in 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom in 162.3546 73.2823
+\i (00:25:06) trapsize 1596
+\i (00:25:06) zoom in 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom in 162.3546 73.2823
+\i (00:25:06) trapsize 798
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out 164.9408 75.2938
+\i (00:25:07) trapsize 1596
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out 164.9409 75.2938
+\i (00:25:07) trapsize 3193
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out 164.9409 75.2939
+\i (00:25:07) trapsize 6386
+\i (00:25:07) zoom out 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom out 164.9409 75.2938
+\i (00:25:07) trapsize 12771
+\i (00:25:08) zoom in 1 
+\i (00:25:08) setwindow pcb
+\i (00:25:08) zoom in 108.0761 34.8404
+\i (00:25:08) trapsize 6386
+\i (00:25:09) zoom in 1 
+\i (00:25:09) setwindow pcb
+\i (00:25:09) zoom in 118.1656 31.9030
+\i (00:25:09) trapsize 3193
+\i (00:25:11) zoom in 1 
+\i (00:25:11) setwindow pcb
+\i (00:25:11) zoom in 100.7327 40.0128
+\i (00:25:11) trapsize 1596
+\i (00:25:12) zoom out 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom out 112.7378 37.0115
+\i (00:25:12) trapsize 3193
+\i (00:25:12) zoom out 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom out 114.1427 36.5646
+\i (00:25:12) trapsize 6386
+\i (00:25:12) zoom out 1 
+\i (00:25:12) setwindow pcb
+\i (00:25:12) zoom out 116.3137 36.0537
+\i (00:25:12) trapsize 12771
+\i (00:25:13) zoom in 1 
+\i (00:25:13) setwindow pcb
+\i (00:25:13) zoom in 95.8156 57.0626
+\i (00:25:13) trapsize 6386
+\i (00:25:13) zoom in 1 
+\i (00:25:13) setwindow pcb
+\i (00:25:13) zoom in 95.9433 57.0626
+\i (00:25:13) trapsize 3193
+\i (00:25:15) zoom out 1 
+\i (00:25:15) setwindow pcb
+\i (00:25:15) zoom out 117.0800 57.0626
+\i (00:25:15) trapsize 6386
+\i (00:25:17) zoom out 1 
+\i (00:25:17) setwindow pcb
+\i (00:25:17) zoom out 119.5066 56.4241
+\i (00:25:17) trapsize 12771
+\i (03:44:25) trapsize 15798
+\i (03:44:26) trapsize 18821
+\i (03:44:28) trapsize 10997
+\i (03:44:53) add line 
+\i (03:44:59) pick 0 0 
+\t (03:44:59) last pick:  0.0000 0.0000
+\i (03:45:03) ipick 85.6 
+\t (03:45:03) last pick:  85.6000 0.0000
+\e (03:45:03) ERROR(SPMHA1-415): Line segments cannot overlap.
+\e (03:45:03) ERROR(SPMHGE-86): Illegal pick.
+\i (03:45:07) done 
+\i (03:45:07) generaledit 
+\i (03:45:07) drag_start grid 22.8804 118.3578
+\i (03:45:08) drag_stop -8.5713 80.3079
+\i (03:45:08) delete 
+\i (03:45:09) generaledit 
+\i (03:45:10) add line 
+\i (03:45:12) pick 0 0 
+\t (03:45:12) last pick:  0.0000 0.0000
+\i (03:45:15) ipick 85.6 
+\t (03:45:15) last pick:  85.6000 0.0000
+\i (03:45:18) ipick 0 54 
+\t (03:45:18) last pick:  85.6000 54.0000
+\i (03:45:21) ipick -85.6 
+\t (03:45:21) last pick:  0.0000 54.0000
+\i (03:45:23) pick 0 0 
+\t (03:45:23) last pick:  0.0000 0.0000
+\i (03:45:23) done 
+\i (03:45:24) generaledit 
+\i (03:45:44) draft fillet 
+\t (03:45:44) Pick first segment to be filletted ...
+\i (03:45:48) setwindow form.mini
+\i (03:45:48) FORM mini radius 3.1800 
+\i (03:45:49) setwindow pcb
+\i (03:45:49) zoom in 1 
+\i (03:45:49) setwindow pcb
+\i (03:45:49) zoom in -7.6915 50.1760
+\i (03:45:49) trapsize 5499
+\i (03:45:49) zoom in 1 
+\i (03:45:49) setwindow pcb
+\i (03:45:49) zoom in -7.2516 50.8358
+\i (03:45:49) trapsize 2749
+\i (03:45:49) zoom in 1 
+\i (03:45:49) setwindow pcb
+\i (03:45:49) zoom in -7.0866 50.9458
+\i (03:45:49) trapsize 1375
+\i (03:45:50) drag_start grid 1.7935 52.9253
+\i (03:45:50) drag_stop -0.6259 55.9221
+\t (03:45:50) Pick first segment to be filletted ...
+\i (03:45:50) zoom out 1 
+\i (03:45:50) setwindow pcb
+\i (03:45:50) zoom out -0.9558 56.2795
+\i (03:45:50) trapsize 2749
+\i (03:45:50) zoom out 1 
+\i (03:45:50) setwindow pcb
+\i (03:45:50) zoom out -0.9558 56.2794
+\i (03:45:50) trapsize 5499
+\i (03:45:50) zoom out 1 
+\i (03:45:51) setwindow pcb
+\i (03:45:51) zoom out -0.9558 56.2795
+\i (03:45:51) trapsize 10997
+\i (03:45:51) drag_start grid 4.4055 -7.0087
+\i (03:45:51) drag_stop -8.5711 5.0881
+\t (03:45:51) Pick first segment to be filletted ...
+\i (03:45:52) drag_start grid 90.6228 -3.0497
+\i (03:45:52) drag_stop 79.6257 6.4078
+\t (03:45:53) Pick first segment to be filletted ...
+\i (03:45:53) prepopup 50.3734 51.4959
+\i (03:45:54) done 
+\i (03:45:54) generaledit 
+\i (03:45:55) zoom in 1 
+\i (03:45:55) setwindow pcb
+\i (03:45:55) zoom in 0.6665 3.1087
+\i (03:45:55) trapsize 5499
+\i (03:45:55) zoom in 1 
+\i (03:45:55) setwindow pcb
+\i (03:45:55) zoom in 0.6665 3.1087
+\i (03:45:55) trapsize 2749
+\i (03:45:56) zoom in 1 
+\i (03:45:56) setwindow pcb
+\i (03:45:56) zoom in 0.3366 0.4145
+\i (03:45:56) trapsize 1375
+\i (03:45:56) zoom in 1 
+\i (03:45:57) setwindow pcb
+\i (03:45:57) zoom in 0.3366 0.4145
+\i (03:45:57) trapsize 687
+\i (03:45:57) zoom out 1 
+\i (03:45:57) setwindow pcb
+\i (03:45:57) zoom out 0.5704 0.7307
+\i (03:45:57) trapsize 1375
+\i (03:45:57) zoom out 1 
+\i (03:45:57) setwindow pcb
+\i (03:45:57) zoom out 1.2027 0.3183
+\i (03:45:57) trapsize 2749
+\i (03:45:57) zoom out 1 
+\i (03:45:57) setwindow pcb
+\i (03:45:57) zoom out 2.0824 -0.1766
+\i (03:45:57) trapsize 5499
+\i (03:45:58) zoom out 1 
+\i (03:45:58) setwindow pcb
+\i (03:45:58) zoom out 2.7421 -0.3966
+\i (03:45:58) trapsize 10997
+\i (03:46:01) dimension edit 
+\i (03:46:02) zoom in 1 
+\i (03:46:02) setwindow pcb
+\i (03:46:02) zoom in -23.0873 60.5274
+\i (03:46:02) trapsize 5499
+\i (03:46:02) prepopup -11.2104 61.7371
+\i (03:46:02) pop path 
+\w (03:46:02) WARNING(SPMHDI-55): No dimension found.
+\i (03:46:03) prepopup -2.7426 80.6521
+\i (03:46:05) dimension edit 
+\i (03:46:05) prepopup 2.9759 86.0407
+\i (03:46:06) pop dyn_option_select '@:@Linear dimension' 
+\t (03:46:06) Pick an element or point to dimension ...
+\i (03:46:07) zoom in 1 
+\i (03:46:07) setwindow pcb
+\i (03:46:07) zoom in 1.4363 52.6095
+\i (03:46:07) trapsize 2749
+\i (03:46:07) zoom in 1 
+\i (03:46:07) setwindow pcb
+\i (03:46:07) zoom in 1.4913 52.6645
+\i (03:46:07) trapsize 1375
+\i (03:46:07) zoom in 1 
+\i (03:46:07) setwindow pcb
+\i (03:46:07) zoom in 1.6013 52.7745
+\i (03:46:07) trapsize 687
+\i (03:46:09) pick grid 3.7732 54.0117
+\t (03:46:09) last pick:  3.8000 54.0000
+\t (03:46:09) First point found ... pick the second point.
+\w (03:46:09) WARNING(SPMHDI-89): Dimension point at (3.8000, 54.0000) is not being associated with an object.
+\i (03:46:09) zoom out 1 
+\i (03:46:09) setwindow pcb
+\i (03:46:09) zoom out 2.4536 56.0874
+\i (03:46:09) trapsize 1375
+\i (03:46:09) zoom out 1 
+\i (03:46:09) setwindow pcb
+\i (03:46:09) zoom out 2.4536 56.1149
+\i (03:46:09) trapsize 2749
+\i (03:46:09) zoom out 1 
+\i (03:46:09) setwindow pcb
+\i (03:46:09) zoom out 2.5085 56.1698
+\i (03:46:09) trapsize 5499
+\i (03:46:10) zoom in 1 
+\i (03:46:10) setwindow pcb
+\i (03:46:10) zoom in 3.1684 -0.2452
+\i (03:46:10) trapsize 2749
+\i (03:46:10) zoom in 1 
+\i (03:46:10) setwindow pcb
+\i (03:46:10) zoom in 3.1684 -0.2452
+\i (03:46:10) trapsize 1375
+\i (03:46:10) zoom in 1 
+\i (03:46:10) setwindow pcb
+\i (03:46:10) zoom in 3.1684 -0.2452
+\i (03:46:10) trapsize 687
+\i (03:46:10) zoom in 1 
+\i (03:46:10) setwindow pcb
+\i (03:46:10) zoom in 3.1684 -0.2452
+\i (03:46:10) trapsize 344
+\i (03:46:12) pick grid 3.6221 -0.0115
+\t (03:46:12) last pick:  3.6000 0.0000
+\t (03:46:12) Indicate the X or Y direction first.
+\w (03:46:12) WARNING(SPMHDI-89): Dimension point at (3.6000, 0.0000) is not being associated with an object.
+\i (03:46:12) zoom out 1 
+\i (03:46:12) setwindow pcb
+\i (03:46:12) zoom out 4.1926 0.6827
+\i (03:46:12) trapsize 687
+\i (03:46:12) zoom out 1 
+\i (03:46:12) setwindow pcb
+\i (03:46:12) zoom out 4.1925 0.6827
+\i (03:46:12) trapsize 1375
+\i (03:46:12) zoom out 1 
+\i (03:46:12) setwindow pcb
+\i (03:46:12) zoom out 4.1925 0.6828
+\i (03:46:12) trapsize 2749
+\i (03:46:12) zoom out 1 
+\i (03:46:12) setwindow pcb
+\i (03:46:12) zoom out 4.1926 0.6828
+\i (03:46:12) trapsize 5499
+\i (03:46:13) pick grid -4.5022 21.6873
+\t (03:46:13) last pick:  -4.5000 21.7000
+\t (03:46:13) Pick location for the dimension value.
+\i (03:46:15) pick grid -13.1899 24.6565
+\t (03:46:15) last pick:  -13.2000 24.7000
+\t (03:46:15) Pick an element or point to dimension ...
+\i (03:46:16) zoom in 1 
+\i (03:46:16) setwindow pcb
+\i (03:46:16) zoom in 0.1166 1.4527
+\i (03:46:16) trapsize 2749
+\i (03:46:16) zoom in 1 
+\i (03:46:16) setwindow pcb
+\i (03:46:16) zoom in 0.1166 1.4527
+\i (03:46:16) trapsize 1375
+\i (03:46:16) zoom in 1 
+\i (03:46:16) setwindow pcb
+\i (03:46:16) zoom in 0.1166 1.4528
+\i (03:46:16) trapsize 687
+\i (03:46:17) zoom in 1 
+\i (03:46:17) setwindow pcb
+\i (03:46:17) zoom in -0.0483 2.7174
+\i (03:46:17) trapsize 344
+\i (03:46:17) zoom in 1 
+\i (03:46:17) setwindow pcb
+\i (03:46:17) zoom in -0.0483 2.7175
+\i (03:46:17) trapsize 172
+\i (03:46:18) pick grid -0.0071 3.2433
+\t (03:46:18) last pick:  0.0000 3.2000
+\t (03:46:18) Pick an element or point to dimension ...
+\t (03:46:18) First point found ... pick the second point.
+\w (03:46:18) WARNING(SPMHDI-89): Dimension point at (0.0000, 3.2000) is not being associated with an object.
+\i (03:46:18) zoom out 1 
+\i (03:46:18) setwindow pcb
+\i (03:46:18) zoom out -0.7356 2.8034
+\i (03:46:18) trapsize 344
+\i (03:46:18) zoom out 1 
+\i (03:46:18) setwindow pcb
+\i (03:46:18) zoom out -0.7356 2.7966
+\i (03:46:18) trapsize 687
+\i (03:46:18) zoom out 1 
+\i (03:46:18) setwindow pcb
+\i (03:46:18) zoom out -0.7357 2.7966
+\i (03:46:18) trapsize 1375
+\i (03:46:18) zoom out 1 
+\i (03:46:18) setwindow pcb
+\i (03:46:18) zoom out -0.7356 2.7967
+\i (03:46:18) trapsize 2749
+\i (03:46:19) zoom out 1 
+\i (03:46:19) setwindow pcb
+\i (03:46:19) zoom out 5.1478 2.5768
+\i (03:46:19) trapsize 5499
+\i (03:46:20) zoom in 1 
+\i (03:46:20) setwindow pcb
+\i (03:46:20) zoom in 86.6363 3.6765
+\i (03:46:20) trapsize 2749
+\i (03:46:20) zoom in 1 
+\i (03:46:20) setwindow pcb
+\i (03:46:20) zoom in 86.6912 3.7865
+\i (03:46:20) trapsize 1375
+\i (03:46:20) zoom in 1 
+\i (03:46:20) setwindow pcb
+\i (03:46:20) zoom in 86.6912 3.7866
+\i (03:46:20) trapsize 687
+\i (03:46:20) zoom in 1 
+\i (03:46:20) setwindow pcb
+\i (03:46:20) zoom in 86.6912 3.7866
+\i (03:46:20) trapsize 344
+\i (03:46:21) pick grid 85.6052 3.8828
+\t (03:46:21) last pick:  85.6000 3.9000
+\t (03:46:21) Indicate the X or Y direction first.
+\w (03:46:21) WARNING(SPMHDI-89): Dimension point at (85.6000, 3.9000) is not being associated with an object.
+\i (03:46:21) zoom out 1 
+\i (03:46:22) setwindow pcb
+\i (03:46:22) zoom out 85.0141 4.6801
+\i (03:46:22) trapsize 687
+\i (03:46:22) zoom out 1 
+\i (03:46:22) setwindow pcb
+\i (03:46:22) zoom out 85.1791 4.6939
+\i (03:46:22) trapsize 1375
+\i (03:46:22) zoom out 1 
+\i (03:46:22) setwindow pcb
+\i (03:46:22) zoom out 85.4816 4.6664
+\i (03:46:22) trapsize 2749
+\i (03:46:22) zoom out 1 
+\i (03:46:22) setwindow pcb
+\i (03:46:22) zoom out 86.0865 4.6664
+\i (03:46:22) trapsize 5499
+\i (03:46:23) pick grid 43.4177 -1.9500
+\t (03:46:23) last pick:  43.4000 -1.9000
+\t (03:46:23) Pick location for the dimension value.
+\i (03:46:24) pick grid 39.6786 -5.1392
+\t (03:46:24) last pick:  39.7000 -5.1000
+\t (03:46:24) Pick an element or point to dimension ...
+\i (03:46:24) zoom out 1 
+\i (03:46:24) setwindow pcb
+\i (03:46:24) zoom out 73.8796 -16.5762
+\i (03:46:24) trapsize 10997
+\i (03:46:25) prepopup 53.0127 93.0650
+\i (03:46:29) pop dyn_option_select '@:@Radial leader' 
+\t (03:46:29) Pick an element or point to dimension ...
+\i (03:46:32) zoom in 1 
+\i (03:46:32) setwindow pcb
+\i (03:46:32) zoom in 87.7636 54.3552
+\i (03:46:32) trapsize 5499
+\i (03:46:32) zoom in 1 
+\i (03:46:32) setwindow pcb
+\i (03:46:32) zoom in 87.7636 54.3552
+\i (03:46:32) trapsize 2749
+\i (03:46:32) zoom in 1 
+\i (03:46:32) setwindow pcb
+\i (03:46:32) zoom in 87.7636 54.3552
+\i (03:46:32) trapsize 1375
+\i (03:46:32) zoom in 1 
+\i (03:46:32) setwindow pcb
+\i (03:46:32) zoom in 87.7636 54.3552
+\i (03:46:32) trapsize 687
+\i (03:46:33) pick grid 84.8494 52.9118
+\t (03:46:33) last pick:  84.8000 52.9000
+\i (03:46:34) zoom out 1 
+\i (03:46:34) setwindow pcb
+\i (03:46:34) zoom out 86.2790 53.2692
+\i (03:46:34) trapsize 1375
+\i (03:46:34) zoom out 1 
+\i (03:46:34) setwindow pcb
+\i (03:46:34) zoom out 86.1141 52.8569
+\i (03:46:34) trapsize 2749
+\i (03:46:36) pick grid 88.5884 56.8708
+\t (03:46:36) last pick:  88.6000 56.9000
+\t (03:46:36) Add dimension value on the 'Options' tab.
+\i (03:46:38) pick grid 93.5371 56.9258
+\t (03:46:38) last pick:  93.5000 56.9000
+\i (03:46:40) prepopup 93.2071 53.3517
+\i (03:46:41) done 
+\i (03:46:41) generaledit 
+\i (03:46:42) zoom in 1 
+\i (03:46:42) setwindow pcb
+\i (03:46:42) zoom in 88.7533 55.5511
+\i (03:46:42) trapsize 1375
+\i (03:46:42) zoom in 1 
+\i (03:46:42) setwindow pcb
+\i (03:46:42) zoom in 88.7533 55.5511
+\i (03:46:42) trapsize 687
+\i (03:46:42) zoom in 1 
+\i (03:46:42) setwindow pcb
+\i (03:46:42) zoom in 88.7533 55.5511
+\i (03:46:42) trapsize 344
+\i (03:46:43) zoom out 1 
+\i (03:46:43) setwindow pcb
+\i (03:46:43) zoom out 88.7534 55.5648
+\i (03:46:43) trapsize 687
+\i (03:46:43) zoom out 1 
+\i (03:46:43) setwindow pcb
+\i (03:46:43) zoom out 88.7533 55.5649
+\i (03:46:43) trapsize 1375
+\i (03:46:43) zoom out 1 
+\i (03:46:43) setwindow pcb
+\i (03:46:43) zoom out 88.7534 55.5649
+\i (03:46:43) trapsize 2749
+\i (03:46:43) zoom out 1 
+\i (03:46:43) setwindow pcb
+\i (03:46:43) zoom out 88.7534 55.5649
+\i (03:46:43) trapsize 5499
+\i (03:46:45) zoom in 1 
+\i (03:46:45) setwindow pcb
+\i (03:46:45) zoom in 93.7021 55.3450
+\i (03:46:45) trapsize 2749
+\i (03:46:45) zoom in 1 
+\i (03:46:45) setwindow pcb
+\i (03:46:45) zoom in 93.7021 55.3450
+\i (03:46:45) trapsize 1375
+\i (03:46:46) zoom out 1 
+\i (03:46:46) setwindow pcb
+\i (03:46:46) zoom out 94.9118 57.4345
+\i (03:46:46) trapsize 2749
+\i (03:46:46) zoom out 1 
+\i (03:46:46) setwindow pcb
+\i (03:46:46) zoom out 94.9667 57.4344
+\i (03:46:46) trapsize 5499
+\i (03:46:46) zoom out 1 
+\i (03:46:46) setwindow pcb
+\i (03:46:46) zoom out 95.0766 57.6544
+\i (03:46:46) trapsize 10997
+\i (03:46:48) save 
+\i (03:46:49) fillin yes 
+\i (03:46:49) generaledit 
+\i (03:46:51) move #移动物体 
+\t (03:46:52) Select element(s) to move.
+\i (03:46:53) zoom in 1 
+\i (03:46:53) setwindow pcb
+\i (03:46:53) zoom in 171.7815 86.0269
+\i (03:46:53) trapsize 5499
+\i (03:46:55) setwindow form.find
+\i (03:46:55) FORM find all_off  
+\i (03:46:55) FORM find symbols YES 
+\i (03:46:56) setwindow pcb
+\i (03:46:56) drag_start grid 181.4589 62.4931
+\i (03:46:57) drag_stop 173.9809 89.3260
+\i (03:46:57) pick grid 173.5410 84.3773
+\t (03:46:57) last pick:  173.5000 84.4000
+\t (03:46:57) Moving MH3 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:46:57) Moving MH4 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:46:57) Moving MH2 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:46:57) Moving MH1 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:46:57) Pick new location for the element(s).
+\i (03:46:57) zoom out 1 
+\i (03:46:57) setwindow pcb
+\i (03:46:57) zoom out 190.2566 76.1295
+\i (03:46:57) trapsize 10997
+\i (03:46:58) pick grid 92.8222 21.5839
+\t (03:46:58) last pick:  92.8000 21.6000
+\i (03:46:59) pick grid 90.1829 23.5634
+\t (03:46:59) last pick:  90.2000 23.6000
+\t (03:46:59) last pick:  90.2772 24.2079
+\t (03:46:59) Moving MH1 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:46:59) Pick new location for the element(s).
+\i (03:47:00) zoom in 1 
+\i (03:47:00) setwindow pcb
+\i (03:47:00) zoom in -0.2133 0.9093
+\i (03:47:00) trapsize 5499
+\i (03:47:00) zoom in 1 
+\i (03:47:00) setwindow pcb
+\i (03:47:00) zoom in -0.1033 0.9093
+\i (03:47:00) trapsize 2749
+\i (03:47:00) zoom in 1 
+\i (03:47:00) setwindow pcb
+\i (03:47:00) zoom in 0.0067 0.9094
+\i (03:47:00) trapsize 1375
+\i (03:47:01) zoom in 1 
+\i (03:47:01) setwindow pcb
+\i (03:47:01) zoom in -0.3232 0.5520
+\i (03:47:01) trapsize 687
+\i (03:47:06) pick grid 3.2371 3.2463
+\t (03:47:07) last pick:  3.2000 3.2000
+\i (03:48:02) pick grid -1.0655 2.5040
+\t (03:48:02) last pick:  -1.1000 2.5000
+\i (03:48:02) zoom out 1 
+\i (03:48:02) setwindow pcb
+\i (03:48:02) zoom out -0.9417 2.5452
+\i (03:48:02) trapsize 1375
+\i (03:48:02) zoom out 1 
+\i (03:48:02) setwindow pcb
+\i (03:48:02) zoom out -0.8593 2.5178
+\i (03:48:02) trapsize 2749
+\i (03:48:02) zoom out 1 
+\i (03:48:02) setwindow pcb
+\i (03:48:02) zoom out -0.7493 2.4629
+\i (03:48:02) trapsize 5499
+\i (03:48:03) zoom out 1 
+\i (03:48:03) setwindow pcb
+\i (03:48:03) zoom out 35.2111 -2.4858
+\i (03:48:03) trapsize 10997
+\i (03:48:04) zoom in 1 
+\i (03:48:04) setwindow pcb
+\i (03:48:04) zoom in 86.8838 0.6893
+\i (03:48:04) trapsize 5499
+\i (03:48:04) zoom in 1 
+\i (03:48:04) setwindow pcb
+\i (03:48:04) zoom in 86.8838 0.6893
+\i (03:48:04) trapsize 2749
+\i (03:48:05) pick grid 91.3376 16.0303
+\t (03:48:05) last pick:  91.3000 16.0000
+\t (03:48:05) last pick:  90.2772 16.2831
+\t (03:48:05) Moving MH2 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:05) Pick new location for the element(s).
+\i (03:48:05) zoom in 1 
+\i (03:48:05) setwindow pcb
+\i (03:48:05) zoom in 81.1653 -0.2454
+\i (03:48:05) trapsize 1375
+\i (03:48:05) zoom in 1 
+\i (03:48:05) setwindow pcb
+\i (03:48:05) zoom in 81.1653 -0.2454
+\i (03:48:05) trapsize 687
+\i (03:48:08) pick grid 82.4574 3.1087
+\t (03:48:08) last pick:  82.5000 3.1000
+\i (03:48:09) zoom out 1 
+\i (03:48:09) setwindow pcb
+\i (03:48:09) zoom out 82.7874 -0.6578
+\i (03:48:09) trapsize 1375
+\i (03:48:09) zoom out 1 
+\i (03:48:09) setwindow pcb
+\i (03:48:09) zoom out 82.8148 -0.6853
+\i (03:48:09) trapsize 2749
+\i (03:48:10) pick grid 92.6023 2.7788
+\t (03:48:10) last pick:  92.6000 2.8000
+\t (03:48:10) last pick:  90.2772 3.0751
+\t (03:48:10) Moving MH3 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:10) Pick new location for the element(s).
+\i (03:48:10) zoom out 1 
+\i (03:48:10) setwindow pcb
+\i (03:48:10) zoom out 92.6573 -3.1046
+\i (03:48:10) trapsize 5499
+\i (03:48:11) zoom in 1 
+\i (03:48:11) setwindow pcb
+\i (03:48:11) zoom in 83.1997 54.0802
+\i (03:48:11) trapsize 2749
+\i (03:48:11) zoom in 1 
+\i (03:48:11) setwindow pcb
+\i (03:48:11) zoom in 83.1997 54.0802
+\i (03:48:11) trapsize 1375
+\i (03:48:11) zoom in 1 
+\i (03:48:11) setwindow pcb
+\i (03:48:11) zoom in 83.1998 54.0803
+\i (03:48:11) trapsize 687
+\i (03:48:14) pick grid 82.5125 50.8637
+\t (03:48:14) last pick:  82.5000 50.9000
+\i (03:48:14) zoom out 1 
+\i (03:48:14) setwindow pcb
+\i (03:48:14) zoom out 84.5332 53.2968
+\i (03:48:14) trapsize 1375
+\i (03:48:14) zoom out 1 
+\i (03:48:14) setwindow pcb
+\i (03:48:14) zoom out 85.0831 53.3243
+\i (03:48:14) trapsize 2749
+\i (03:48:14) zoom out 1 
+\i (03:48:14) setwindow pcb
+\i (03:48:14) zoom out 85.6330 53.3242
+\i (03:48:14) trapsize 5499
+\i (03:48:15) pick grid 90.5817 10.8754
+\t (03:48:15) last pick:  90.6000 10.9000
+\t (03:48:15) last pick:  90.2772 9.6791
+\t (03:48:15) Moving MH4 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:15) Pick new location for the element(s).
+\i (03:48:16) zoom in 1 
+\i (03:48:16) setwindow pcb
+\i (03:48:16) zoom in -3.6635 53.4342
+\i (03:48:16) trapsize 2749
+\i (03:48:16) zoom in 1 
+\i (03:48:16) setwindow pcb
+\i (03:48:16) zoom in -3.6635 53.5442
+\i (03:48:16) trapsize 1375
+\i (03:48:16) zoom in 1 
+\i (03:48:16) setwindow pcb
+\i (03:48:16) zoom in -3.6635 53.5442
+\i (03:48:16) trapsize 687
+\i (03:48:19) pick grid 3.1273 50.9462
+\t (03:48:19) last pick:  3.1000 50.9000
+\i (03:48:20) zoom out 1 
+\i (03:48:20) setwindow pcb
+\i (03:48:20) zoom out 3.5809 53.9566
+\i (03:48:20) trapsize 1375
+\i (03:48:20) zoom out 1 
+\i (03:48:20) setwindow pcb
+\i (03:48:20) zoom out 3.5809 53.9567
+\i (03:48:20) trapsize 2749
+\i (03:48:20) zoom out 1 
+\i (03:48:20) setwindow pcb
+\i (03:48:20) zoom out -5.6566 45.9838
+\i (03:48:20) trapsize 5499
+\i (03:48:21) zoom in 1 
+\i (03:48:21) setwindow pcb
+\i (03:48:21) zoom in 1.3814 0.6758
+\i (03:48:21) trapsize 2749
+\i (03:48:21) zoom in 1 
+\i (03:48:21) setwindow pcb
+\i (03:48:21) zoom in 1.3814 0.6758
+\i (03:48:21) trapsize 1375
+\i (03:48:21) zoom in 1 
+\i (03:48:21) setwindow pcb
+\i (03:48:21) zoom in 1.3815 0.6759
+\i (03:48:21) trapsize 687
+\i (03:48:22) zoom out 1 
+\i (03:48:22) setwindow pcb
+\i (03:48:22) zoom out 3.2235 4.0025
+\i (03:48:22) trapsize 1375
+\i (03:48:22) zoom in 1 
+\i (03:48:22) setwindow pcb
+\i (03:48:22) zoom in 1.8764 0.3461
+\i (03:48:22) trapsize 687
+\i (03:48:22) zoom in 1 
+\i (03:48:22) setwindow pcb
+\i (03:48:22) zoom in 1.8764 0.3461
+\i (03:48:22) trapsize 344
+\i (03:48:24) pick grid 3.1755 3.1985
+\t (03:48:24) last pick:  3.2000 3.2000
+\t (03:48:24) last pick:  3.2000 3.2000
+\t (03:48:24) Moving MH1 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:24) Pick new location for the element(s).
+\i (03:48:28) pick grid 3.1480 3.1297
+\t (03:48:28) last pick:  3.1000 3.1000
+\i (03:48:29) zoom out 1 
+\i (03:48:29) setwindow pcb
+\i (03:48:29) zoom out 0.9280 0.7310
+\i (03:48:29) trapsize 687
+\i (03:48:29) zoom out 1 
+\i (03:48:29) setwindow pcb
+\i (03:48:29) zoom out 0.9279 0.7310
+\i (03:48:29) trapsize 1375
+\i (03:48:29) zoom out 1 
+\i (03:48:29) setwindow pcb
+\i (03:48:29) zoom out 0.9829 0.6760
+\i (03:48:29) trapsize 2749
+\i (03:48:30) pick grid 10.4955 -2.6782
+\t (03:48:30) last pick:  10.5000 -2.7000
+\i (03:48:30) zoom in 1 
+\i (03:48:30) setwindow pcb
+\i (03:48:30) zoom in 0.6531 0.1811
+\i (03:48:30) trapsize 1375
+\i (03:48:31) zoom in 1 
+\i (03:48:31) setwindow pcb
+\i (03:48:31) zoom in 0.6531 0.1811
+\i (03:48:31) trapsize 687
+\i (03:48:32) pick grid 2.9213 2.9992
+\t (03:48:32) last pick:  2.9000 3.0000
+\t (03:48:32) last pick:  3.1000 3.1000
+\t (03:48:32) Moving MH1 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:32) Pick new location for the element(s).
+\i (03:48:35) pick grid 3.2374 3.2054
+\t (03:48:35) last pick:  3.2000 3.2000
+\i (03:48:35) zoom out 1 
+\i (03:48:36) setwindow pcb
+\i (03:48:36) zoom out -0.9689 -0.6299
+\i (03:48:36) trapsize 1375
+\i (03:48:36) zoom out 1 
+\i (03:48:36) setwindow pcb
+\i (03:48:36) zoom out -0.9690 -0.6298
+\i (03:48:36) trapsize 2749
+\i (03:48:36) zoom out 1 
+\i (03:48:36) setwindow pcb
+\i (03:48:36) zoom out -0.8589 -0.6848
+\i (03:48:36) trapsize 5499
+\i (03:48:36) zoom in 1 
+\i (03:48:36) setwindow pcb
+\i (03:48:36) zoom in -0.5291 55.4004
+\i (03:48:36) trapsize 2749
+\i (03:48:36) zoom in 1 
+\i (03:48:36) setwindow pcb
+\i (03:48:36) zoom in -0.5291 55.4004
+\i (03:48:36) trapsize 1375
+\i (03:48:37) zoom in 1 
+\i (03:48:37) setwindow pcb
+\i (03:48:37) zoom in -0.5291 55.4004
+\i (03:48:37) trapsize 687
+\i (03:48:38) pick grid 2.6738 51.1665
+\t (03:48:38) last pick:  2.7000 51.2000
+\t (03:48:38) last pick:  3.1000 50.9000
+\t (03:48:38) Moving MH4 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:38) Pick new location for the element(s).
+\i (03:48:39) pick grid 3.1549 50.8366
+\t (03:48:39) last pick:  3.2000 50.8000
+\i (03:48:40) zoom out 1 
+\i (03:48:40) setwindow pcb
+\i (03:48:40) zoom out -1.5188 51.1253
+\i (03:48:40) trapsize 1375
+\i (03:48:40) zoom out 1 
+\i (03:48:40) setwindow pcb
+\i (03:48:40) zoom out -1.5189 51.1253
+\i (03:48:40) trapsize 2749
+\i (03:48:40) zoom out 1 
+\i (03:48:40) setwindow pcb
+\i (03:48:40) zoom out -1.5188 51.1254
+\i (03:48:40) trapsize 5499
+\i (03:48:41) zoom in 1 
+\i (03:48:41) setwindow pcb
+\i (03:48:41) zoom in 83.4887 52.1151
+\i (03:48:41) trapsize 2749
+\i (03:48:41) zoom in 1 
+\i (03:48:41) setwindow pcb
+\i (03:48:41) zoom in 83.4886 52.1151
+\i (03:48:41) trapsize 1375
+\i (03:48:41) zoom in 1 
+\i (03:48:41) setwindow pcb
+\i (03:48:41) zoom in 83.4886 52.1152
+\i (03:48:41) trapsize 687
+\i (03:48:42) pick grid 83.2961 51.2767
+\t (03:48:42) last pick:  83.3000 51.3000
+\t (03:48:42) last pick:  82.5000 50.9000
+\t (03:48:42) Moving MH3 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:42) Pick new location for the element(s).
+\i (03:48:44) pick grid 82.3614 50.7543
+\t (03:48:44) last pick:  82.4000 50.8000
+\i (03:48:45) zoom out 1 
+\i (03:48:45) setwindow pcb
+\i (03:48:45) zoom out 78.6911 55.1257
+\i (03:48:45) trapsize 1375
+\i (03:48:45) zoom out 1 
+\i (03:48:45) setwindow pcb
+\i (03:48:45) zoom out 78.7736 55.1532
+\i (03:48:45) trapsize 2749
+\i (03:48:45) zoom out 1 
+\i (03:48:45) setwindow pcb
+\i (03:48:45) zoom out 78.8836 55.2081
+\i (03:48:45) trapsize 5499
+\i (03:48:46) zoom in 1 
+\i (03:48:46) setwindow pcb
+\i (03:48:46) zoom in 82.6226 1.7623
+\i (03:48:46) trapsize 2749
+\i (03:48:46) zoom in 1 
+\i (03:48:46) setwindow pcb
+\i (03:48:46) zoom in 82.6226 1.7623
+\i (03:48:46) trapsize 1375
+\i (03:48:46) zoom in 1 
+\i (03:48:46) setwindow pcb
+\i (03:48:46) zoom in 82.6227 1.7623
+\i (03:48:46) trapsize 687
+\i (03:48:47) zoom out 1 
+\i (03:48:47) setwindow pcb
+\i (03:48:47) zoom out 82.5127 5.4464
+\i (03:48:47) trapsize 1375
+\i (03:48:47) zoom in 1 
+\i (03:48:47) setwindow pcb
+\i (03:48:47) zoom in 83.2001 0.6076
+\i (03:48:47) trapsize 687
+\i (03:48:48) pick grid 82.5403 2.8070
+\t (03:48:48) last pick:  82.5000 2.8000
+\t (03:48:48) last pick:  82.5000 3.1000
+\t (03:48:48) Moving MH2 / HOLD_1_HOLD250D134_HOLD-M3 / HOLD250D134.
+\t (03:48:48) Pick new location for the element(s).
+\i (03:48:50) pick grid 82.4303 3.1507
+\t (03:48:50) last pick:  82.4000 3.2000
+\i (03:48:51) zoom out 1 
+\i (03:48:51) setwindow pcb
+\i (03:48:51) zoom out 81.6605 3.5356
+\i (03:48:51) trapsize 1375
+\i (03:48:51) zoom out 1 
+\i (03:48:51) setwindow pcb
+\i (03:48:51) zoom out 81.9630 3.4256
+\i (03:48:51) trapsize 2749
+\i (03:48:51) done 
+\i (03:48:51) generaledit 
+\i (03:48:52) save 
+\i (03:48:52) fillin yes 
+\i (03:48:53) generaledit 
+\i (03:49:11) pick grid 70.4710 -13.3999
+\t (03:49:11) last pick:  70.5000 -13.4000
+\i (03:49:42) zoom out 1 
+\i (03:49:43) setwindow pcb
+\i (03:49:43) zoom out 97.1390 -8.5062
+\i (03:49:43) trapsize 5499
+\i (03:49:43) zoom out 1 
+\i (03:49:43) setwindow pcb
+\i (03:49:43) zoom out 97.5788 -8.7262
+\i (03:49:43) trapsize 10997
+\i (03:49:44) move #移动物体 
+\t (03:49:44) Select element(s) to move.
+\i (03:49:45) zoom in 1 
+\i (03:49:45) setwindow pcb
+\i (03:49:45) zoom in 0.0066 10.8066
+\i (03:49:45) trapsize 5499
+\i (03:49:53) pick grid 19.4715 21.1439
+\t (03:49:53) last pick:  19.5000 21.1000
+\i (03:49:53) move #移动物体 
+\t (03:49:54) Select element(s) to move.
+\i (03:49:57) xrefdes R35 
+\i (03:49:57) xNet Vcc_3.3V 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xNet Power_En 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xrefdes D7 
+\i (03:49:57) xrefdes D8 
+\i (03:49:57) xrefdes R37 
+\i (03:49:57) xNet N16804487 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xNet N16804485 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xrefdes R38 
+\i (03:49:57) xNet Ble_Rx 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xNet Ble_Tx 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xNet Gnd 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xrefdes R41 
+\i (03:49:57) xNet Vbus 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xNet N16808203 
+\t (03:49:57) Nets are not selectable at this time.
+\i (03:49:57) xname_flush 
+\i (03:49:57) trapsize 3864
+\i (03:49:58) pick grid 118.0333 28.7283
+\t (03:49:58) last pick:  118.0000 28.7000
+\t (03:49:58) Moving R35 / R_GENERIC_RC0603_10K/NI / RC0603.
+\t (03:49:58) Moving D7 / LED_4_LED0805_LED_GREEN / LED0805.
+\t (03:49:58) Moving D8 / LED_4_LED0805_LED_GREEN / LED0805.
+\t (03:49:58) Moving R37 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:49:58) Moving R38 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:49:58) Moving R41 / R_GENERIC_RC0603_0R/NI / RC0603.
+\t (03:49:58) Pick new location for the element(s).
+\i (03:49:58) zoom out 1 
+\i (03:49:58) setwindow pcb
+\i (03:49:58) zoom out 120.5838 28.7283
+\i (03:49:58) trapsize 7729
+\i (03:49:59) pick grid 172.6832 20.5357
+\t (03:49:59) last pick:  172.7000 20.5000
+\i (03:50:00) zoom in 1 
+\i (03:50:00) setwindow pcb
+\i (03:50:00) zoom in 213.4922 13.4250
+\i (03:50:00) trapsize 3864
+\i (03:50:00) drag_start grid 215.8882 29.8105
+\i (03:50:00) drag_stop 211.4827 35.9163
+\i (03:50:01) pick grid 211.9464 34.9116
+\t (03:50:01) last pick:  211.9000 34.9000
+\t (03:50:01) Moving R38 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:50:01) Moving R37 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:50:01) Pick new location for the element(s).
+\i (03:50:02) pick grid 176.3159 22.2361
+\t (03:50:02) last pick:  176.3000 22.2000
+\i (03:50:02) pick grid 187.3683 39.0079
+\t (03:50:02) last pick:  187.4000 39.0000
+\t (03:50:02) last pick:  187.7574 39.1723
+\t (03:50:02) Moving R35 / R_GENERIC_RC0603_10K/NI / RC0603.
+\t (03:50:02) Pick new location for the element(s).
+\i (03:50:03) pick grid 179.7166 22.0042
+\t (03:50:03) last pick:  179.7000 22.0000
+\i (03:50:04) pick grid 177.0888 18.6808
+\t (03:50:04) last pick:  177.1000 18.7000
+\t (03:50:04) last pick:  175.9674 18.6370
+\t (03:50:04) Moving R38 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:50:04) Pick new location for the element(s).
+\i (03:50:04) pick grid 176.3159 19.9947
+\t (03:50:04) last pick:  176.3000 20.0000
+\i (03:50:05) pick grid 212.0237 14.8936
+\t (03:50:05) last pick:  212.0000 14.9000
+\t (03:50:05) last pick:  211.5674 14.7000
+\t (03:50:05) Moving R41 / R_GENERIC_RC0603_0R/NI / RC0603.
+\t (03:50:05) Pick new location for the element(s).
+\i (03:50:06) pick grid 179.7939 19.9174
+\t (03:50:06) last pick:  179.8000 19.9000
+\i (03:50:06) drag_start grid 182.4217 16.8258
+\i (03:50:06) drag_stop 170.2100 24.0137
+\i (03:50:07) pick grid 173.4561 21.3086
+\t (03:50:07) last pick:  173.5000 21.3000
+\t (03:50:07) Moving D8 / LED_4_LED0805_LED_GREEN / LED0805.
+\t (03:50:07) Moving D7 / LED_4_LED0805_LED_GREEN / LED0805.
+\t (03:50:07) Moving R41 / R_GENERIC_RC0603_0R/NI / RC0603.
+\t (03:50:07) Moving R38 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:50:07) Moving R35 / R_GENERIC_RC0603_10K/NI / RC0603.
+\t (03:50:07) Moving R37 / R_GENERIC_RC0603_1K / RC0603.
+\t (03:50:07) Pick new location for the element(s).
+\i (03:50:07) zoom out 1 
+\i (03:50:07) setwindow pcb
+\i (03:50:07) zoom out 203.0581 22.0042
+\i (03:50:07) trapsize 7729
+\i (03:50:07) zoom out 1 
+\i (03:50:07) setwindow pcb
+\i (03:50:07) zoom out 194.0152 22.0042
+\i (03:50:07) trapsize 12771
+\i (03:50:08) zoom in 1 
+\i (03:50:08) setwindow pcb
+\i (03:50:08) zoom in -2.0133 9.5530
+\i (03:50:08) trapsize 6386
+\i (03:50:09) pick grid 7.4376 59.3614
+\t (03:50:09) last pick:  7.4000 59.4000
+\i (03:50:09) zoom out 1 
+\i (03:50:09) setwindow pcb
+\i (03:50:09) zoom out 14.3341 14.2784
+\i (03:50:09) trapsize 12771
+\i (03:50:10) pick grid 105.5218 86.1814
+\t (03:50:10) last pick:  105.5000 86.2000
+\t (03:50:10) last pick:  101.0802 94.4222
+\t (03:50:10) Moving U2 / CSR8645-MUDULE_CSR8645-MUDULE_C / CSR8645-MUDULE.
+\t (03:50:10) Pick new location for the element(s).
+\i (03:50:12) pick grid 3.3507 83.1162
+\t (03:50:12) last pick:  3.4000 83.1000
+\i (03:50:19) pick grid 108.0761 -26.2069
+\t (03:50:19) last pick:  108.1000 -26.2000
+\i (03:50:23) xrefdes Sw2 
+\i (03:50:23) xrefdes Sw6 
+\i (03:50:23) xrefdes Sw7 
+\i (03:50:23) xrefdes Sw8 
+\i (03:50:23) xrefdes Sw9 
+\i (03:50:23) xrefdes Sw10 
+\i (03:50:23) xrefdes R36 
+\i (03:50:23) xNet Vcc_3.3V 
+\t (03:50:23) Nets are not selectable at this time.
+\i (03:50:23) xname_flush 
+\i (03:50:23) trapsize 4474
+\i (03:50:24) pick grid 107.2327 22.6924
+\t (03:50:24) last pick:  107.2000 22.7000
+\t (03:50:24) Moving SW2 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving SW6 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving SW7 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving SW8 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving SW9 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving SW10 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:24) Moving R36 / R_GENERIC_RC0603_10K / RC0603.
+\t (03:50:24) Pick new location for the element(s).
+\i (03:50:25) zoom out 1 
+\i (03:50:25) setwindow pcb
+\i (03:50:25) zoom out 132.4684 47.6597
+\i (03:50:25) trapsize 8949
+\i (03:50:26) zoom out 1 
+\i (03:50:27) setwindow pcb
+\i (03:50:27) zoom out 126.6011 30.2989
+\i (03:50:27) trapsize 12771
+\i (03:50:27) pick grid 178.5742 29.4764
+\t (03:50:27) last pick:  178.6000 29.5000
+\i (03:50:28) drag_start grid 214.3341 83.3717
+\i (03:50:28) drag_stop 194.4107 106.3602
+\i (03:50:28) pick grid 196.9650 100.2299
+\t (03:50:28) last pick:  197.0000 100.2000
+\t (03:50:28) Moving SW10 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:28) Moving SW2 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:28) Pick new location for the element(s).
+\i (03:50:29) zoom in 1 
+\i (03:50:29) setwindow pcb
+\i (03:50:29) zoom in 192.8782 37.1392
+\i (03:50:29) trapsize 6386
+\i (03:50:29) zoom in 1 
+\i (03:50:29) setwindow pcb
+\i (03:50:29) zoom in 192.8782 37.1392
+\i (03:50:29) trapsize 3193
+\i (03:50:31) pick grid 181.7033 40.2682
+\t (03:50:31) last pick:  181.7000 40.3000
+\i (03:50:32) zoom out 1 
+\i (03:50:32) setwindow pcb
+\i (03:50:32) zoom out 171.8693 41.7369
+\i (03:50:32) trapsize 6386
+\i (03:50:32) zoom out 1 
+\i (03:50:32) setwindow pcb
+\i (03:50:32) zoom out 154.8194 41.7369
+\i (03:50:32) trapsize 12771
+\i (03:50:33) drag_start grid 232.7249 31.2644
+\i (03:50:33) drag_stop 227.6164 39.9489
+\t (03:50:33) last pick:  228.2674 36.3548
+\t (03:50:33) Moving R36 / R_GENERIC_RC0603_10K / RC0603.
+\t (03:50:33) Pick new location for the element(s).
+\i (03:50:34) pick grid 184.4491 11.0856
+\t (03:50:34) last pick:  184.4000 11.1000
+\i (03:50:34) drag_start grid 184.1936 3.4227
+\i (03:50:35) drag_stop 171.9331 45.3129
+\i (03:50:35) pick grid 174.9982 39.1826
+\t (03:50:35) last pick:  175.0000 39.2000
+\t (03:50:35) Moving SW6 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving SW7 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving SW8 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving SW9 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving SW10 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving SW2 / SWITCH-SPST-4P_SW-6X6X6-L_KEY / SW-6X6X6-L.
+\t (03:50:35) Moving R36 / R_GENERIC_RC0603_10K / RC0603.
+\t (03:50:35) Pick new location for the element(s).
+\i (03:50:36) pick grid 23.2741 89.2465
+\t (03:50:37) last pick:  23.3000 89.2000
+\i (03:50:39) xrefdes U7 
+\i (03:50:39) xrefdes L1 
+\i (03:50:39) xrefdes C23 
+\i (03:50:39) xrefdes R39 
+\i (03:50:39) xrefdes C24 
+\i (03:50:39) xNet N16805157 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xrefdes C25 
+\i (03:50:39) xNet N16805178 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xNet Ble_Mic_Bias 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xNet Ble_Mic_Ap 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xNet Ble_Mic_An 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xNet Agnd 
+\t (03:50:39) Nets are not selectable at this time.
+\i (03:50:39) xname_flush 
+\i (03:50:39) trapsize 4474
+\i (03:50:40) pick grid 132.6091 45.9680
+\t (03:50:40) last pick:  132.6000 46.0000
+\t (03:50:40) Moving U7 / MIC_MIC_MIC / MIC.
+\t (03:50:40) Moving L1 / INDUCTOR_LC0603_15NH / LC0603.
+\t (03:50:40) Moving C23 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:40) Moving R39 / R_GENERIC_RC0603_2.2K / RC0603.
+\t (03:50:40) Moving C24 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:40) Moving C25 / CAP NP_2_CC0603_15PF_50V / CC0603.
+\t (03:50:40) Pick new location for the element(s).
+\i (03:50:41) zoom out 1 
+\i (03:50:41) setwindow pcb
+\i (03:50:41) zoom out 132.6091 45.9680
+\i (03:50:41) trapsize 8949
+\i (03:50:42) zoom out 1 
+\i (03:50:42) setwindow pcb
+\i (03:50:42) zoom out 100.8284 39.7039
+\i (03:50:42) trapsize 12771
+\i (03:50:43) pick grid 179.0851 39.6935
+\t (03:50:43) last pick:  179.1000 39.7000
+\i (03:50:43) pick grid 165.5474 0.8685
+\t (03:50:43) last pick:  165.5000 0.9000
+\t (03:50:43) last pick:  163.3034 1.0607
+\t (03:50:43) Moving L1 / INDUCTOR_LC0603_15NH / LC0603.
+\t (03:50:43) Pick new location for the element(s).
+\i (03:50:44) pick grid 179.0851 37.1392
+\t (03:50:44) last pick:  179.1000 37.1000
+\i (03:50:45) pick grid 201.5627 -0.6641
+\t (03:50:45) last pick:  201.6000 -0.7000
+\i (03:50:45) drag_start grid 205.3941 -1.4304
+\i (03:50:46) drag_stop 202.0736 4.9553
+\i (03:50:46) pick grid 203.8616 3.1673
+\t (03:50:46) last pick:  203.9000 3.2000
+\t (03:50:46) Moving C24 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:46) Moving C23 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:46) Pick new location for the element(s).
+\i (03:50:46) zoom in 1 
+\i (03:50:46) setwindow pcb
+\i (03:50:46) zoom in 193.3890 38.1609
+\i (03:50:46) trapsize 6386
+\i (03:50:46) zoom in 1 
+\i (03:50:46) setwindow pcb
+\i (03:50:46) zoom in 193.3890 38.1610
+\i (03:50:46) trapsize 3193
+\i (03:50:47) pick grid 184.3852 38.9912
+\t (03:50:47) last pick:  184.4000 39.0000
+\i (03:50:48) zoom out 1 
+\i (03:50:48) setwindow pcb
+\i (03:50:48) zoom out 174.5513 30.8175
+\i (03:50:48) trapsize 6386
+\i (03:50:49) drag_start grid 210.1195 78.4548
+\i (03:50:49) drag_stop 202.3290 92.5033
+\i (03:50:49) pick grid 204.1170 85.6067
+\t (03:50:49) last pick:  204.1000 85.6000
+\t (03:50:49) Moving U7 / MIC_MIC_MIC / MIC.
+\t (03:50:49) Moving C25 / CAP NP_2_CC0603_15PF_50V / CC0603.
+\t (03:50:49) Pick new location for the element(s).
+\i (03:50:50) zoom in 1 
+\i (03:50:50) setwindow pcb
+\i (03:50:50) zoom in 195.6879 40.2683
+\i (03:50:50) trapsize 3193
+\i (03:50:50) zoom in 1 
+\i (03:50:50) setwindow pcb
+\i (03:50:50) zoom in 195.3686 39.6297
+\i (03:50:50) trapsize 1596
+\i (03:50:51) pick grid 188.3444 35.7983
+\t (03:50:51) last pick:  188.3000 35.8000
+\i (03:50:51) pick grid 189.3661 34.6170
+\t (03:50:51) last pick:  189.4000 34.6000
+\i (03:50:52) pick grid 190.3239 34.6489
+\t (03:50:52) last pick:  190.3000 34.6000
+\t (03:50:52) last pick:  189.3482 32.4468
+\t (03:50:52) Moving U7 / MIC_MIC_MIC / MIC.
+\t (03:50:52) Pick new location for the element(s).
+\i (03:50:52) pick grid 192.6547 38.0972
+\t (03:50:52) last pick:  192.7000 38.1000
+\i (03:50:53) zoom out 1 
+\i (03:50:53) setwindow pcb
+\i (03:50:53) zoom out 190.5155 41.1942
+\i (03:50:53) trapsize 3193
+\i (03:50:53) zoom out 1 
+\i (03:50:53) setwindow pcb
+\i (03:50:53) zoom out 192.6867 41.3220
+\i (03:50:53) trapsize 6386
+\i (03:50:53) pick grid 173.9765 19.6107
+\t (03:50:53) last pick:  174.0000 19.6000
+\i (03:50:55) xrefdes U9 
+\i (03:50:55) xrefdes L2 
+\i (03:50:55) xrefdes C26 
+\i (03:50:55) xrefdes R40 
+\i (03:50:55) xrefdes C27 
+\i (03:50:55) xNet N16806457 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xNet N16806471 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xNet Ble_Mic_Bias 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xrefdes C28 
+\i (03:50:55) xNet Ble_Mic_Bn 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xNet Ble_Mic_Bp 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xNet Agnd 
+\t (03:50:55) Nets are not selectable at this time.
+\i (03:50:55) xname_flush 
+\i (03:50:55) trapsize 4474
+\i (03:50:56) pick grid 133.5934 44.4467
+\t (03:50:56) last pick:  133.6000 44.4000
+\t (03:50:56) Moving U9 / MIC_MIC_MIC / MIC.
+\t (03:50:56) Moving L2 / INDUCTOR_LC0603_15NH / LC0603.
+\t (03:50:56) Moving C26 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:56) Moving R40 / R_GENERIC_RC0603_2.2K / RC0603.
+\t (03:50:56) Moving C27 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:50:56) Moving C28 / CAP NP_2_CC0603_15PF_50V / CC0603.
+\t (03:50:56) Pick new location for the element(s).
+\i (03:50:56) zoom out 1 
+\i (03:50:56) setwindow pcb
+\i (03:50:56) zoom out 133.5934 44.4467
+\i (03:50:56) trapsize 8949
+\i (03:50:57) zoom out 1 
+\i (03:50:57) setwindow pcb
+\i (03:50:57) zoom out 75.4138 49.1002
+\i (03:50:57) trapsize 12771
+\i (03:50:58) pick grid 195.6879 26.6667
+\t (03:50:58) last pick:  195.7000 26.7000
+\i (03:50:59) pick grid 178.8296 -11.3921
+\t (03:50:59) last pick:  178.8000 -11.4000
+\t (03:50:59) last pick:  178.9034 -12.0030
+\t (03:50:59) Moving L2 / INDUCTOR_LC0603_15NH / LC0603.
+\t (03:50:59) Pick new location for the element(s).
+\i (03:51:00) pick grid 195.1770 23.8570
+\t (03:51:00) last pick:  195.2000 23.9000
+\i (03:51:00) pick grid 218.6764 -12.1584
+\t (03:51:00) last pick:  218.7000 -12.2000
+\t (03:51:00) last pick:  218.9674 -11.4370
+\t (03:51:00) Moving C27 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:51:00) Pick new location for the element(s).
+\i (03:51:01) pick grid 202.0736 23.0907
+\t (03:51:01) last pick:  202.1000 23.1000
+\i (03:52:33) pick grid 67.2077 95.6322
+\t (03:52:33) last pick:  67.2000 95.6000
+\i (03:52:36) save 
+\i (03:52:36) fillin yes 
+\i (03:52:36) generaledit 
+\i (03:59:37) pick grid 80.4899 -17.0115
+\t (03:59:37) last pick:  80.5000 -17.0000
+\i (03:59:37) move #移动物体 
+\t (03:59:37) Select element(s) to move.
+\i (03:59:40) xrefdes Dc1 
+\i (03:59:40) xNet Vcc_24V 
+\t (03:59:40) Nets are not selectable at this time.
+\i (03:59:40) xNet Gnd 
+\t (03:59:40) Nets are not selectable at this time.
+\i (03:59:40) xrefdes D20 
+\i (03:59:40) xNet Pvcc 
+\t (03:59:40) Nets are not selectable at this time.
+\i (03:59:40) xname_flush 
+\i (03:59:40) trapsize 2719
+\i (03:59:41) pick grid 120.6339 67.4734
+\t (03:59:41) last pick:  120.6000 67.5000
+\t (03:59:41) Moving DC1 / DC005_DC005_DC005 / DC005.
+\t (03:59:41) Moving D20 / DIODE13_6_TO-227A_V10P10 / TO-227A.
+\t (03:59:41) Pick new location for the element(s).
+\i (03:59:41) zoom out 1 
+\i (03:59:41) setwindow pcb
+\i (03:59:41) zoom out 123.3532 68.8874
+\i (03:59:41) trapsize 5438
+\i (03:59:41) zoom out 1 
+\i (03:59:41) setwindow pcb
+\i (03:59:41) zoom out 126.1811 68.4523
+\i (03:59:41) trapsize 10877
+\i (03:59:42) zoom in 1 
+\i (03:59:42) setwindow pcb
+\i (03:59:42) zoom in -8.1483 25.3435
+\i (03:59:42) trapsize 5438
+\i (03:59:43) zoom in 1 
+\i (03:59:44) setwindow pcb
+\i (03:59:44) zoom in 3.7076 30.7820
+\i (03:59:44) trapsize 2719
+\i (03:59:45) pick grid 4.9585 31.3259
+\t (03:59:45) last pick:  5.0000 31.3000
+\i (03:59:46) pick grid 16.9775 30.0750
+\t (03:59:46) last pick:  17.0000 30.1000
+\i (03:59:46) pick grid 3.8708 32.1416
+\t (03:59:46) last pick:  3.9000 32.1000
+\t (03:59:46) last pick:  2.4842 33.6013
+\t (03:59:46) Moving D20 / DIODE13_6_TO-227A_V10P10 / TO-227A.
+\t (03:59:46) Pick new location for the element(s).
+\i (03:59:47) pick grid 19.3161 42.6923
+\t (03:59:47) last pick:  19.3000 42.7000
+\i (03:59:47) pick grid 27.3650 36.5468
+\t (03:59:47) last pick:  27.4000 36.5000
+\i (03:59:51) xNet Vcc_3.3V 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet N16814782 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Gnd 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Earphonr_L 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Linp 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Ble_Spk_L_P1 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet N16815623 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Ble_Spk_L_N1 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Agnd 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Linn 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xrefdes U11 
+\i (03:59:51) xrefdes C90 
+\i (03:59:51) xNet Rinp 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet N16815830 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Ble_Spk_R_P1 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Earphonr_R 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xrefdes C91 
+\i (03:59:51) xrefdes U12 
+\i (03:59:51) xNet N16816045 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Ble_Spk_R_N1 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xNet Rinn 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xrefdes U13 
+\i (03:59:51) xrefdes C92 
+\i (03:59:51) xrefdes R174 
+\i (03:59:51) xNet Ctl_Sourse 
+\t (03:59:51) Nets are not selectable at this time.
+\i (03:59:51) xrefdes R175 
+\i (03:59:51) xrefdes R176 
+\i (03:59:51) xrefdes R177 
+\i (03:59:51) xrefdes U10 
+\i (03:59:51) xrefdes C89 
+\i (03:59:51) xname_flush 
+\i (03:59:51) trapsize 4474
+\i (03:59:52) pick grid 155.6995 47.6111
+\t (03:59:52) last pick:  155.7000 47.6000
+\t (03:59:52) Moving U11 / TS5A3159DBVR_0_SOT23-6_TS5A3159 / SOT23-6.
+\t (03:59:52) Moving C90 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:59:52) Moving C91 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:59:52) Moving U12 / TS5A3159DBVR_0_SOT23-6_TS5A3159 / SOT23-6.
+\t (03:59:52) Moving U13 / TS5A3159DBVR_0_SOT23-6_TS5A3159 / SOT23-6.
+\t (03:59:52) Moving C92 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:59:52) Moving R174 / R_GENERIC_RC0603_0R / RC0603.
+\t (03:59:52) Moving R175 / R_GENERIC_RC0603_0R / RC0603.
+\t (03:59:52) Moving R176 / R_GENERIC_RC0603_0R / RC0603.
+\t (03:59:52) Moving R177 / R_GENERIC_RC0603_0R / RC0603.
+\t (03:59:52) Moving U10 / TS5A3159DBVR_0_SOT23-6_TS5A3159 / SOT23-6.
+\t (03:59:52) Moving C89 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (03:59:52) Pick new location for the element(s).
+\i (03:59:52) zoom out 1 
+\i (03:59:52) setwindow pcb
+\i (03:59:52) zoom out 155.6995 47.6111
+\i (03:59:52) trapsize 8949
+\i (03:59:54) zoom out 1 
+\i (03:59:54) setwindow pcb
+\i (03:59:54) zoom out 119.3672 46.7163
+\i (03:59:54) trapsize 12771
+\i (03:59:56) pick grid 232.2141 26.4112
+\t (03:59:56) last pick:  232.2000 26.4000
+\e (03:59:56) ERROR(SPMHA1-73): Text line is outside of the extents.
+\i (04:00:00) pick grid 51.1157 21.8135
+\t (04:00:00) last pick:  51.1000 21.8000
+\i (04:00:01) drag_start grid 71.8054 67.2797
+\i (04:00:01) drag_stop 61.5883 76.2197
+\i (04:00:02) pick grid 65.1642 74.1763
+\t (04:00:02) last pick:  65.2000 74.2000
+\t (04:00:02) Moving C92 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:02) Moving C91 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:02) Pick new location for the element(s).
+\i (04:00:03) pick grid 57.5014 24.8787
+\t (04:00:03) last pick:  57.5000 24.9000
+\i (04:00:03) drag_start grid 53.9254 -27.2286
+\i (04:00:04) drag_stop 50.6049 -20.8429
+\i (04:00:04) pick grid 52.6483 -23.9080
+\t (04:00:04) last pick:  52.6000 -23.9000
+\t (04:00:04) Moving C90 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:04) Moving C89 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:04) Pick new location for the element(s).
+\i (04:00:04) zoom in 1 
+\i (04:00:04) setwindow pcb
+\i (04:00:04) zoom in 54.6917 16.1941
+\i (04:00:04) trapsize 6386
+\i (04:00:04) zoom in 1 
+\i (04:00:04) setwindow pcb
+\i (04:00:04) zoom in 54.6918 16.3219
+\i (04:00:04) trapsize 3193
+\i (04:00:05) zoom in 1 
+\i (04:00:05) setwindow pcb
+\i (04:00:05) zoom in 54.8834 16.7050
+\i (04:00:05) trapsize 1596
+\i (04:00:05) pick grid 56.9588 17.8545
+\t (04:00:05) last pick:  57.0000 17.9000
+\i (04:00:06) pick grid 56.7991 16.8328
+\t (04:00:06) last pick:  56.8000 16.8000
+\t (04:00:06) last pick:  56.6674 17.2719
+\t (04:00:06) Moving C90 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:06) Pick new location for the element(s).
+\i (04:00:07) pick grid 56.6395 18.9720
+\t (04:00:07) last pick:  56.6000 19.0000
+\i (04:00:07) drag_start grid 55.9690 17.7587
+\i (04:00:07) drag_stop 51.9779 25.1022
+\i (04:00:07) pick grid 52.9039 22.1648
+\t (04:00:07) last pick:  52.9000 22.2000
+\t (04:00:07) Moving R177 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:07) Moving R176 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:07) Moving R175 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:07) Moving R174 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:07) Moving C90 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:07) Moving C89 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:07) Moving C91 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:07) Moving C92 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:00:07) Pick new location for the element(s).
+\i (04:00:07) zoom out 1 
+\i (04:00:07) setwindow pcb
+\i (04:00:07) zoom out 65.5795 23.6335
+\i (04:00:07) trapsize 3193
+\i (04:00:08) zoom out 1 
+\i (04:00:08) setwindow pcb
+\i (04:00:08) zoom out 68.1338 23.5697
+\i (04:00:08) trapsize 6386
+\i (04:00:08) zoom out 1 
+\i (04:00:08) setwindow pcb
+\i (04:00:08) zoom out 70.9434 23.5698
+\i (04:00:08) trapsize 12771
+\i (04:00:08) zoom in 1 
+\i (04:00:08) setwindow pcb
+\i (04:00:08) zoom in -19.3824 3.6782
+\i (04:00:08) trapsize 6386
+\i (04:00:08) zoom in 1 
+\i (04:00:08) setwindow pcb
+\i (04:00:08) zoom in -19.3824 3.6782
+\i (04:00:08) trapsize 3193
+\i (04:00:09) zoom in 1 
+\i (04:00:09) setwindow pcb
+\i (04:00:09) zoom in -10.3786 5.9132
+\i (04:00:09) trapsize 1596
+\i (04:00:10) pick grid -10.7298 5.4343
+\t (04:00:10) last pick:  -10.7000 5.4000
+\i (04:00:11) pick grid -2.8754 15.2044
+\t (04:00:11) last pick:  -2.9000 15.2000
+\i (04:00:12) pick grid -4.0887 15.3322
+\t (04:00:12) last pick:  -4.1000 15.3000
+\t (04:00:12) last pick:  -2.9448 15.3702
+\t (04:00:12) Moving U13 / TS5A3159DBVR_0_SOT23-6_TS5A3159 / SOT23-6.
+\t (04:00:12) Pick new location for the element(s).
+\i (04:00:13) pick grid -6.5152 11.3730
+\t (04:00:13) last pick:  -6.5000 11.4000
+\i (04:00:13) zoom out 1 
+\i (04:00:13) setwindow pcb
+\i (04:00:13) zoom out -7.6647 9.8405
+\i (04:00:13) trapsize 3193
+\i (04:00:17) xNet N16818770 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xNet N16818772 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xNet Vcc_3.3V 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xNet N16818790 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xNet Vcc_24V 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xNet Gnd 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xrefdes C10 
+\i (04:00:17) xrefdes D2 
+\i (04:00:17) xrefdes U14 
+\i (04:00:17) xrefdes C11 
+\i (04:00:17) xrefdes L17 
+\i (04:00:17) xrefdes C9 
+\i (04:00:17) xrefdes R17 
+\i (04:00:17) xrefdes R15 
+\i (04:00:17) xrefdes R16 
+\i (04:00:17) xNet N16818960 
+\t (04:00:17) Nets are not selectable at this time.
+\i (04:00:17) xrefdes C70 
+\i (04:00:17) xrefdes C98 
+\i (04:00:17) xname_flush 
+\i (04:00:17) trapsize 4474
+\i (04:00:18) pick grid 129.9199 51.4259
+\t (04:00:18) last pick:  129.9000 51.4000
+\t (04:00:18) Moving C10 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:18) Moving D2 / DIODE13_8_DO-214AC_SS14 / DO-214AC.
+\t (04:00:18) Moving U14 / MP2359DJ-LF-Z_TSOT23-6_MP2359DJ / TSOT23-6.
+\t (04:00:18) Moving C11 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:18) Moving L17 / INDUCTOR_0_L-SLF6028_SLF6028T-4 / L-SLF6028.
+\t (04:00:18) Moving C9 / CAP NP_2_CC0603_10NF_50V / CC0603.
+\t (04:00:18) Moving R17 / R_GENERIC_RC0603_16.2K / RC0603.
+\t (04:00:18) Moving R15 / R_GENERIC_RC0603_49.9K / RC0603.
+\t (04:00:18) Moving R16 / R_GENERIC_RC0603_100K / RC0603.
+\t (04:00:18) Moving C70 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:18) Moving C98 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:18) Pick new location for the element(s).
+\i (04:00:18) zoom out 1 
+\i (04:00:18) setwindow pcb
+\i (04:00:18) zoom out 130.7253 51.6944
+\i (04:00:18) trapsize 8949
+\i (04:00:19) zoom out 1 
+\i (04:00:19) setwindow pcb
+\i (04:00:19) zoom out 128.2119 51.6944
+\i (04:00:19) trapsize 12771
+\i (04:00:20) zoom out 1 
+\i (04:00:20) setwindow pcb
+\i (04:00:20) zoom out 94.7939 24.3678
+\i (04:00:20) trapsize 12771
+\i (04:00:22) pick grid 65.4197 95.1213
+\t (04:00:22) last pick:  65.4000 95.1000
+\i (04:00:22) pick grid 37.0672 89.5019
+\t (04:00:23) last pick:  37.1000 89.5000
+\t (04:00:23) last pick:  37.1552 88.9922
+\t (04:00:23) Moving U14 / MP2359DJ-LF-Z_TSOT23-6_MP2359DJ / TSOT23-6.
+\t (04:00:23) Pick new location for the element(s).
+\i (04:00:23) pick grid 55.9688 82.3499
+\t (04:00:23) last pick:  56.0000 82.3000
+\i (04:00:24) pick grid 70.5282 46.0792
+\t (04:00:24) last pick:  70.5000 46.1000
+\t (04:00:24) last pick:  69.6877 46.8099
+\t (04:00:24) Moving C98 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:24) Pick new location for the element(s).
+\i (04:00:24) zoom in 1 
+\i (04:00:24) setwindow pcb
+\i (04:00:24) zoom in 51.6266 83.6271
+\i (04:00:24) trapsize 6386
+\i (04:00:24) zoom in 1 
+\i (04:00:25) setwindow pcb
+\i (04:00:25) zoom in 51.6266 83.6271
+\i (04:00:25) trapsize 3193
+\i (04:00:25) pick grid 53.7978 86.4369
+\t (04:00:25) last pick:  53.8000 86.4000
+\i (04:00:26) zoom out 1 
+\i (04:00:26) setwindow pcb
+\i (04:00:26) zoom out 53.4785 66.2581
+\i (04:00:26) trapsize 6386
+\i (04:00:27) pick grid 92.9421 81.5837
+\t (04:00:27) last pick:  92.9000 81.6000
+\t (04:00:27) last pick:  92.3674 81.5733
+\t (04:00:27) Moving R16 / R_GENERIC_RC0603_100K / RC0603.
+\t (04:00:27) Pick new location for the element(s).
+\i (04:00:28) pick grid 59.6088 77.6246
+\t (04:00:28) last pick:  59.6000 77.6000
+\i (04:00:28) drag_start grid 71.1030 91.1623
+\i (04:00:28) drag_stop 69.0596 99.0805
+\i (04:00:29) pick grid 69.0596 97.9311
+\t (04:00:29) last pick:  69.1000 97.9000
+\t (04:00:29) Moving R15 / R_GENERIC_RC0603_49.9K / RC0603.
+\t (04:00:29) Moving R17 / R_GENERIC_RC0603_16.2K / RC0603.
+\t (04:00:29) Moving L17 / INDUCTOR_0_L-SLF6028_SLF6028T-4 / L-SLF6028.
+\t (04:00:29) Pick new location for the element(s).
+\i (04:00:29) zoom in 1 
+\i (04:00:29) setwindow pcb
+\i (04:00:29) zoom in 63.1847 88.7357
+\i (04:00:29) trapsize 3193
+\i (04:00:30) pick grid 60.4389 85.4151
+\t (04:00:30) last pick:  60.4000 85.4000
+\i (04:00:31) pick grid 94.2192 102.7842
+\t (04:00:31) last pick:  94.2000 102.8000
+\i (04:00:32) pick grid 92.1119 103.4867
+\t (04:00:32) last pick:  92.1000 103.5000
+\t (04:00:32) last pick:  94.2470 103.6942
+\t (04:00:32) Moving C10 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:32) Pick new location for the element(s).
+\i (04:00:33) pick grid 64.0149 77.3053
+\t (04:00:33) last pick:  64.0000 77.3000
+\i (04:00:33) zoom out 1 
+\i (04:00:33) setwindow pcb
+\i (04:00:33) zoom out 64.0787 76.9222
+\i (04:00:33) trapsize 6386
+\i (04:00:34) zoom out 1 
+\i (04:00:34) setwindow pcb
+\i (04:00:34) zoom out 65.1005 77.5607
+\i (04:00:34) trapsize 12771
+\i (04:00:35) drag_start grid 100.4133 132.1584
+\i (04:00:35) drag_stop 88.4082 144.4189
+\i (04:00:35) pick grid 90.7070 138.5441
+\t (04:00:35) last pick:  90.7000 138.5000
+\t (04:00:35) Moving C11 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:35) Moving C70 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:35) Pick new location for the element(s).
+\i (04:00:36) zoom in 1 
+\i (04:00:36) setwindow pcb
+\i (04:00:36) zoom in 63.6317 79.7957
+\i (04:00:36) trapsize 6386
+\i (04:00:36) zoom in 1 
+\i (04:00:36) setwindow pcb
+\i (04:00:36) zoom in 63.6317 79.7957
+\i (04:00:36) trapsize 3193
+\i (04:00:37) pick grid 65.9306 82.6693
+\t (04:00:37) last pick:  65.9000 82.7000
+\i (04:00:37) zoom in 1 
+\i (04:00:37) setwindow pcb
+\i (04:00:37) zoom in 58.2039 84.8404
+\i (04:00:37) trapsize 1596
+\i (04:00:38) zoom in 1 
+\i (04:00:38) setwindow pcb
+\i (04:00:38) zoom in 58.2039 84.8404
+\i (04:00:38) trapsize 798
+\i (04:00:38) pick grid 67.8942 80.6099
+\t (04:00:38) last pick:  67.9000 80.6000
+\t (04:00:38) last pick:  69.4470 80.6508
+\t (04:00:38) Moving C11 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:38) Pick new location for the element(s).
+\i (04:00:39) pick grid 64.3182 80.1469
+\t (04:00:39) last pick:  64.3000 80.1000
+\i (04:00:40) pick grid 68.1017 85.1597
+\t (04:00:40) last pick:  68.1000 85.2000
+\i (04:00:40) pick grid 67.4791 85.5269
+\t (04:00:40) last pick:  67.5000 85.5000
+\t (04:00:40) last pick:  68.6977 86.4522
+\t (04:00:40) Moving C70 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:40) Pick new location for the element(s).
+\i (04:00:41) pick grid 68.3891 83.5473
+\t (04:00:41) last pick:  68.4000 83.5000
+\i (04:00:42) zoom out 1 
+\i (04:00:42) setwindow pcb
+\i (04:00:42) zoom out 64.4459 81.9988
+\i (04:00:42) trapsize 1596
+\i (04:00:42) pick grid 67.1599 83.4355
+\t (04:00:42) last pick:  67.2000 83.4000
+\t (04:00:42) last pick:  68.4000 83.5000
+\t (04:00:42) Moving C70 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:42) Pick new location for the element(s).
+\i (04:00:43) pick grid 54.0373 89.8851
+\t (04:00:43) last pick:  54.0000 89.9000
+\i (04:00:44) pick grid 69.3629 83.1162
+\t (04:00:44) last pick:  69.4000 83.1000
+\i (04:00:45) drag_start grid 65.2122 76.0920
+\i (04:00:46) drag_stop 52.0577 91.4176
+\i (04:00:46) pick grid 56.2084 87.2988
+\t (04:00:46) last pick:  56.2000 87.3000
+\t (04:00:46) Moving D2 / DIODE13_8_DO-214AC_SS14 / DO-214AC.
+\t (04:00:46) Moving C98 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:46) Moving C9 / CAP NP_2_CC0603_10NF_50V / CC0603.
+\t (04:00:46) Moving C70 / CAP NP_2_CC1210_2.2UF_100V / CC1210.
+\t (04:00:46) Moving R17 / R_GENERIC_RC0603_16.2K / RC0603.
+\t (04:00:46) Moving R16 / R_GENERIC_RC0603_100K / RC0603.
+\t (04:00:46) Moving R15 / R_GENERIC_RC0603_49.9K / RC0603.
+\t (04:00:46) Moving U14 / MP2359DJ-LF-Z_TSOT23-6_MP2359DJ / TSOT23-6.
+\t (04:00:46) Moving C11 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:46) Moving C10 / CAP NP_2_CC1206_22UF_10V / CC1206.
+\t (04:00:46) Moving L17 / INDUCTOR_0_L-SLF6028_SLF6028T-4 / L-SLF6028.
+\t (04:00:46) Pick new location for the element(s).
+\i (04:00:46) zoom out 1 
+\i (04:00:46) setwindow pcb
+\i (04:00:46) zoom out 61.9875 89.0549
+\i (04:00:46) trapsize 3193
+\i (04:00:46) zoom out 1 
+\i (04:00:46) setwindow pcb
+\i (04:00:46) zoom out 64.0947 89.0550
+\i (04:00:46) trapsize 6386
+\i (04:00:46) zoom out 1 
+\i (04:00:46) setwindow pcb
+\i (04:00:46) zoom out 67.6708 88.6718
+\i (04:00:46) trapsize 12771
+\i (04:00:47) zoom in 1 
+\i (04:00:47) setwindow pcb
+\i (04:00:47) zoom in -9.6761 39.1826
+\i (04:00:47) trapsize 6386
+\i (04:00:48) zoom in 1 
+\i (04:00:48) setwindow pcb
+\i (04:00:48) zoom in 29.4044 42.1200
+\i (04:00:48) trapsize 3193
+\i (04:00:49) pick grid 29.5960 43.0779
+\t (04:00:49) last pick:  29.6000 43.1000
+\i (04:00:49) pick grid 47.0928 42.5671
+\t (04:00:49) last pick:  47.1000 42.6000
+\i (04:00:51) xrefdes Sw11 
+\i (04:00:51) xNet N16821551 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xNet N16821549 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xrefdes R167 
+\i (04:00:51) xNet Ctl_Shutdown 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xNet Ctl_Sourse 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xrefdes R169 
+\i (04:00:51) xrefdes R168 
+\i (04:00:51) xNet Vcc_3.3V 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xrefdes R170 
+\i (04:00:51) xrefdes R171 
+\i (04:00:51) xNet Gain0 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xrefdes R173 
+\i (04:00:51) xNet Gain1 
+\t (04:00:51) Nets are not selectable at this time.
+\i (04:00:51) xname_flush 
+\i (04:00:51) trapsize 4474
+\i (04:00:52) pick grid 154.6864 33.8055
+\t (04:00:52) last pick:  154.7000 33.8000
+\t (04:00:52) Moving SW11 / SW DIP-4_0_DM-04-V_DM-04-V / DM-04-V.
+\t (04:00:52) Moving R167 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:52) Moving R169 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:52) Moving R168 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:52) Moving R170 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:52) Moving R171 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:52) Moving R173 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:52) Pick new location for the element(s).
+\i (04:00:53) zoom out 1 
+\i (04:00:53) setwindow pcb
+\i (04:00:53) zoom out 154.7759 34.4319
+\i (04:00:53) trapsize 8949
+\i (04:00:54) pick grid 65.6456 1.3213
+\t (04:00:54) last pick:  65.6000 1.3000
+\i (04:00:55) drag_start grid 69.9410 -2.4372
+\i (04:00:55) drag_stop 67.2564 5.7957
+\i (04:00:55) pick grid 69.0462 2.5741
+\t (04:00:55) last pick:  69.0000 2.6000
+\t (04:00:55) Moving R170 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:55) Moving R168 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:55) Moving R169 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:55) Moving R167 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:55) Pick new location for the element(s).
+\i (04:00:56) zoom in 1 
+\i (04:00:56) setwindow pcb
+\i (04:00:56) zoom in 66.8984 18.8610
+\i (04:00:56) trapsize 4474
+\i (04:00:56) zoom in 1 
+\i (04:00:56) setwindow pcb
+\i (04:00:56) zoom in 66.8985 18.8610
+\i (04:00:56) trapsize 2237
+\i (04:00:58) pick grid 68.9119 16.0422
+\t (04:00:58) last pick:  68.9000 16.0000
+\i (04:00:58) drag_start grid 68.7329 12.9996
+\i (04:00:58) drag_stop 68.5987 21.4563
+\i (04:00:58) pick grid 68.9119 20.0692
+\t (04:00:58) last pick:  68.9000 20.1000
+\t (04:00:58) Moving R169 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:58) Moving R170 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:58) Moving R167 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:58) Moving R168 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:00:58) Moving R173 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:58) Moving R171 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:00:58) Pick new location for the element(s).
+\i (04:00:59) zoom out 1 
+\i (04:00:59) setwindow pcb
+\i (04:00:59) zoom out 77.6818 22.3511
+\i (04:00:59) trapsize 4474
+\i (04:00:59) zoom out 1 
+\i (04:00:59) setwindow pcb
+\i (04:00:59) zoom out 79.5610 22.9776
+\i (04:00:59) trapsize 8949
+\i (04:00:59) zoom in 1 
+\i (04:00:59) setwindow pcb
+\i (04:00:59) zoom in 24.1913 22.9776
+\i (04:00:59) trapsize 4474
+\i (04:01:00) zoom in 1 
+\i (04:01:00) setwindow pcb
+\i (04:01:00) zoom in 24.1913 23.0671
+\i (04:01:00) trapsize 2237
+\i (04:01:00) pick grid 24.7730 23.8725
+\t (04:01:00) last pick:  24.8000 23.9000
+\i (04:01:01) drag_start grid 23.8334 15.6843
+\i (04:01:01) drag_stop 17.7482 25.5280
+\i (04:01:01) pick grid 18.6878 23.5593
+\t (04:01:01) last pick:  18.7000 23.6000
+\t (04:01:01) Moving SW11 / SW DIP-4_0_DM-04-V_DM-04-V / DM-04-V.
+\t (04:01:01) Moving R168 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:01) Moving R170 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:01) Moving R169 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:01) Moving R171 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:01:01) Moving R173 / R_GENERIC_RC0603_0R / RC0603.
+\t (04:01:01) Moving R167 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:01) Pick new location for the element(s).
+\i (04:01:02) zoom out 1 
+\i (04:01:02) setwindow pcb
+\i (04:01:02) zoom out 36.1380 27.1836
+\i (04:01:02) trapsize 4474
+\i (04:01:02) zoom out 1 
+\i (04:01:02) setwindow pcb
+\i (04:01:02) zoom out 36.7645 27.5415
+\i (04:01:02) trapsize 8949
+\i (04:01:03) pick grid 7.1885 -9.3278
+\t (04:01:03) last pick:  7.2000 -9.3000
+\i (04:01:03) pick grid 42.8049 -17.2028
+\t (04:01:03) last pick:  42.8000 -17.2000
+\i (04:01:10) xrefdes R42 
+\i (04:01:10) xNet Ctl_Shutdown 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xrefdes R44 
+\i (04:01:10) xNet N16810006 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xrefdes R45 
+\i (04:01:10) xNet N16810025 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet N16810063 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet Pvcc 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xrefdes R46 
+\i (04:01:10) xNet Gnd 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet N16810301 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet N16810289 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xrefdes C29 
+\i (04:01:10) xrefdes C30 
+\i (04:01:10) xrefdes C31 
+\i (04:01:10) xrefdes C85 
+\i (04:01:10) xrefdes C86 
+\i (04:01:10) xNet Rinp 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet Rinn 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet Gain0 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet Gain1 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet N16813988 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet N16814000 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xrefdes C88 
+\i (04:01:10) xrefdes C87 
+\i (04:01:10) xNet Linp 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xNet Linn 
+\t (04:01:10) Nets are not selectable at this time.
+\i (04:01:10) xname_flush 
+\i (04:01:10) trapsize 4474
+\i (04:01:11) pick grid 156.6679 20.8275
+\t (04:01:11) last pick:  156.7000 20.8000
+\t (04:01:11) Moving R42 / R_GENERIC_RC0603_1K / RC0603.
+\t (04:01:11) Moving R44 / R_GENERIC_RC0603_10R / RC0603.
+\t (04:01:11) Moving R45 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:11) Moving R46 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:11) Moving C29 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:01:11) Moving C30 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:01:11) Moving C31 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:01:11) Moving C85 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:11) Moving C86 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:11) Moving C88 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:11) Moving C87 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:11) Pick new location for the element(s).
+\i (04:01:12) zoom out 1 
+\i (04:01:12) setwindow pcb
+\i (04:01:12) zoom out 156.5784 20.6485
+\i (04:01:12) trapsize 8949
+\i (04:01:13) zoom out 1 
+\i (04:01:13) setwindow pcb
+\i (04:01:13) zoom out 111.8343 17.4270
+\i (04:01:13) trapsize 12771
+\i (04:01:14) pick grid 90.4516 18.4930
+\t (04:01:14) last pick:  90.5000 18.5000
+\i (04:01:14) drag_start grid 54.6917 37.1392
+\i (04:01:15) drag_stop 49.8386 50.1660
+\i (04:01:15) pick grid 51.3711 46.3346
+\t (04:01:15) last pick:  51.4000 46.3000
+\t (04:01:15) Moving C88 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:15) Moving C86 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:15) Moving C87 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:15) Moving C85 / CAP NP_2_CC1206_1UF_50V / CC1206.
+\t (04:01:15) Pick new location for the element(s).
+\i (04:01:15) zoom in 1 
+\i (04:01:15) setwindow pcb
+\i (04:01:15) zoom in 99.6470 12.8736
+\i (04:01:15) trapsize 6386
+\i (04:01:16) zoom in 1 
+\i (04:01:16) setwindow pcb
+\i (04:01:16) zoom in 95.5602 6.2325
+\i (04:01:16) trapsize 3193
+\i (04:01:16) zoom in 1 
+\i (04:01:16) setwindow pcb
+\i (04:01:16) zoom in 95.5602 6.2325
+\i (04:01:16) trapsize 1596
+\i (04:01:17) zoom out 1 
+\i (04:01:17) setwindow pcb
+\i (04:01:17) zoom out 95.9115 7.7970
+\i (04:01:17) trapsize 3193
+\i (04:01:17) pick grid 94.3789 6.5199
+\t (04:01:17) last pick:  94.4000 6.5000
+\i (04:01:18) drag_start grid 94.6982 15.3960
+\i (04:01:18) drag_stop 90.8029 27.7843
+\i (04:01:18) pick grid 90.1005 24.5275
+\t (04:01:18) last pick:  90.1000 24.5000
+\t (04:01:18) Moving C31 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:01:18) Moving C29 / CAP NP_2_CC0603_0.1UF_50V / CC0603.
+\t (04:01:18) Moving R44 / R_GENERIC_RC0603_10R / RC0603.
+\t (04:01:18) Moving R46 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:18) Moving R45 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:18) Pick new location for the element(s).
+\i (04:01:19) pick grid 89.9728 11.2453
+\t (04:01:19) last pick:  90.0000 11.2000
+\i (04:01:20) zoom out 1 
+\i (04:01:20) setwindow pcb
+\i (04:01:20) zoom out 92.4632 11.8839
+\i (04:01:20) trapsize 6386
+\i (04:01:20) zoom out 1 
+\i (04:01:20) setwindow pcb
+\i (04:01:20) zoom out 92.4632 11.5007
+\i (04:01:20) trapsize 12771
+\i (04:01:21) zoom in 1 
+\i (04:01:21) setwindow pcb
+\i (04:01:21) zoom in 88.1528 44.2912
+\i (04:01:21) trapsize 6386
+\i (04:01:21) zoom in 1 
+\i (04:01:21) setwindow pcb
+\i (04:01:21) zoom in 88.1528 44.2912
+\i (04:01:21) trapsize 3193
+\i (04:01:21) pick grid 92.6228 38.2886
+\t (04:01:21) last pick:  92.6000 38.3000
+\i (04:01:22) pick grid 92.1119 39.0549
+\t (04:01:22) last pick:  92.1000 39.1000
+\t (04:01:22) last pick:  90.6674 38.9007
+\t (04:01:22) Moving R42 / R_GENERIC_RC0603_1K / RC0603.
+\t (04:01:22) Pick new location for the element(s).
+\i (04:01:22) zoom out 1 
+\i (04:01:22) setwindow pcb
+\i (04:01:22) zoom out 91.3456 47.8672
+\i (04:01:22) trapsize 6386
+\i (04:01:23) zoom in 1 
+\i (04:01:23) setwindow pcb
+\i (04:01:23) zoom in 90.5794 8.1481
+\i (04:01:23) trapsize 3193
+\i (04:01:23) zoom in 1 
+\i (04:01:23) setwindow pcb
+\i (04:01:23) zoom in 90.5794 8.1482
+\i (04:01:23) trapsize 1596
+\i (04:01:23) pick grid 90.4836 7.5416
+\t (04:01:23) last pick:  90.5000 7.5000
+\i (04:01:24) drag_start grid 91.1222 10.7025
+\i (04:01:24) drag_stop 90.1005 12.3947
+\i (04:01:24) pick grid 90.4198 12.1074
+\t (04:01:24) last pick:  90.4000 12.1000
+\t (04:01:24) Moving R45 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:24) Moving R46 / R_GENERIC_RC0603_10K / RC0603.
+\t (04:01:24) Pick new location for the element(s).
+\i (04:01:25) pick grid 90.2282 10.7344
+\t (04:01:25) last pick:  90.2000 10.7000
+\i (04:01:25) pick grid 93.8042 15.7472
+\t (04:01:25) last pick:  93.8000 15.7000
+\i (04:01:26) zoom out 1 
+\i (04:01:26) setwindow pcb
+\i (04:01:26) zoom out 87.5782 18.2376
+\i (04:01:26) trapsize 3193
+\i (04:01:26) zoom out 1 
+\i (04:01:26) setwindow pcb
+\i (04:01:26) zoom out 87.6420 17.8545
+\i (04:01:26) trapsize 6386
+\i (04:01:27) zoom out 1 
+\i (04:01:27) setwindow pcb
+\i (04:01:27) zoom out 100.4134 -8.4545
+\i (04:01:27) trapsize 12771
+\i (04:01:27) zoom in 1 
+\i (04:01:27) setwindow pcb
+\i (04:01:27) zoom in 108.5870 71.1111
+\i (04:01:27) trapsize 6386
+\i (04:01:27) zoom in 1 
+\i (04:01:27) setwindow pcb
+\i (04:01:27) zoom in 108.5870 71.1112
+\i (04:01:27) trapsize 3193
+\i (04:01:28) prepopup 92.0481 70.9835
+\i (04:01:29) done 
+\i (04:01:29) generaledit 
+\i (04:01:30) save 
+\i (04:01:30) fillin yes 
+\i (04:01:30) generaledit 
+\i (04:01:31) xdehilite 
+\i (04:01:32) xrefdes R42 
+\i (04:01:32) xNet Ctl_Shutdown 
+\i (04:01:32) xrefdes R44 
+\i (04:01:32) xNet N16810006 
+\i (04:01:32) xrefdes R45 
+\i (04:01:32) xNet N16810025 
+\i (04:01:32) xNet N16810063 
+\i (04:01:32) xNet Pvcc 
+\i (04:01:32) xrefdes R46 
+\i (04:01:32) xNet Gnd 
+\i (04:01:32) xNet N16810301 
+\i (04:01:32) xNet N16810289 
+\i (04:01:32) xrefdes C29 
+\i (04:01:32) xrefdes C30 
+\i (04:01:32) xrefdes C31 
+\i (04:01:32) xrefdes C85 
+\i (04:01:32) xrefdes C86 
+\i (04:01:32) xNet Rinp 
+\i (04:01:32) xNet Rinn 
+\i (04:01:32) xNet Gain0 
+\i (04:01:32) xNet Gain1 
+\i (04:01:32) xNet N16813988 
+\i (04:01:32) xNet N16814000 
+\i (04:01:32) xrefdes C88 
+\i (04:01:32) xrefdes C87 
+\i (04:01:32) xNet Linp 
+\i (04:01:32) xNet Linn 
+\i (04:01:32) xname_flush 
+\i (04:01:32) done 
+\i (04:01:32) generaledit 
+\i (04:01:38) exit 
+\e (04:01:38) Do you want to save the changes you made to E:/GitHub/MBEDBoard/OPAMP_TEST_V10A/PCB/OPAMP_TEST_V10A.brd?
+\i (04:01:39) fillin yes 
+\t (04:01:40)     Journal end - Mon May 08 20:28:17 2017

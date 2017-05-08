@@ -18,7 +18,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DRC")
+       "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -64,7 +64,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "G:\HUIYUAN COMMUNICATION\16继电器开关\RELAY_TEST_V10A\SCH\ALLEGRO")
+       "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -97,13 +97,27 @@
     (BOM_View_Output "FALSE")
     (File ".\opamp_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\opamp_test_v10a.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\opamp_test_v10a.dsn")
+      (Path "Design Resources" ".\opamp_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" "Library" "e:\cadencelib\orcad\hyoc.olb"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\opamp_test_v10a.dsn" "SCH" "02 OP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -114,13 +128,28 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1396 52 632")
-        (Scroll "-91 0")
-        (Zoom "68")
+        (Scroll "333 0")
+        (Zoom "112")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "02 RELAY")))
+      (Page "02 OP")))
   (PartMRUSelector
+    (TS5A3159DBVR
+      (FullPartName "TS5A3159DBVR.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CSR8645-MUDULE
+      (FullPartName "CSR8645-MUDULE.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (TPA3110D2PWPR
+      (FullPartName "TPA3110D2PWPR.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
     (HLK-PM12
       (FullPartName "HLK-PM12.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
