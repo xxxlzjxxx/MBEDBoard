@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-08-2017 at 16:37:45}
+{ Using PSTWRITER 16.6.0 d001May-10-2017 at 20:17:46}
 primitive 'CAP NP_2_CC1206_22UF_10V';
   pin
     '1':
@@ -456,21 +456,6 @@ primitive 'R_GENERIC_RC0603_2.2K';
     VALUE='2.2K';
   end_body;
 end_primitive;
-primitive 'R_GENERIC_RC0603_0R/NI';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='RC0603';
-    VALUE='0R/NI';
-  end_body;
-end_primitive;
 primitive 'R_GENERIC_RC0603_10R';
   pin
     '1':
@@ -484,6 +469,30 @@ primitive 'R_GENERIC_RC0603_10R';
     PART_NAME='R_Generic';
     JEDEC_TYPE='RC0603';
     VALUE='10R';
+  end_body;
+end_primitive;
+primitive 'SWITCH_3P_SWITCH_3P_SWITCH_3P';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SWITCH_3P';
+    JEDEC_TYPE='SWITCH_3P';
+    VALUE='SWITCH_3P';
   end_body;
 end_primitive;
 primitive 'SWITCH-SPST-4P_SW-6X6X6-L_KEY';

@@ -122,14 +122,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1396 52 632")
-        (Scroll "333 0")
-        (Zoom "112")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1402 182 664")
+        (Scroll "1850 995")
+        (Zoom "224")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
       (Schematic "SCH")
