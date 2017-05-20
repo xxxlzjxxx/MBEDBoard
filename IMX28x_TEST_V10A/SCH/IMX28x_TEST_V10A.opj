@@ -105,21 +105,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn"
-         "MAIN BOARD")
+      (Path "Design Resources" ".\imx28x_test_v10a.dsn")
+      (Path "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "E:\GitHub\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn"
-         "MAIN BOARD" "05 JTAG&232"))
+      (Select "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD" "03 B2B"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 482"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 482"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -130,7 +124,37 @@
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
-      (Page "03 B2B")))
+      (Page "05 RS232&SD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 1344 0 580")
+        (Scroll "-229 -11")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "03 B2B"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1604 260 840")
+        (Scroll "0 0")
+        (Zoom "136")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "07 FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1448 104 684")
+        (Scroll "-91 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "06 USB&485&CAN")))
   (PartMRUSelector
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

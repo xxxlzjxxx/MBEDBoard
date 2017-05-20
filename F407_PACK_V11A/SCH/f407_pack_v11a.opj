@@ -220,13 +220,12 @@
       (Path "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1"
-         "03 MODULE"))
+      (Select "Design Resources" ".\f407_pack_v11a.dsn" "SCHEMATIC1" "04 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 541"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 541"))
       (Tab 0)))
   (MPSSessionName "HUIYUAN-LZJ")
   (ISPCBBASICLICENSE "false"))

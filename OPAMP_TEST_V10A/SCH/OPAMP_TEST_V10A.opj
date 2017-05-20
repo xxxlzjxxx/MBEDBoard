@@ -83,7 +83,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\HUIYUAN COMMUNICATION\16¼ÌµçÆ÷¿ª¹Ø\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.BOM")
+       "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
@@ -108,7 +108,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\opamp_test_v10a.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
@@ -122,13 +124,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1402 182 664")
-        (Scroll "1850 995")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1208 156 736")
+        (Scroll "1344 1747")
         (Zoom "224")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
