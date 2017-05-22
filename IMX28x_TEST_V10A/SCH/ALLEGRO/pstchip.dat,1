@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-22-2017 at 20:58:41}
+{ Using PSTWRITER 16.6.0 d001May-22-2017 at 18:53:34}
 primitive 'CR1220_CR1220_BAT_CR1220';
   pin
     '1':
@@ -148,21 +148,6 @@ primitive 'CAPACITOR NON-POL_CC0603_10NF_5';
     PART_NAME='CAPACITOR NON-POL';
     JEDEC_TYPE='CC0603';
     VALUE='10nF_50V';
-  end_body;
-end_primitive;
-primitive 'LED_4_LED0805_LED_GREEN';
-  pin
-    'ANODE':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'CATHODE':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='LED_4';
-    JEDEC_TYPE='led0805';
-    VALUE='LED_GREEN';
   end_body;
 end_primitive;
 primitive 'DIODE13_7_SOD-123_1N4148W-TP';

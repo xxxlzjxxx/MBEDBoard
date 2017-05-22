@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001May-22-2017 at 20:58:41 }
+{ Using PSTWRITER 16.6.0 d001May-22-2017 at 20:50:09 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IMX28X_TEST_V10A';
@@ -1614,26 +1614,6 @@ SECTION_NUMBER 1
  '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16806510@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
  C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16806510@\emulation module\.\r_generic.normal\(chips)',
  P_PATH='@imx28x_test_v10a.\main board\(sch_1):page9_ins16806510@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R73 'R_GENERIC_RC0603_0R':;
-
-SECTION_NUMBER 1
- '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16806788@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16806788@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@imx28x_test_v10a.\main board\(sch_1):page4_ins16806788@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R74 'R_GENERIC_RC0603_0R':;
-
-SECTION_NUMBER 1
- '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16806869@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16806869@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@imx28x_test_v10a.\main board\(sch_1):page4_ins16806869@\emulation module\.\r_generic.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

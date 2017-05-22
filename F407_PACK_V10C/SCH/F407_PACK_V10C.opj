@@ -219,8 +219,7 @@
       (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN"
-         "09 EEPROM&FLASH"))
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "13 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -236,8 +235,17 @@
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")
-      (Page "09 EEPROM&FLASH"))) >>>>>>>
-   1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Page "09 EEPROM&FLASH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1552 208 788")
+        (Scroll "71 102")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "13 POWER"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
