@@ -86,7 +86,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\HUIYUAN COMMUNICATION\19ÀÌµ¿‘⁄œﬂº‡≤‚\CADENCE\I283_SDM1_V10A\SCH\I283_SDM1_V10A.BOM")
+       "E:\GitHub\MBEDBoard\IMX28x_TEST_V10A\SCH\IMX28x_TEST_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
@@ -113,7 +113,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\imx28x_test_v10a.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
@@ -127,44 +129,24 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 482"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 482"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1182 26 508")
-        (Scroll "-96 0")
-        (Zoom "56")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "05 RS232&RS485&CAN"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1312 104 429")
-        (Scroll "1557 1501")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1338 182 664")
+        (Scroll "0 1787")
         (Zoom "224")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
-      (Page "08 RJ45&AUDIO"))
+      (Page "04 LCD"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1260 104 586")
-        (Scroll "0 22")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "10 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1312 156 638")
-        (Scroll "-96 0")
-        (Zoom "56")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1364 208 690")
+        (Scroll "2961 417")
+        (Zoom "448")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
@@ -173,8 +155,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1156 0 482")
-        (Scroll "1734 584")
-        (Zoom "200")
+        (Scroll "0 641")
+        (Zoom "112")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
@@ -182,13 +164,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1182 26 508")
-        (Scroll "287 187")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1182 26 508")
+        (Scroll "0 473")
         (Zoom "112")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
-      (Page "04 LCD")))
+      (Page "08 RJ45&AUDIO")))
   (PartMRUSelector
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

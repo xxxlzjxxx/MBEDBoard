@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001May-22-2017 at 20:58:41 }
+{ Using PSTWRITER 16.6.0 d001May-23-2017 at 15:59:52 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='IMX28X_TEST_V10A';
@@ -1638,6 +1638,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R75 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16809244@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16809244@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@imx28x_test_v10a.\main board\(sch_1):page8_ins16809244@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R8 'R_GENERIC_RC0603_2R2':;
 
 SECTION_NUMBER 1
@@ -1664,26 +1674,6 @@ SECTION_NUMBER 1
  '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16363556@STEP_TEST_V10A.SW DIP-4_0.NORMAL(CHIPS)':
  C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16363556@step_test_v10a.\sw dip-4_0.normal\(chips)',
  P_PATH='@imx28x_test_v10a.\main board\(sch_1):page3_ins16363556@step_test_v10a.\sw dip-4_0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP1 'TESTPOINT_TP-0R75_TESTPOINT':;
-
-SECTION_NUMBER 1
- '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16194416@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
- C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16194416@xxxlzjxxx.\testpoint.normal\(chips)',
- P_PATH='@imx28x_test_v10a.\main board\(sch_1):page3_ins16194416@xxxlzjxxx.\testpoint.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP2 'TESTPOINT_TP-0R75_TESTPOINT':;
-
-SECTION_NUMBER 1
- '@IMX28X_TEST_V10A.MAIN BOARD(SCH_1):INS16194470@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
- C_PATH='@imx28x_test_v10a.\main board\(sch_1):ins16194470@xxxlzjxxx.\testpoint.normal\(chips)',
- P_PATH='@imx28x_test_v10a.\main board\(sch_1):page3_ins16194470@xxxlzjxxx.\testpoint.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

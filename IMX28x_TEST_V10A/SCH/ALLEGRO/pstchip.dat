@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001May-22-2017 at 20:58:41}
+{ Using PSTWRITER 16.6.0 d001May-23-2017 at 15:59:52}
 primitive 'CR1220_CR1220_BAT_CR1220';
   pin
     '1':
@@ -1039,18 +1039,6 @@ primitive 'SW DIP-4_0_DM-04-V_DM-04-V';
     PART_NAME='SW DIP-4_0';
     JEDEC_TYPE='DM-04-V';
     VALUE='DM-04-V';
-  end_body;
-end_primitive;
-primitive 'TESTPOINT_TP-0R75_TESTPOINT';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TestPoint';
-    JEDEC_TYPE='TP-0R75';
-    VALUE='TestPoint';
   end_body;
 end_primitive;
 primitive 'COM-S2416_28_ISAMI_120_COM-IMX2';
