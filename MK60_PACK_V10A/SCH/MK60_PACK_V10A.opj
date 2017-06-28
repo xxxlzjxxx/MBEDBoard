@@ -172,17 +172,29 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mk60_pack_v10a.dsn")
-      (Path "Design Resources" ".\mk60_pack_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "e:\github\mbedboard\mk60_pack_v10a\sch\mk60_pack_v10a.dsn")
+      (Path "Design Resources"
+         "e:\github\mbedboard\mk60_pack_v10a\sch\mk60_pack_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_pack_v10a.dsn" "MAIN" "02 MCU"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 401"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1526 182 762")
+        (Scroll "4028 4992")
+        (Zoom "544")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\MK60_PACK_V10A\SCH\MK60_PACK_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "02 MCU")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\xxxlzjxxx")
   (MPSSessionName "HUIYUAN-LZJ")
   (ISPCBBASICLICENSE "false"))

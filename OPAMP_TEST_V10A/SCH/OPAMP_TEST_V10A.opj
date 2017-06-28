@@ -115,17 +115,31 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\opamp_test_v10a.dsn")
-      (Path "Design Resources" ".\opamp_test_v10a.dsn" "SCH")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn")
+      (Path "Design Resources"
+         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\opamp_test_v10a.dsn" "SCH" "02 OP"))
+      (Select "Design Resources"
+         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH"
+         "02 OP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1474 130 710")
+        (Scroll "-91 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "02 OP")))
   (PartMRUSelector
     (TS5A3159DBVR
       (FullPartName "TS5A3159DBVR.Normal")

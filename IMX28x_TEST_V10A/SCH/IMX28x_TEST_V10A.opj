@@ -120,17 +120,33 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\imx28x_test_v10a.dsn")
-      (Path "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD")
+      (Path "Design Resources"
+         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn")
+      (Path "Design Resources"
+         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn"
+         "MAIN BOARD")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\imx28x_test_v10a.dsn"))
+      (Select "Design Resources"
+         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn"
+         "MAIN BOARD" "10 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 482"))
       (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1422 26 501")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1046 292")
+        (Zoom "252"))
+      (Path "E:\CADENCELIB\ORCAD\IC.OLB")
+      (Package "OV5642CSP"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
@@ -155,7 +171,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1156 0 482")
-        (Scroll "0 641")
+        (Scroll "0 491")
         (Zoom "112")
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
@@ -170,7 +186,17 @@
         (Occurrence "/"))
       (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
-      (Page "08 RJ45&AUDIO")))
+      (Page "08 RJ45&AUDIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1526 130 605")
+        (Scroll "0 1371")
+        (Zoom "272")
+        (Occurrence "/"))
+      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "10 POWER")))
   (PartMRUSelector
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

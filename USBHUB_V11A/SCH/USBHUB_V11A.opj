@@ -4,6 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File "e:\cadencelib\orcad\hyoc.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\orcad\ic.olb"
         (Type "Schematic Library")))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -90,24 +92,15 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (File ".\usbhub_v10a.dsn"
+    (File ".\usbhub_v11a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs"
-    (File ".\usbhub_v10a.drc"
-      (Type "Report"))
-    (File ".\allegro\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat"))
-    (File ".\usbhub_v10a.bom"
-      (Type "Report")))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (GL850G
+      (FullPartName "GL850G.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
     (DC005
       (FullPartName "DC005.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
@@ -181,28 +174,28 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V10A\SCH\usbhub_v10a.dsn")
+         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V10A\SCH\usbhub_v10a.dsn" "USBHUB")
+         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V10A\SCH\usbhub_v10a.dsn" "USBHUB"
+         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn" "USBHUB"
          "02 USBHUB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "108 66")
-        (Zoom "112")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1370 26 606")
+        (Scroll "16 217")
+        (Zoom "136")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\USBHUB_V10A\SCH\USBHUB_V10A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
       (Schematic "USBHUB")
       (Page "02 USBHUB")))
   (MPSSessionName "HUIYUAN-LZJ")

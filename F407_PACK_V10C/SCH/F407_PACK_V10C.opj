@@ -215,11 +215,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f407_pack_v10c.dsn")
-      (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\F407_PACK_V10C\SCH\f407_pack_v10c.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\F407_PACK_V10C\SCH\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "13 POWER"))
+      (Select "Design Resources"
+         "H:\GitHub\MBEDBoard\F407_PACK_V10C\SCH\f407_pack_v10c.dsn" "MAIN"
+         "12 USB DEVICE&UART"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -229,23 +233,24 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1578 234 814")
-        (Scroll "1501 1681")
-        (Zoom "272")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1552 208 788")
+        (Scroll "562 522")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")
-      (Page "09 EEPROM&FLASH"))
+      (Page "11 CAMERA"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1552 208 788")
-        (Scroll "71 102")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1578 234 814")
+        (Scroll "0 100")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")
-      (Page "13 POWER"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Page "12 USB DEVICE&UART"))) >>>>>>>
+   1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
