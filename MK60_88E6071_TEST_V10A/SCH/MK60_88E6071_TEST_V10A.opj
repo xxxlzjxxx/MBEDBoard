@@ -213,25 +213,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn"
-         "MAIN")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "-91 0")
-        (Zoom "68")
+        (Scroll "-66 0")
+        (Zoom "71")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
@@ -241,8 +239,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "457 721")
-        (Zoom "272")
+        (Scroll "-91 0")
+        (Zoom "68")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
@@ -251,14 +249,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1552 156 631")
-        (Scroll "71 0")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1552 156 631")
+        (Scroll "0 0")
+        (Zoom "130")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
       (Schematic "MAIN")
       (Page "04 SWITCH")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
-  (MPSSessionName "HUIYUAN-LZJ")
+  (MPSSessionName "xxxlzjxxx")
   (ISPCBBASICLICENSE "false"))
