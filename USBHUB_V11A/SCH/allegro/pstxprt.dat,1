@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jun-29-2017 at 11:02:06 }
+{ Using PSTWRITER 16.6.0 d001Jun-29-2017 at 10:08:12 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='USBHUB_V11A';
@@ -14,46 +14,6 @@ SECTION_NUMBER 1
  '@USBHUB_V11A.USBHUB(SCH_1):INS16775710@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
  C_PATH='@usbhub_v11a.usbhub(sch_1):ins16775710@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  P_PATH='@usbhub_v11a.usbhub(sch_1):page2_ins16775710@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C10 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@USBHUB_V11A.USBHUB(SCH_1):INS16780133@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@usbhub_v11a.usbhub(sch_1):ins16780133@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@usbhub_v11a.usbhub(sch_1):page2_ins16780133@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C11 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@USBHUB_V11A.USBHUB(SCH_1):INS16780299@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@usbhub_v11a.usbhub(sch_1):ins16780299@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@usbhub_v11a.usbhub(sch_1):page2_ins16780299@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C12 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@USBHUB_V11A.USBHUB(SCH_1):INS16780392@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@usbhub_v11a.usbhub(sch_1):ins16780392@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@usbhub_v11a.usbhub(sch_1):page2_ins16780392@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C13 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@USBHUB_V11A.USBHUB(SCH_1):INS16780486@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@usbhub_v11a.usbhub(sch_1):ins16780486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@usbhub_v11a.usbhub(sch_1):page2_ins16780486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -1,0 +1,264 @@
+(ExpressProject "MK60_SWTH_V10A"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "e:\cadencelib\orcad\hyoc.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\orcad\ic.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\MK60_SWTH_V10A.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}{Package}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.csv")
+    (IREFViewOutput "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tManufacture")
+    (BOM_Include_File
+       "G:\HUIYUAN COMMUNICATION\13ÔÆÌ¨½»»»»ú\CADENCE\SCH\MK60_SWTH_V10A.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Board_sim_option "VHDL_flow")
+    (DOCKED "FALSE")
+    (DOCKING_POSITION "59420")
+    (File ".\mk60_88e6071_test_v10a.dsn"
+      (Type "Schematic Design")))
+  (Folder "Outputs"
+    (File ".\mk60_88e6071_test_v10a.drc"
+      (Type "Report"))
+    (File ".\mk60_88e6071_test_v10a.csv"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\mk60_88e6071_test_v10a.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OLED_0r96
+      (FullPartName "OLED_0r96.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (88E6071-xx-NNC2I000
+      (FullPartName "88E6071-xx-NNC2I000.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 6"
+      (FullPartName "CONN RCPT 6.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 8"
+      (FullPartName "CONN RCPT 8.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (43650-0801
+      (FullPartName "43650-0801.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (LM2904QDR
+      (FullPartName "LM2904QDRA.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (L6235PD
+      (FullPartName "L6235PD.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (TestPoint
+      (FullPartName "TestPoint.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (DAC7512N/3K
+      (FullPartName "DAC7512N/3K.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (ISO721MD
+      (FullPartName "ISO721MD.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (EE-SX670
+      (FullPartName "EE-SX670.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (SPX3819M5-L-1-2
+      (FullPartName "SPX3819M5-L-1-2.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (KSZ8794CNXIC
+      (FullPartName "KSZ8794CNXIC.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (TMP75AIDR
+      (FullPartName "TMP75AIDR.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGE
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CY2305C
+      (FullPartName "CY2305C.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MK60DN512VLL10
+      (FullPartName "MK60DN512VLL10.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (AS1360
+      (FullPartName "AS1360.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (SCA830-D07_PACK
+      (FullPartName "SCA830-D07_PACK.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (MOS-P
+      (FullPartName "MOS-P.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (MOS-N
+      (FullPartName "MOS-N.Normal")
+      (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\MK60_88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn"
+         "MAIN")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1422 78 658")
+        (Scroll "-91 0")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "03 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
+        (Scroll "457 721")
+        (Zoom "272")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "05 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1552 156 631")
+        (Scroll "71 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "04 SWITCH")))
+  (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
+  (MPSSessionName "HUIYUAN-LZJ")
+  (ISPCBBASICLICENSE "false"))
