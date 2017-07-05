@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-04-2017 at 20:23:38}
+{ Using PSTWRITER 16.6.0 d001Jul-05-2017 at 15:41:14}
 primitive 'CAP NP_CC0603_0.1UF_50V';
   pin
     '1':
@@ -153,7 +153,7 @@ primitive 'FUSE_SMD-1210_SMD1210-6V2A';
     VALUE='SMD1210-6V2A';
   end_body;
 end_primitive;
-primitive 'FB_L1812_FBMH4532HM132-T/NI';
+primitive 'FB_L1812_FBMH4532HM132-T';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -165,7 +165,7 @@ primitive 'FB_L1812_FBMH4532HM132-T/NI';
   body
     PART_NAME='FB';
     JEDEC_TYPE='L1812';
-    VALUE='FBMH4532HM132-T/NI';
+    VALUE='FBMH4532HM132-T';
   end_body;
 end_primitive;
 primitive 'CON20_0_HEADER10X2_2R54_HEADER1';
@@ -730,6 +730,39 @@ primitive 'SPX3819M5-L-1-2_SOT23-5_SPX3819';
     PART_NAME='SPX3819M5-L-1-2';
     JEDEC_TYPE='SOT23-5';
     VALUE='SPX3819M5-L-3-3/TR';
+  end_body;
+end_primitive;
+primitive 'CY2305C_0_SOIC8_CY2305SXI-1HT/N';
+  pin
+    'REF':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CLK2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CLK1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'CLK3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'VDD':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'CLK4':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'CLKOUT':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CY2305C_0';
+    JEDEC_TYPE='SOIC8';
+    VALUE='CY2305SXI-1HT/NI';
   end_body;
 end_primitive;
 primitive 'MK60DN512VLL10_4_LQFP-100_MK60D';
@@ -1487,6 +1520,27 @@ primitive '74AHC1G08_1_SOT23-5_INA193AIDBV';
     PART_NAME='74AHC1G08_1';
     JEDEC_TYPE='SOT23-5';
     VALUE='INA193AIDBVT';
+  end_body;
+end_primitive;
+primitive 'SMD_OSC_5_OSC7X5_SG7050CAN-50M-';
+  pin
+    'DE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SMD_OSC_5';
+    JEDEC_TYPE='OSC7X5';
+    VALUE='SG7050CAN-50M-TJGA/NI';
   end_body;
 end_primitive;
 END.

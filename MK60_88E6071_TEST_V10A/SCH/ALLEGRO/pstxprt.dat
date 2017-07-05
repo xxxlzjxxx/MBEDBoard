@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jul-04-2017 at 20:23:38 }
+{ Using PSTWRITER 16.6.0 d001Jul-05-2017 at 15:41:14 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MK60_88E6071_TEST_V10A';
@@ -548,16 +548,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C59 'CAP NP_2_CC0603_0.1UF_50V':;
-
-SECTION_NUMBER 1
- '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16846526@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16846526@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page4_ins16846526@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C6 'CAP NP_CC0603_0.1UF_50V':;
 
 SECTION_NUMBER 1
@@ -684,6 +674,26 @@ SECTION_NUMBER 1
  '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16866227@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
  C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16866227@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page5_ins16866227@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16888122@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16888122@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page3_ins16888122@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16888158@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16888158@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page3_ins16888158@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -878,7 +888,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- FB1 'FB_L1812_FBMH4532HM132-T/NI':;
+ FB1 'FB_L1812_FBMH4532HM132-T':;
 
 SECTION_NUMBER 1
  '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16861962@LIBRARY1.FB.NORMAL(CHIPS)':
@@ -1728,6 +1738,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R74 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16888531@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16888531@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page3_ins16888531@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  TP1 'TESTPOINT_TP-0R75_TESTPOINT':;
 
 SECTION_NUMBER 1
@@ -1784,6 +1804,16 @@ SECTION_NUMBER 1
  '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16866216@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
  C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16866216@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
  P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page5_ins16866216@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'CY2305C_0_SOIC8_CY2305SXI-1HT/N':;
+
+SECTION_NUMBER 1
+ '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16888144@MK60_YTAI_V41B.CY2305C_0.NORMAL(CHIPS)':
+ C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16888144@mk60_ytai_v41b.\cy2305c_0.normal\(chips)',
+ P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page3_ins16888144@mk60_ytai_v41b.\cy2305c_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1864,6 +1894,16 @@ SECTION_NUMBER 1
  '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16862067@SIM8909_TEST_V10A.74AHC1G08_1.NORMAL(CHIPS)':
  C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16862067@sim8909_test_v10a.\74ahc1g08_1.normal\(chips)',
  P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page5_ins16862067@sim8909_test_v10a.\74ahc1g08_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'SMD_OSC_5_OSC7X5_SG7050CAN-50M-':;
+
+SECTION_NUMBER 1
+ '@MK60_88E6071_TEST_V10A.MAIN(SCH_1):INS16888166@MK60_YTAI_V41B.SMD_OSC_5.NORMAL(CHIPS)':
+ C_PATH='@mk60_88e6071_test_v10a.main(sch_1):ins16888166@mk60_ytai_v41b.\smd_osc_5.normal\(chips)',
+ P_PATH='@mk60_88e6071_test_v10a.main(sch_1):page3_ins16888166@mk60_ytai_v41b.\smd_osc_5.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
