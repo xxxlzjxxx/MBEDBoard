@@ -222,14 +222,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "2173 1160")
-        (Zoom "448")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1422 78 658")
+        (Scroll "89 342")
+        (Zoom "284")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
@@ -258,5 +258,5 @@
       (Schematic "MAIN")
       (Page "04 SWITCH")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
-  (MPSSessionName "HUIYUAN-LZJ")
+  (MPSSessionName "xxxlzjxxx")
   (ISPCBBASICLICENSE "false"))

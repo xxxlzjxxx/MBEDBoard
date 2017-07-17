@@ -115,29 +115,25 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn")
-      (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH")
+      (Path "Design Resources" ".\opamp_test_v10a.dsn")
+      (Path "Design Resources" ".\opamp_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "E:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH"
-         "02 OP"))
+      (Select "Design Resources" ".\opamp_test_v10a.dsn" "SCH" "02 OP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1474 130 710")
-        (Scroll "-91 0")
-        (Zoom "68")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1613 26 610")
+        (Scroll "1456 155")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
       (Schematic "SCH")
       (Page "02 OP")))
   (PartMRUSelector
@@ -161,4 +157,4 @@
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "HUIYUAN-LZJ"))
+  (MPSSessionName "xxxlzjxxx"))
