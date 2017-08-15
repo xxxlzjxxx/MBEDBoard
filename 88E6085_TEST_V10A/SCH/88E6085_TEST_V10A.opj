@@ -101,24 +101,9 @@
     (Board_sim_option "VHDL_flow")
     (DOCKED "FALSE")
     (DOCKING_POSITION "59420")
-    (File ".\mk60_88e6071_test_v10a.dsn"
+    (File ".\88e6085_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs"
-    (File ".\mk60_88e6071_test_v10a.drc"
-      (Type "Report"))
-    (File ".\mk60_88e6071_test_v10a.csv"
-      (Type "Report"))
-    (File ".\allegro\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat"))
-    (File ".\mk60_88e6071_test_v10a.bom"
-      (Type "Report")))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
     (OLED_0r96
@@ -213,11 +198,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\88E6085_TEST_V10A\SCH\88e6085_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\88E6085_TEST_V10A\SCH\88e6085_test_v10a.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn"))
+      (Select "Design Resources" "Library" "e:\cadencelib\orcad\ic.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -225,38 +213,16 @@
         (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
-      (Type "COrSchematicDoc")
+      (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "89 342")
-        (Zoom "284")
-        (Occurrence "/"))
-      (Path
-         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
-      (Schematic "MAIN")
-      (Page "03 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "0 477")
-        (Zoom "136")
-        (Occurrence "/"))
-      (Path
-         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
-      (Schematic "MAIN")
-      (Page "05 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1552 156 631")
-        (Scroll "2094 1927")
-        (Zoom "224")
-        (Occurrence "/"))
-      (Path
-         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
-      (Schematic "MAIN")
-      (Page "04 SWITCH")))
+        (Placement "44 2 3 -1 -1 -8 -31 156 1500 156 736")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "886 197")
+        (Zoom "158"))
+      (Path "E:\CADENCELIB\ORCAD\IC.OLB")
+      (Package "88E6085-xx-TAH-I000")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
-  (MPSSessionName "xxxlzjxxx")
+  (MPSSessionName "HUIYUAN-LZJ")
   (ISPCBBASICLICENSE "false"))

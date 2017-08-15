@@ -4,8 +4,10 @@
 ##LAN9500_TEST_V10A
 	该版本用于测试USB转以太网芯片LAN9500的测试版。
 	
-##MK60_88E6071_TEST_V10A
+##88E6071_TEST_V10A
 	该版本是基于MK60DN512VLL10制作的用于测试MARVELL交换机芯片88E6071的功能。	
+  88E6071_TEST_V10B
+	该版本是测试MARVELL交换机芯片88E6071的功能(删除MK60相关电路)。
 	
 ##IMX28x_TEST_V10A
 	该版本是基于IMX28x核心板制作的ARM9开发板的初始版本。
