@@ -1,0 +1,510 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-11-2017 at 16:52:42 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LAN9500_TEST_V10A';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16921151@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16921151@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16921151@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16801500@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16801500@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16801500@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16799469@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16799469@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16799469@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16799487@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16799487@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16799487@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16799558@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16799558@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16799558@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16799576@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16799576@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16799576@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16798637@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16798637@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16798637@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16799206@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16799206@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16799206@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_CC0603_4.7NF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16925647@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16925647@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16925647@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16926656@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16926656@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16926656@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16926725@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16926725@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16926725@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_CC0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16921167@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16921167@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16921167@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16802069@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16802069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16802069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_CC0603_4.7NF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16924564@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16924564@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16924564@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16802635@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16802635@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16802635@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16791729@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16791729@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16791729@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_2_CC0603_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16791766@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16791766@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16791766@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_2_CC0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16926186@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16926186@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16926186@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16801229@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16801229@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16801229@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16801239@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16801239@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16801239@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_GREEN/NI':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16792982@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16792982@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16792982@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_GREEN/NI':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797637@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797637@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797637@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON_RJ45_1X8_F_RA_0_HR911105A_H':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16921110@PPC440EP001.CON_RJ45_1X8_F_RA_0.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16921110@ppc440ep001.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16921110@ppc440ep001.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'USB-A-MALE_USB-A-MALE_USB-A-MAL':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16925238@HYOC.USB-A-MALE.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16925238@hyoc.\usb-a-male.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16925238@hyoc.\usb-a-male.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16925466@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16925466@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16925466@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16798626@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16798626@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16798626@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16801485@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16801485@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16801485@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'IND_BEAD_0805_600OHM_200MA_LC08':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16802048@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16802048@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16802048@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797462@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797462@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797462@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_RC0603_10K/NI':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16927065@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16927065@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16927065@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16798037@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16798037@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16798037@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797815@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797815@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797815@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_RC0603_12K':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16792336@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16792336@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16792336@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16792525@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16792525@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16792525@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_RC0603_309R/NI':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16792995@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16792995@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16792995@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_RC0603_309R/NI':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797645@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797645@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797645@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_RC0603_10M':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16925639@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16925639@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16925639@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797470@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797470@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797470@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16795836@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16795836@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16795836@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_RC0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16797163@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16797163@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16797163@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_RC0603_309R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16922885@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16922885@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16922885@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16921674@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16921674@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16921674@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_RC0603_10M':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16924551@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16924551@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16924551@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_GENERIC_RC0603_309R':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16923549@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16923549@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16923549@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_GENERIC_RC0603_12K':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16792276@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16792276@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16792276@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LAN9500AI-ABZJ-TR_0_QFN-56_LAN9':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16791538@SIM8909_TEST_V10A.LAN9500AI-ABZJ-TR_0.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16791538@sim8909_test_v10a.\lan9500ai-abzj-tr_0.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16791538@sim8909_test_v10a.\lan9500ai-abzj-tr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MAX809_0_SOT23_123_MAX809SN293D':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16798051@I283_SDM1_V20A.MAX809_0.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16798051@i283_sdm1_v20a.\max809_0.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16798051@i283_sdm1_v20a.\max809_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AT93C46DN-SH-T_SOIC8_AT93C46DN-':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16802360@HYOC.AT93C46DN-SH-T.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16802360@hyoc.\at93c46dn-sh-t.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16802360@hyoc.\at93c46dn-sh-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'AMS1117-3.3_SOT-223_AMS1117-3.3':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16926496@XXXLZJXXX.AMS1117-3.3.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16926496@xxxlzjxxx.\ams1117-3.3.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16926496@xxxlzjxxx.\ams1117-3.3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'X322525MOB4SI_X-4P-3R2X2R5-SMD_':;
+
+SECTION_NUMBER 1
+ '@LAN9500_TEST_V10A.SCHEMATIC1(SCH_1):INS16791607@SIM8909_TEST_V10A.X322525MOB4SI.NORMAL(CHIPS)':
+ C_PATH='@lan9500_test_v10a.schematic1(sch_1):ins16791607@sim8909_test_v10a.\x322525mob4si.normal\(chips)',
+ P_PATH='@lan9500_test_v10a.schematic1(sch_1):page2_ins16791607@sim8909_test_v10a.\x322525mob4si.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

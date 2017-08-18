@@ -209,10 +209,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\88e6071_test_v10b.dsn")
-      (Path "Design Resources" ".\88e6071_test_v10b.dsn" "MAIN")
+      (Path "Design Resources"
+         "h:\github\mbedboard\88e6071_test_v10b\sch\88e6071_test_v10b.dsn")
+      (Path "Design Resources"
+         "h:\github\mbedboard\88e6071_test_v10b\sch\88e6071_test_v10b.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -223,8 +227,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1500 156 736")
-        (Scroll "713 898")
-        (Zoom "136")
+        (Scroll "0 0")
+        (Zoom "272")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")
