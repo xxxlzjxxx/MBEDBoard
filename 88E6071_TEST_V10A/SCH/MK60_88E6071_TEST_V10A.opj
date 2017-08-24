@@ -213,16 +213,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "h:\github\mbedboard\mk60_88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources"
-         "h:\github\mbedboard\mk60_88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn"
-         "MAIN")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "h:\github\mbedboard\mk60_88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn"
-         "MAIN" "05 POWER"))
+      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN"
+         "05 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -232,12 +228,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "432 1268")
-        (Zoom "400")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1500 104 579")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "H:\GITHUB\MBEDBOARD\MK60_88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+         "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
       (Schematic "MAIN")
       (Page "05 POWER")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")

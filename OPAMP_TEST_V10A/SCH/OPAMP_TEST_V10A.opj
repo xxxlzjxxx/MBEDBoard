@@ -124,13 +124,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1613 26 610")
-        (Scroll "1456 155")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 610")
+        (Scroll "1725 86")
         (Zoom "200")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
@@ -157,4 +157,4 @@
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "HUIYUAN-LZJ"))
+  (MPSSessionName "Administrator"))

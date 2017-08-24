@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 16:12:56 }
+{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 15:40:55 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='DRV10983_TEST_V10A';
@@ -98,6 +98,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ J1 '43650-0801_43650-0815_43650-081':;
+
+SECTION_NUMBER 1
+ '@DRV10983_TEST_V10A.SCHEMATIC1(SCH_1):INS16929536@XXXLZJXXX.43650-0801.NORMAL(CHIPS)':
+ C_PATH='@drv10983_test_v10a.schematic1(sch_1):ins16929536@xxxlzjxxx.\43650-0801.normal\(chips)',
+ P_PATH='@drv10983_test_v10a.schematic1(sch_1):page2_ins16929536@xxxlzjxxx.\43650-0801.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  J2 'CONN RCPT 2_KF7R62-2P_KF7R62-2P':;
 
 SECTION_NUMBER 1
@@ -124,16 +134,6 @@ SECTION_NUMBER 1
  '@DRV10983_TEST_V10A.SCHEMATIC1(SCH_1):INS16933698@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
  C_PATH='@drv10983_test_v10a.schematic1(sch_1):ins16933698@connector.\conn rcpt 4.normal\(chips)',
  P_PATH='@drv10983_test_v10a.schematic1(sch_1):page2_ins16933698@connector.\conn rcpt 4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J5 '43650-0801_43650-0800_43650-080':;
-
-SECTION_NUMBER 1
- '@DRV10983_TEST_V10A.SCHEMATIC1(SCH_1):INS16935093@XXXLZJXXX.43650-0801.NORMAL(CHIPS)':
- C_PATH='@drv10983_test_v10a.schematic1(sch_1):ins16935093@xxxlzjxxx.\43650-0801.normal\(chips)',
- P_PATH='@drv10983_test_v10a.schematic1(sch_1):page2_ins16935093@xxxlzjxxx.\43650-0801.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

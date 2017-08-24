@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 16:12:56}
+{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 15:40:55}
 primitive 'CAP NP_3_CC0805_10UF_25V';
   pin
     '1':
@@ -90,6 +90,39 @@ primitive 'LED_4_LED0805_LED_GREEN';
     VALUE='LED_GREEN';
   end_body;
 end_primitive;
+primitive '43650-0801_43650-0815_43650-081';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='43650-0801';
+    JEDEC_TYPE='43650-0815';
+    VALUE='43650-0815';
+  end_body;
+end_primitive;
 primitive 'CONN RCPT 2_KF7R62-2P_KF7R62-2P';
   pin
     '1':
@@ -142,39 +175,6 @@ primitive 'CONN RCPT 4_HEADER4X1_2R54_HEAD';
     PART_NAME='CONN RCPT 4';
     JEDEC_TYPE='HEADER4X1_2R54';
     VALUE='HEADER4X1_2R54';
-  end_body;
-end_primitive;
-primitive '43650-0801_43650-0800_43650-080';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='43650-0801';
-    JEDEC_TYPE='43650-0800';
-    VALUE='43650-0800';
   end_body;
 end_primitive;
 primitive 'IND_BEAD_0805_600OHM_200MA_LC08';

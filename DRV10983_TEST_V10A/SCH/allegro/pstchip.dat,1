@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 16:12:56}
+{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 15:29:00}
 primitive 'CAP NP_3_CC0805_10UF_25V';
   pin
     '1':
@@ -75,19 +75,37 @@ primitive 'PESD3V3S1UB_1_SOD-123_BZT52C3V6';
     VALUE='BZT52C3V6';
   end_body;
 end_primitive;
-primitive 'LED_4_LED0805_LED_GREEN';
+primitive '43650-0801_43650-0815_43650-081';
   pin
-    'ANODE':
+    '1':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'CATHODE':
+    '2':
       PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='LED_4';
-    JEDEC_TYPE='LED0805';
-    VALUE='LED_GREEN';
+    PART_NAME='43650-0801';
+    JEDEC_TYPE='43650-0815';
+    VALUE='43650-0815';
   end_body;
 end_primitive;
 primitive 'CONN RCPT 2_KF7R62-2P_KF7R62-2P';
@@ -144,39 +162,6 @@ primitive 'CONN RCPT 4_HEADER4X1_2R54_HEAD';
     VALUE='HEADER4X1_2R54';
   end_body;
 end_primitive;
-primitive '43650-0801_43650-0800_43650-080';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='43650-0801';
-    JEDEC_TYPE='43650-0800';
-    VALUE='43650-0800';
-  end_body;
-end_primitive;
 primitive 'IND_BEAD_0805_600OHM_200MA_LC08';
   pin
     'A':
@@ -205,18 +190,6 @@ primitive 'IND_BEAD_0805_600OHM_200MA_L453';
     PART_NAME='IND_BEAD_0805_600OHM_200MA';
     JEDEC_TYPE='L4532';
     VALUE='SM4532-470MT';
-  end_body;
-end_primitive;
-primitive 'HOLD_1_HOLD250D134_HOLD-M3';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Hold_1';
-    JEDEC_TYPE='HOLD250D134';
-    VALUE='HOLD-M3';
   end_body;
 end_primitive;
 primitive 'R_GENERIC_RC0603_0R';
@@ -277,21 +250,6 @@ primitive 'R_GENERIC_RC0603_10K';
     PART_NAME='R_Generic';
     JEDEC_TYPE='RC0603';
     VALUE='10K';
-  end_body;
-end_primitive;
-primitive 'R_GENERIC_RC0603_1K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='RC0603';
-    VALUE='1K';
   end_body;
 end_primitive;
 primitive 'RESISTOR VAR_1_R09-B103-3P_R09-';
