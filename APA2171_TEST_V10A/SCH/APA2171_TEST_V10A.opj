@@ -98,22 +98,23 @@
     (IREFReportFile
        "G:\HUIYUAN COMMUNICATION\18µÕ≥…±æ∑¿Õ‚∆∆\CADENCE\SIM8909_TEST_V10A\SCH\SIM8909_TEST_V10A.csv")
     (IREFViewOutput "0")
-    (File ".\drv10983_test_v10a.dsn"
+    (File ".\jy02a_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs"
-    (File ".\drv10983_test_v10a.drc"
-      (Type "Report"))
-    (File ".\allegro\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat")))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (SI4410BDY-T1-E3
+      (FullPartName "SI4410BDY-T1-E3.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (IR2101S
+      (FullPartName "IR2101S.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (JY02A
+      (FullPartName "JY02A.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
     ("CONN RCPT 3"
       (FullPartName "CONN RCPT 3.Normal")
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -189,14 +190,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\DRV10983_TEST_V10A\SCH\drv10983_test_v10a.dsn")
+         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\DRV10983_TEST_V10A\SCH\drv10983_test_v10a.dsn"
+         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn"
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "H:\GitHub\MBEDBoard\DRV10983_TEST_V10A\SCH\drv10983_test_v10a.dsn"
+         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn"
          "SCHEMATIC1" "02 DRV10983"))
     (HierarchyView)
     (Doc
@@ -208,10 +209,10 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1396 52 632")
-        (Scroll "286 32")
-        (Zoom "200")
+        (Scroll "0 2309")
+        (Zoom "272")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\DRV10983_TEST_V10A\SCH\DRV10983_TEST_V10A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "02 DRV10983")))
   (MPSSessionName "Administrator")
