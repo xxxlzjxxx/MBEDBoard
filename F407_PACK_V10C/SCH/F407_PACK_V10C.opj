@@ -230,8 +230,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1422 78 658")
-        (Scroll "630 1068")
-        (Zoom "200")
+        (Scroll "1554 947")
+        (Zoom "272")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")

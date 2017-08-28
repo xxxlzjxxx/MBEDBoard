@@ -35,7 +35,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\GitHub\MBEDBoard\DRV10983_TEST_V10A\SCH\DRV10983_TEST_V10A.DRC")
+       "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -65,7 +65,7 @@
     (DRC_Run_Physical_Custom_DRC "FALSE")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\GITHUB\MBEDBOARD\DRV10983_TEST_V10A\SCH\ALLEGRO")
+       "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -100,9 +100,24 @@
     (IREFViewOutput "0")
     (File ".\jy02a_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\jy02a_test_v10a.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (LM2904VQDR
+      (FullPartName "LM2904VQDRB.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "1"))
     (SI4410BDY-T1-E3
       (FullPartName "SI4410BDY-T1-E3.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
@@ -189,16 +204,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\jy02a_test_v10a.dsn")
+      (Path "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\jy02a_test_v10a.dsn"
-         "SCHEMATIC1" "02 DRV10983"))
+      (Select "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1"
+         "02 JY02A"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -208,12 +219,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1396 52 632")
-        (Scroll "0 2309")
-        (Zoom "272")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1526 182 762")
+        (Scroll "116 1628")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 DRV10983")))
+      (Page "02 JY02A")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))
