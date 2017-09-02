@@ -217,8 +217,7 @@
       (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN"
-         "05 POWER"))
+      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN" "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -235,7 +234,18 @@
       (Path
          "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "05 POWER")))
+      (Page "05 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1477 130 719")
+        (Scroll "-68 0")
+        (Zoom "71")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "03 MCU")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

@@ -220,8 +220,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 182 1526 182 762")
-        (Scroll "116 1628")
-        (Zoom "200")
+        (Scroll "2960 1001")
+        (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")

@@ -218,14 +218,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1500 156 736")
-        (Scroll "-208 -7")
-        (Zoom "56")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1500 156 736")
+        (Scroll "1991 1943")
+        (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")
@@ -234,8 +234,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1344 0 580")
-        (Scroll "0 152")
-        (Zoom "112")
+        (Scroll "-66 0")
+        (Zoom "71")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")

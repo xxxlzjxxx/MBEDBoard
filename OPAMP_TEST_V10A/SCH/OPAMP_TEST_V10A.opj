@@ -115,11 +115,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\opamp_test_v10a.dsn")
-      (Path "Design Resources" ".\opamp_test_v10a.dsn" "SCH")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\opamp_test_v10a.dsn" "SCH" "02 OP"))
+      (Select "Design Resources"
+         "H:\GitHub\MBEDBoard\OPAMP_TEST_V10A\SCH\opamp_test_v10a.dsn" "SCH"
+         "02 OP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -130,8 +134,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 610")
-        (Scroll "1725 86")
-        (Zoom "200")
+        (Scroll "-188 0")
+        (Zoom "71")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\OPAMP_TEST_V10A\SCH\OPAMP_TEST_V10A.DSN")
       (Schematic "SCH")
