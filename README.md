@@ -8,6 +8,10 @@
 - [3]基于 [STM32F407ZGT6](http://www.stmicroelectronics.com.cn/content/st_com/zh/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f407-417/stm32f407zg.html) 的车队码表，使用 [EMWIN](https://www.segger.com/products/user-interface/emwin/) 做界面，参考 [佳明820](http://www.garmin.com.cn/products/intosports/edge820/) ，使用2.8寸带触摸的TFT。
 
  ---
+## MK60_PACK_V20A
+
+该版本是MK60DN512VLL10开发板的正式版本，参考超核开发板原理图。
+ ---
 ### APA2171_TEST_V10A
 
 基于APA2171制作的差分音频驱动测试板。

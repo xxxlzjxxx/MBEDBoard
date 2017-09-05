@@ -18,7 +18,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\MK60_JKZJ-GAS_V10A\SCH\MK60_JKZJ-GAS_V10A.DRC")
+       "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -62,12 +62,11 @@
     (width_pages "100")
     (width_start "80")
     (width_End "80")
-    (IREFReportFile
-       "G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\MK60_JKZJ-GAS_V10A\SCH\MK60_JKZJ-GAS_V10A.csv")
+    (IREFReportFile "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\MK60_PACK_V20A.csv")
     (IREFViewOutput "0")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\MK60_JKZJ-GAS_V10A\SCH\ALLEGRO")
+       "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -100,44 +99,71 @@
     (BOM_View_Output "FALSE")
     (File ".\mk60_pack_v20a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\mk60_pack_v20a.drc"
+      (Type "Report"))
+    (File ".\mk60_pack_v20a.csv"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\mk60_pack_v20a.dsn")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\mk60_pack_v20a.dsn" "MAIN")
+      (Path "Design Resources" ".\mk60_pack_v20a.dsn")
+      (Path "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 334"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 334"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1347 0 589")
-        (Scroll "719 454")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
+        (Scroll "-167 0")
+        (Zoom "59")
+        (Occurrence "/"))
+      (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
+      (Schematic "MAIN")
+      (Page "04 MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1211 156 745")
+        (Scroll "0 1761")
         (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
-        (Scroll "-68 0")
-        (Zoom "71")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
-      (Schematic "MAIN")
-      (Page "04 TFT&SRAM")))
+      (Page "03 MCU")))
   (PartMRUSelector
+    (TestPoint
+      (FullPartName "TestPoint.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (TFT-3R2
+      (FullPartName "TFT-3R2.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (HS0038
+      (FullPartName "HS0038.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (LM2904VQDR
+      (FullPartName "LM2904VQDRB.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "1"))
     (IS61LV25626
       (FullPartName "IS61LV25626.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
