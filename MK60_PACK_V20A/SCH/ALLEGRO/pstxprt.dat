@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Sep-05-2017 at 16:21:11 }
+{ Using PSTWRITER 16.6.0 d001Sep-07-2017 at 08:59:57 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MK60_PACK_V20A';
@@ -194,26 +194,6 @@ SECTION_NUMBER 1
  '@MK60_PACK_V20A.MAIN(SCH_1):INS17018327@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@mk60_pack_v20a.main(sch_1):ins17018327@discrete.\cap np.normal\(chips)',
  P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins17018327@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C26 'CAP NP_2_CC0603_0.1UF_50V':;
-
-SECTION_NUMBER 1
- '@MK60_PACK_V20A.MAIN(SCH_1):INS16828752@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@mk60_pack_v20a.main(sch_1):ins16828752@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins16828752@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C27 'CAP NP_2_CC0603_0.1UF_50V':;
-
-SECTION_NUMBER 1
- '@MK60_PACK_V20A.MAIN(SCH_1):INS16828492@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@mk60_pack_v20a.main(sch_1):ins16828492@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins16828492@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -438,6 +418,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ C48 'CAP NP_2_CC0603_0.1UF_50V':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V20A.MAIN(SCH_1):INS17091390@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v20a.main(sch_1):ins17091390@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins17091390@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  C5 'CAP NP_2_CC0603_12PF_50V':;
 
 SECTION_NUMBER 1
@@ -628,16 +618,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L2 'IND_BEAD_0805_600OHM_1_LC0805_B':;
-
-SECTION_NUMBER 1
- '@MK60_PACK_V20A.MAIN(SCH_1):INS16828399@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
- C_PATH='@mk60_pack_v20a.main(sch_1):ins16828399@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
- P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins16828399@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  L3 'IND_BEAD_0805_600OHM_1_LC0805_B':;
 
 SECTION_NUMBER 1
@@ -648,12 +628,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L4 'IND_BEAD_0805_600OHM_1_LC0805_B':;
+ L5 'IND_BEAD_0805_600OHM_200MA_LC08':;
 
 SECTION_NUMBER 1
- '@MK60_PACK_V20A.MAIN(SCH_1):INS16828695@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
- C_PATH='@mk60_pack_v20a.main(sch_1):ins16828695@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
- P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins16828695@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ '@MK60_PACK_V20A.MAIN(SCH_1):INS17091008@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@mk60_pack_v20a.main(sch_1):ins17091008@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@mk60_pack_v20a.main(sch_1):page4_ins17091008@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1368,6 +1348,26 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R68 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V20A.MAIN(SCH_1):INS17092872@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v20a.main(sch_1):ins17092872@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins17092872@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_GENERIC_RC0603_20R':;
+
+SECTION_NUMBER 1
+ '@MK60_PACK_V20A.MAIN(SCH_1):INS17092897@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mk60_pack_v20a.main(sch_1):ins17092897@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mk60_pack_v20a.main(sch_1):page3_ins17092897@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R7 'R_GENERIC_RC0603_100R':;
 
 SECTION_NUMBER 1
@@ -1408,7 +1408,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW1 'SWITCH-SPST-4P_SW-6X6X6_KEY':;
+ SW1 'SWITCH-SPST-4P_SW-6X6X6-SMD_KEY':;
 
 SECTION_NUMBER 1
  '@MK60_PACK_V20A.MAIN(SCH_1):INS17004421@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
@@ -1418,7 +1418,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW2 'SWITCH-SPST-4P_SW-6X6X6_KEY':;
+ SW2 'SWITCH-SPST-4P_SW-6X6X6-SMD_KEY':;
 
 SECTION_NUMBER 1
  '@MK60_PACK_V20A.MAIN(SCH_1):INS17004535@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
@@ -1428,7 +1428,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW3 'SWITCH-SPST-4P_SW-6X6X6_KEY':;
+ SW3 'SWITCH-SPST-4P_SW-6X6X6-SMD_KEY':;
 
 SECTION_NUMBER 1
  '@MK60_PACK_V20A.MAIN(SCH_1):INS17004594@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
@@ -1438,7 +1438,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- SW4 'SWITCH-SPST-4P_SW-6X6X6_KEY':;
+ SW4 'SWITCH-SPST-4P_SW-6X6X6-SMD_KEY':;
 
 SECTION_NUMBER 1
  '@MK60_PACK_V20A.MAIN(SCH_1):INS17022389@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':

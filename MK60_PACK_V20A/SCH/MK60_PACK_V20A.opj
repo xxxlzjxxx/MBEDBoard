@@ -120,7 +120,8 @@
       (Path "Design Resources" ".\mk60_pack_v20a.dsn")
       (Path "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\mk60_pack_v20a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -131,8 +132,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
-        (Scroll "-167 0")
-        (Zoom "59")
+        (Scroll "812 693")
+        (Zoom "236")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
       (Schematic "MAIN")
@@ -141,8 +142,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1211 156 745")
-        (Scroll "0 1761")
-        (Zoom "284")
+        (Scroll "1638 1126")
+        (Zoom "236")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
       (Schematic "MAIN")

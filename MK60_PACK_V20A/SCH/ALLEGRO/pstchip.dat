@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-05-2017 at 16:21:11}
+{ Using PSTWRITER 16.6.0 d001Sep-07-2017 at 08:59:57}
 primitive 'BEEP_HC12085P_PS1240P02BT_PS124';
   pin
     'P':
@@ -369,6 +369,21 @@ primitive 'IND_BEAD_0805_600OHM_1_LC0805_B';
     VALUE='BEAD_GZ2012D102TF';
   end_body;
 end_primitive;
+primitive 'IND_BEAD_0805_600OHM_200MA_LC08';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IND_BEAD_0805_600OHM_200MA';
+    JEDEC_TYPE='LC0805';
+    VALUE='BEAD_BLM21PG600';
+  end_body;
+end_primitive;
 primitive 'HOLD_1_HOLD250D134_HOLD-M3';
   pin
     '1':
@@ -582,6 +597,21 @@ primitive 'R_GENERIC_RC0603_6.49K';
     VALUE='6.49K';
   end_body;
 end_primitive;
+primitive 'R_GENERIC_RC0603_20R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_Generic';
+    JEDEC_TYPE='RC0603';
+    VALUE='20R';
+  end_body;
+end_primitive;
 primitive 'RESISTOR VAR_0_VISHAY_RES_VAR_6';
   pin
     'A':
@@ -600,7 +630,7 @@ primitive 'RESISTOR VAR_0_VISHAY_RES_VAR_6';
     VALUE='M64W104KB40';
   end_body;
 end_primitive;
-primitive 'SWITCH-SPST-4P_SW-6X6X6_KEY';
+primitive 'SWITCH-SPST-4P_SW-6X6X6-SMD_KEY';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -617,7 +647,7 @@ primitive 'SWITCH-SPST-4P_SW-6X6X6_KEY';
   end_pin;
   body
     PART_NAME='SWITCH-SPST-4P';
-    JEDEC_TYPE='SW-6X6x6';
+    JEDEC_TYPE='SW-6X6x6-SMD';
     VALUE='KEY';
   end_body;
 end_primitive;
