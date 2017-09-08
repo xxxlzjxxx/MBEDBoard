@@ -85,12 +85,12 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\HUIYUAN COMMUNICATION\19隧道在线监测\CADENCE\MK60_JKZJ-GAS_V10A\SCH\MK60_JKZJ-GAS_V10A.BOM")
+       "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\MK60_PACK_V20A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
-       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
     (BOM_Header
-       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tManufacture")
+       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tType\tNote")
     (BOM_Include_File
        "G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41G\SCH\MK60_YTAI_V41G.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -112,42 +112,27 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\mk60_pack_v20a.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mk60_pack_v20a.dsn")
-      (Path "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\mk60_pack_v20a.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\mk60_pack_v20a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_pack_v20a.dsn"))
+      (Select "Design Resources"
+         "H:\GitHub\MBEDBoard\MK60_PACK_V20A\SCH\mk60_pack_v20a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 334"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
-        (Scroll "812 693")
-        (Zoom "236")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
-      (Schematic "MAIN")
-      (Page "04 MODULE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1211 156 745")
-        (Scroll "1638 1126")
-        (Zoom "236")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
-      (Schematic "MAIN")
-      (Page "03 MCU")))
+      (Tab 0)))
   (PartMRUSelector
     (TestPoint
       (FullPartName "TestPoint.Normal")
