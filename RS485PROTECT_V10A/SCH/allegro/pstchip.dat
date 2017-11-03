@@ -1,0 +1,162 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Nov-01-2017 at 16:38:09}
+primitive 'CAP NP_2_CC0805_100PF_50V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP_2';
+    JEDEC_TYPE='CC0805';
+    VALUE='100pF_50V';
+  end_body;
+end_primitive;
+primitive 'CAP NP_2_CC0805_4.7NF_50V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP_2';
+    JEDEC_TYPE='CC0805';
+    VALUE='4.7nF_50V';
+  end_body;
+end_primitive;
+primitive 'P6SMB_1_DO-214AA_BS0300N-C';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='P6SMB_1';
+    JEDEC_TYPE='DO-214AA';
+    VALUE='BS0300N-C';
+  end_body;
+end_primitive;
+primitive 'BA301N_BA301N_BA301N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='BA301N';
+    JEDEC_TYPE='BA301N';
+    VALUE='BA301N';
+  end_body;
+end_primitive;
+primitive 'HEADER 6_HEADER6X1_2R54_HEADER6';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 6';
+    JEDEC_TYPE='HEADER6X1_2R54';
+    VALUE='HEADER6X1_2R54';
+  end_body;
+end_primitive;
+primitive 'HEADER 4_HEADER4X1_2R54_HEADER4';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 4';
+    JEDEC_TYPE='HEADER4X1_2R54';
+    VALUE='HEADER4X1_2R54';
+  end_body;
+end_primitive;
+primitive '744822222_0_WCM3216_WCM3216-222';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='744822222_0';
+    JEDEC_TYPE='WCM3216';
+    VALUE='WCM3216-222T';
+  end_body;
+end_primitive;
+primitive 'R_GENERIC_R2010_10R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_Generic';
+    JEDEC_TYPE='R2010';
+    VALUE='10R';
+  end_body;
+end_primitive;
+primitive 'R_GENERIC_R0805_10M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_Generic';
+    JEDEC_TYPE='R0805';
+    VALUE='10M';
+  end_body;
+end_primitive;
+END.

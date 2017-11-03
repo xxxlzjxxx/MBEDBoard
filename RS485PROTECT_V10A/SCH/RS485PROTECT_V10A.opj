@@ -35,7 +35,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\GitHub\MBEDBoard\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DRC")
+       "H:\GitHub\MBEDBoard\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -65,7 +65,7 @@
     (DRC_Run_Physical_Custom_DRC "FALSE")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\ALLEGRO")
+       "H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -98,10 +98,10 @@
     (IREFReportFile
        "G:\HUIYUAN COMMUNICATION\18µÕ≥…±æ∑¿Õ‚∆∆\CADENCE\SIM8909_TEST_V10A\SCH\SIM8909_TEST_V10A.csv")
     (IREFViewOutput "0")
-    (File ".\jy02a_test_v10a.dsn"
+    (File ".\rs485protect_v10a.dsn"
       (Type "Schematic Design")))
   (Folder "Outputs"
-    (File ".\jy02a_test_v10a.drc"
+    (File ".\rs485protect_v10a.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -114,6 +114,22 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BA301N
+      (FullPartName "BA301N.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (AS5048A-HTSP
+      (FullPartName "AS5048A-HTSP.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
     (LM2904VQDR
       (FullPartName "LM2904VQDRB.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
@@ -196,35 +212,31 @@
     (LTC3401EMS
       (FullPartName "LTC3401EMS.Normal")
       (LibraryName "E:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
-      (DeviceIndex "0"))
-    (TXS0104E
-      (FullPartName "TXS0104E.Normal")
-      (LibraryName "D:\MYSCHPCB\HY_V10\MSP430\MSP430F5438\MYLIB.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\jy02a_test_v10a.dsn")
-      (Path "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\rs485protect_v10a.dsn")
+      (Path "Design Resources" ".\rs485protect_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1"
-         "02 JY02A"))
+      (Select "Design Resources" ".\rs485protect_v10a.dsn" "SCHEMATIC1"
+         "02 RS485"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 252 418 836"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 252 418 836"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1503 156 745")
-        (Scroll "3085 717")
+        (Placement "44 2 3 -1 -1 -8 -31 0 1347 0 589")
+        (Scroll "1525 347")
         (Zoom "284")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 JY02A")))
+      (Page "02 RS485")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

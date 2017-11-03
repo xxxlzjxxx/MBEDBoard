@@ -213,19 +213,19 @@
       (Path "Design Resources" ".\88e6071_test_v10b.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\88e6071_test_v10b.dsn" "MAIN" "03 POWER"))
+      (Select "Design Resources" ".\88e6071_test_v10b.dsn" "MAIN" "02 SWITCH"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1500 156 736")
-        (Scroll "1991 1943")
-        (Zoom "284")
+        (Scroll "687 56")
+        (Zoom "142")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")

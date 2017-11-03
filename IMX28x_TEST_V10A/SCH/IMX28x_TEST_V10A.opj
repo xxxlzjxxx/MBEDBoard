@@ -120,16 +120,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn")
-      (Path "Design Resources"
-         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn"
-         "MAIN BOARD")
+      (Path "Design Resources" ".\imx28x_test_v10a.dsn")
+      (Path "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "e:\github\mbedboard\imx28x_test_v10a\sch\imx28x_test_v10a.dsn"
-         "MAIN BOARD" "10 POWER"))
+      (Select "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD"
+         "10 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -137,69 +133,18 @@
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 482"))
       (Tab 0))
     (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1422 26 501")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1046 292")
-        (Zoom "252"))
-      (Path "E:\CADENCELIB\ORCAD\IC.OLB")
-      (Package "OV5642CSP"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1338 182 664")
-        (Scroll "0 1787")
-        (Zoom "224")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
+        (Scroll "386 208")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "04 LCD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1364 208 690")
-        (Scroll "2961 417")
-        (Zoom "448")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "06 USB&SD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1156 0 482")
-        (Scroll "0 491")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "03 B2B"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1182 26 508")
-        (Scroll "0 473")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
-      (Schematic "MAIN BOARD")
-      (Page "08 RJ45&AUDIO"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1526 130 605")
-        (Scroll "0 1371")
-        (Zoom "272")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
       (Page "10 POWER")))
   (PartMRUSelector
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "HUIYUAN-LZJ")
+  (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

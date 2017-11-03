@@ -1,0 +1,18 @@
+{ Using PSTWRITER 16.6.0 d001Nov-01-2017 at 16:38:09 }
+
+INFO(ORCAP-36102): Diff Pair DRC check Warnings:
+INFO(ORCAP-17055): Differential pair DP7 has only one net N16969293 associated with it. A valid differential pair must have two nets associated with it. 
+
+#1 WARNING(ORCAP-36006): Part Name "HEADER 6_HEADER6X1_2R54_HEADER6X1_2R54" is renamed to "HEADER 6_HEADER6X1_2R54_HEADER6".
+#2 WARNING(ORCAP-36006): Part Name "HEADER 4_HEADER4X1_2R54_HEADER4X1_2R54" is renamed to "HEADER 4_HEADER4X1_2R54_HEADER4".
+#3 WARNING(ORCAP-36006): Part Name "744822222_0_WCM3216_WCM3216-222T" is renamed to "744822222_0_WCM3216_WCM3216-222".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
