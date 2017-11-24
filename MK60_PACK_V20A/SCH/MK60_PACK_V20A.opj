@@ -144,8 +144,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1451 52 536")
-        (Scroll "-94 0")
-        (Zoom "71")
+        (Scroll "346 926")
+        (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
       (Schematic "MAIN")

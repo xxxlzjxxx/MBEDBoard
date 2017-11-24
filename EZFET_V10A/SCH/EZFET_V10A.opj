@@ -164,16 +164,29 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ezfet_v10a.dsn")
-      (Path "Design Resources" ".\ezfet_v10a.dsn" "F5528")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\EZFET_V10A\SCH\ezfet_v10a.dsn")
+      (Path "Design Resources"
+         "H:\GitHub\MBEDBoard\EZFET_V10A\SCH\ezfet_v10a.dsn" "F5528")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\ezfet_v10a.dsn" "F5528" "02 F5528"))
+      (Select "Design Resources"
+         "H:\GitHub\MBEDBoard\EZFET_V10A\SCH\ezfet_v10a.dsn" "F5528" "02 F5528"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
-      (Tab 0)))
-  (MPSSessionName "HUIYUAN-LZJ")
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1425 78 667")
+        (Scroll "1090 406")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "H:\GITHUB\MBEDBOARD\EZFET_V10A\SCH\EZFET_V10A.DSN")
+      (Schematic "F5528")
+      (Page "02 F5528")))
+  (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

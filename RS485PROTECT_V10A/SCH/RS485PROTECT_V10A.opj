@@ -232,8 +232,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 1347 0 589")
-        (Scroll "1525 347")
-        (Zoom "284")
+        (Scroll "315 0")
+        (Zoom "142")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.DSN")
       (Schematic "SCHEMATIC1")
