@@ -186,15 +186,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn")
-      (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\usbhub_v11a.dsn" "USBHUB"
-         "02 USBHUB"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -205,11 +199,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "3710 5228")
-        (Zoom "544")
+        (Scroll "398 42")
+        (Zoom "142")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
       (Schematic "USBHUB")
       (Page "02 USBHUB")))
-  (MPSSessionName "HUIYUAN-LZJ")
+  (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

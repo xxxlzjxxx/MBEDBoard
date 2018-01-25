@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><title>Component Report</title></head>
+<body>
+<b><u>Design Name</u>&nbsp;H:/GitHub/MBEDBoard/RS485PROTECT_V10A/PCB/RS485PROTECT_V10A.brd</b><br>
+<b><u>Date</u>&nbsp;Sat Dec 02 14:01:05 2017</b><br>
+<b><u>Total Components: </b></u>&nbsp14<br><br><BODY>
+
+<table align=center border=1><caption><b><u>Component Report</u></b></caption>
+<tr>
+<td><b>REFDES</b></td>
+<td><b>COMP_DEVICE_TYPE</b></td>
+<td><b>COMP_VALUE</b></td>
+<td><b>COMP_TOL</b></td>
+<td><b>COMP_PACKAGE</b></td>
+<td><b>SYM_X</b></td>
+<td><b>SYM_Y</b></td>
+<td><b>SYM_ROTATE</b></td>
+<td><b>SYM_MIRROR</b></td>
+</tr>
+<tr>
+<td nowrap=true>C1</td>
+<td nowrap=true>CAP NP_2_CC0805_100PF_50V</td>
+<td nowrap=true>100pF_50V</td>
+<td>&nbsp;</td>
+<td nowrap=true>CC0805</td>
+<td nowrap=true align=right>20.5000</td>
+<td nowrap=true align=right>9.9000</td>
+<td nowrap=true align=right>0.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>C2</td>
+<td nowrap=true>CAP NP_2_CC0805_100PF_50V</td>
+<td nowrap=true>100pF_50V</td>
+<td>&nbsp;</td>
+<td nowrap=true>CC0805</td>
+<td nowrap=true align=right>20.6000</td>
+<td nowrap=true align=right>5.5000</td>
+<td nowrap=true align=right>180.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>C3</td>
+<td nowrap=true>CAP NP_2_CC0805_4.7NF_50V</td>
+<td nowrap=true>4.7nF_50V</td>
+<td>&nbsp;</td>
+<td nowrap=true>CC0805</td>
+<td nowrap=true align=right>20.6000</td>
+<td nowrap=true align=right>1.1000</td>
+<td nowrap=true align=right>0.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>D1</td>
+<td nowrap=true>P6SMB_1_DO-214AA_BS0300N-C</td>
+<td nowrap=true>BS0300N-C</td>
+<td>&nbsp;</td>
+<td nowrap=true>DO-214AA</td>
+<td nowrap=true align=right>13.8000</td>
+<td nowrap=true align=right>13.5000</td>
+<td nowrap=true align=right>180.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>D2</td>
+<td nowrap=true>P6SMB_1_DO-214AA_BS0300N-C</td>
+<td nowrap=true>BS0300N-C</td>
+<td>&nbsp;</td>
+<td nowrap=true>DO-214AA</td>
+<td nowrap=true align=right>16.0000</td>
+<td nowrap=true align=right>7.6000</td>
+<td nowrap=true align=right>270.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>D3</td>
+<td nowrap=true>P6SMB_1_DO-214AA_BS0300N-C</td>
+<td nowrap=true>BS0300N-C</td>
+<td>&nbsp;</td>
+<td nowrap=true>DO-214AA</td>
+<td nowrap=true align=right>13.7000</td>
+<td nowrap=true align=right>2.1000</td>
+<td nowrap=true align=right>180.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>GDT1</td>
+<td nowrap=true>BA301N_BA301N_BA301N</td>
+<td nowrap=true>BA301N</td>
+<td>&nbsp;</td>
+<td nowrap=true>BA301N</td>
+<td nowrap=true align=right>4.6000</td>
+<td nowrap=true align=right>11.4000</td>
+<td nowrap=true align=right>270.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>GDT2</td>
+<td nowrap=true>BA301N_BA301N_BA301N</td>
+<td nowrap=true>BA301N</td>
+<td>&nbsp;</td>
+<td nowrap=true>BA301N</td>
+<td nowrap=true align=right>4.6000</td>
+<td nowrap=true align=right>4.1000</td>
+<td nowrap=true align=right>270.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>J1</td>
+<td nowrap=true>HEADER 6_HEADER6X1_2R54_HEADER6</td>
+<td nowrap=true>HEADER6X1_2R54</td>
+<td>&nbsp;</td>
+<td nowrap=true>HEADER6X1_2R54</td>
+<td nowrap=true align=right>1.6000</td>
+<td nowrap=true align=right>14.1000</td>
+<td nowrap=true align=right>90.000</td>
+<td nowrap=true>YES</td>
+</tr>
+<tr>
+<td nowrap=true>J2</td>
+<td nowrap=true>HEADER 4_HEADER4X1_2R54_HEADER4</td>
+<td nowrap=true>HEADER4X1_2R54</td>
+<td>&nbsp;</td>
+<td nowrap=true>HEADER4X1_2R54</td>
+<td nowrap=true align=right>24.3000</td>
+<td nowrap=true align=right>7.7000</td>
+<td nowrap=true align=right>90.000</td>
+<td nowrap=true>YES</td>
+</tr>
+<tr>
+<td nowrap=true>L1</td>
+<td nowrap=true>744822222_0_WCM3216_WCM3216-222</td>
+<td nowrap=true>WCM3216-222T</td>
+<td>&nbsp;</td>
+<td nowrap=true>WCM3216</td>
+<td nowrap=true align=right>20.9000</td>
+<td nowrap=true align=right>7.7000</td>
+<td nowrap=true align=right>0.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>R1</td>
+<td nowrap=true>R_GENERIC_R2010_10R</td>
+<td nowrap=true>10R</td>
+<td>&nbsp;</td>
+<td nowrap=true>R2010</td>
+<td nowrap=true align=right>10.2000</td>
+<td nowrap=true align=right>9.4000</td>
+<td nowrap=true align=right>180.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>R2</td>
+<td nowrap=true>R_GENERIC_R2010_10R</td>
+<td nowrap=true>10R</td>
+<td>&nbsp;</td>
+<td nowrap=true>R2010</td>
+<td nowrap=true align=right>10.2000</td>
+<td nowrap=true align=right>5.9000</td>
+<td nowrap=true align=right>180.000</td>
+<td nowrap=true>NO</td>
+</tr>
+<tr>
+<td nowrap=true>R3</td>
+<td nowrap=true>R_GENERIC_R0805_10M</td>
+<td nowrap=true>10M</td>
+<td>&nbsp;</td>
+<td nowrap=true>R0805</td>
+<td nowrap=true align=right>20.6000</td>
+<td nowrap=true align=right>3.1000</td>
+<td nowrap=true align=right>0.000</td>
+<td nowrap=true>NO</td>
+</tr>
+</table>
+</BODY>
+</HTML>

@@ -228,17 +228,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 541"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1315 260 849")
-        (Scroll "3084 1229")
-        (Zoom "284")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V10A\SCH\F407_PACK_V10A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03 MODULE")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 541"))
+      (Tab 0)))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

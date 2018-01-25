@@ -215,16 +215,6 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 252 418 836"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1503 156 745")
-        (Scroll "3085 717")
-        (Zoom "284")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 JY02A")))
+      (Tab 0)))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

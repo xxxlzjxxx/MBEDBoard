@@ -83,12 +83,12 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\HUIYUAN COMMUNICATION\18µÕ≥…±æ∑¿Õ‚∆∆\CADENCE\SIM8909_TEST_V10A\SCH\SIM8909_TEST_V10A.BOM")
+       "H:\GitHub\MBEDBoard\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
-       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
     (BOM_Header
-       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tManufacture")
+       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tType\tNote")
     (BOM_Include_File
        "G:\HUIYUAN COMMUNICATION\14LTE4GMODULAR\N710\SCH\N710_4GMD_V10A.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -111,7 +111,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\rs485protect_v10a.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     ("HEADER 4"
@@ -226,17 +228,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 252 418 836"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1347 0 589")
-        (Scroll "315 0")
-        (Zoom "142")
-        (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 RS485")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 252 418 836"))
+      (Tab 0)))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

@@ -210,14 +210,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\88E6071_TEST_V10B\SCH\88e6071_test_v10b.dsn")
+         "h:\github\mbedboard\88e6071_test_v10b\sch\88e6071_test_v10b.dsn")
       (Path "Design Resources"
-         "H:\GitHub\MBEDBoard\88E6071_TEST_V10B\SCH\88e6071_test_v10b.dsn"
+         "h:\github\mbedboard\88e6071_test_v10b\sch\88e6071_test_v10b.dsn"
          "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "H:\GitHub\MBEDBoard\88E6071_TEST_V10B\SCH\88e6071_test_v10b.dsn"
+         "h:\github\mbedboard\88e6071_test_v10b\sch\88e6071_test_v10b.dsn"
          "MAIN" "02 SWITCH"))
     (HierarchyView)
     (Doc
@@ -229,8 +229,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1500 156 736")
-        (Scroll "687 56")
-        (Zoom "142")
+        (Scroll "3084 0")
+        (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")
@@ -239,8 +239,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1344 0 580")
-        (Scroll "-66 0")
-        (Zoom "71")
+        (Scroll "0 417")
+        (Zoom "284")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBEDBOARD\88E6071_TEST_V10B\SCH\88E6071_TEST_V10B.DSN")
       (Schematic "MAIN")
