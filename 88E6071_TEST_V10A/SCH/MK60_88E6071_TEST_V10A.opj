@@ -213,12 +213,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "h:\github\mbedboard\88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources"
+         "h:\github\mbedboard\88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN"
-         "02 GPIO ASSIGNMENT"))
+      (Select "Design Resources"
+         "h:\github\mbedboard\88e6071_test_v10a\sch\mk60_88e6071_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
