@@ -181,14 +181,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn")
+         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn")
       (Path "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn"
-         "SCHEMATIC1")
+         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn"))
+         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn" "SCHEMATIC1"
+         "02 USB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -198,23 +198,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "-91 0")
-        (Zoom "68")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1347 0 589")
+        (Scroll "636 108")
+        (Zoom "142")
         (Occurrence "/"))
-      (Path
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "01 COVER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1396 52 632")
-        (Scroll "0 101")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path
-         "G:\HUIYUAN COMMUNICATION\18低成本防外破\CADENCE\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
+      (Path "H:\MBEDBOARD\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "02 USB")))
   (MPSSessionName "Administrator")

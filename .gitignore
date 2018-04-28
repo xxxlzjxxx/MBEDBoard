@@ -1,5 +1,6 @@
 #Cadence
 *.dbk
+*.DBK
 *.jrl
 *.1
 *.2

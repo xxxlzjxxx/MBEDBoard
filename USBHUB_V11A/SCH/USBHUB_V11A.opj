@@ -29,7 +29,7 @@
     (NoModify)
     (BOM_Scope "1")
     (BOM_Mode "0")
-    (BOM_Report_File "H:\GitHub\MBEDBoard\USBHUB_V11A\SCH\USBHUB_V11A.BOM")
+    (BOM_Report_File "H:\MBEDBoard\USBHUB_V11A\SCH\USBHUB_V11A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
@@ -186,9 +186,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\usbhub_v11a.dsn")
+      (Path "Design Resources" ".\usbhub_v11a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\usbhub_v11a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -198,11 +200,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1370 26 606")
-        (Scroll "398 42")
-        (Zoom "142")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1399 52 641")
+        (Scroll "1018 1877")
+        (Zoom "284")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
+      (Path "H:\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
       (Schematic "USBHUB")
       (Page "02 USBHUB")))
   (MPSSessionName "Administrator")

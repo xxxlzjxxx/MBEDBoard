@@ -229,6 +229,16 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 252 418 836"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 286 1633 286 875")
+        (Scroll "1684 640")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path "H:\GITHUB\MBEDBOARD\RS485PROTECT_V10A\SCH\RS485PROTECT_V10A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 RS485")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))
