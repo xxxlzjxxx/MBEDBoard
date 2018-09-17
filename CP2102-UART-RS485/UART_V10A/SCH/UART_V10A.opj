@@ -164,17 +164,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 234 1432 234 730")
-        (Scroll "1259 0")
-        (Zoom "236")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 697")
+        (Scroll "607 445")
+        (Zoom "148")
         (Occurrence "/"))
-      (Path "E:\GITHUB\48_CP2102\SCH\UART_V10A.DSN")
+      (Path "H:\MBEDBOARD\CP2102-UART-RS485\UART_V10A\SCH\UART_V10A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "01 USBtoUART")))
-  (MPSSessionName "HUIYUAN-LZJ")
+  (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

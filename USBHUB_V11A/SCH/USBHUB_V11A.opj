@@ -190,22 +190,12 @@
       (Path "Design Resources" ".\usbhub_v11a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\usbhub_v11a.dsn"))
+      (Select "Design Resources" ".\usbhub_v11a.dsn" "USBHUB" "02 USBHUB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1399 52 641")
-        (Scroll "1018 1877")
-        (Zoom "284")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
-      (Schematic "USBHUB")
-      (Page "02 USBHUB")))
+      (Tab 0)))
   (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

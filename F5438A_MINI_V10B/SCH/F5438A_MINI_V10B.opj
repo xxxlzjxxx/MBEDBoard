@@ -159,37 +159,19 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn")
+         "H:\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn")
       (Path "Design Resources"
-         "E:\GitHub\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn"
-         "SCHEMATIC1")
+         "H:\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources"
+         "H:\MBEDBoard\F5438A_MINI_V10B\SCH\f5438a_mini_v10b.dsn" "SCHEMATIC1"
+         "01 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1131 26 524")
-        (Scroll "0 0")
-        (Zoom "136")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "01 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1330 156 654")
-        (Scroll "408 312")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\F5438A_MINI_V10B\SCH\F5438A_MINI_V10B.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02 POWER")))
-  (MPSSessionName "HUIYUAN-LZJ")
+      (Tab 0)))
+  (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

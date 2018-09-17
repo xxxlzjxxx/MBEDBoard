@@ -122,22 +122,22 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 432"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 432"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1396 52 632")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1373 26 615")
         (Scroll "0 0")
-        (Zoom "100")
+        (Zoom "142")
         (Occurrence "/"))
-      (Path "E:\GITHUB\MBEDBOARD\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DSN")
+      (Path "H:\MBEDBOARD\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "01 COVER")))
+      (Page "02 RELAY")))
   (PartMRUSelector
     (HLK-PM12
       (FullPartName "HLK-PM12.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
-  (MPSSessionName "HUIYUAN-LZJ"))
+  (MPSSessionName "Administrator"))

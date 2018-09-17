@@ -204,14 +204,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "h:\mbedboard\jy02a_test_v10a\sch\jy02a_test_v10a.dsn")
-      (Path "Design Resources"
-         "h:\mbedboard\jy02a_test_v10a\sch\jy02a_test_v10a.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\jy02a_test_v10a.dsn")
+      (Path "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "h:\mbedboard\jy02a_test_v10a\sch\jy02a_test_v10a.dsn" "SCHEMATIC1"
+      (Select "Design Resources" ".\jy02a_test_v10a.dsn" "SCHEMATIC1"
          "02 JY02A"))
     (HierarchyView)
     (Doc
@@ -223,8 +220,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 234 1548 234 823")
-        (Scroll "4400 912")
-        (Zoom "400")
+        (Scroll "198 0")
+        (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")

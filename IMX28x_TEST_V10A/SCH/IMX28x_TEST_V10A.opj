@@ -99,7 +99,9 @@
     (Open_BOM_in_Excel "FALSE")
     (BOM_View_Output "FALSE")
     (File ".\imx28x_test_v10a.dsn"
-      (Type "Schematic Design")))
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
   (Folder "Outputs"
     (File ".\imx28x_test_v10a.drc"
       (Type "Report"))
@@ -120,28 +122,80 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\imx28x_test_v10a.dsn")
-      (Path "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD")
+      (Path "Design Resources"
+         "H:\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn" "MAIN BOARD")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\imx28x_test_v10a.dsn" "MAIN BOARD"
-         "10 POWER"))
+      (Select "Design Resources"
+         "H:\MBEDBoard\IMX28x_TEST_V10A\SCH\imx28x_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 482"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 315 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1425 78 667")
-        (Scroll "386 208")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 645")
+        (Scroll "-163 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "03 B2B"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1665 78 697")
+        (Scroll "0 111")
+        (Zoom "114")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "10 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1769 104 596")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "06 USB&SD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1795 130 622")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "04 LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1421 156 775")
+        (Scroll "0 70")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Schematic "MAIN BOARD")
+      (Page "05 RS232&RS485&CAN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1447 182 801")
+        (Scroll "30 0")
         (Zoom "200")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
+      (Path "H:\MBEDBOARD\IMX28X_TEST_V10A\SCH\IMX28X_TEST_V10A.DSN")
       (Schematic "MAIN BOARD")
-      (Page "10 POWER")))
+      (Page "07 FLASH")))
   (PartMRUSelector
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

@@ -230,11 +230,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1581 234 823")
-        (Scroll "3084 1507")
-        (Zoom "284")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1717 130 749")
+        (Scroll "0 2578")
+        (Zoom "296")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
+      (Path "H:\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "04 MCU")))
   (MPSSessionName "Administrator")
