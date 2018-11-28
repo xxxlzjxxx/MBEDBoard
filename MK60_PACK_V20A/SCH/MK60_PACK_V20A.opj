@@ -122,7 +122,8 @@
       (Path "Design Resources" ".\mk60_pack_v20a.dsn")
       (Path "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN" "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

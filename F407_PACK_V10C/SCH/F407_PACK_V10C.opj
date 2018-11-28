@@ -219,13 +219,12 @@
       (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN"
-         "12 USB DEVICE&UART"))
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "04 EARTHNET"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 373"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 373"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -236,8 +235,17 @@
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
       (Schematic "MAIN")
-      (Page "12 USB DEVICE&UART"))) >>>>>>>
-   1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Page "12 USB DEVICE&UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1333 260 879")
+        (Scroll "118 682")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "04 EARTHNET"))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")
