@@ -203,8 +203,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1486 156 775")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Scroll "2689 1887")
+        (Zoom "400")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\USBHUB_V11A\SCH\USBHUB_V11A.DSN")
       (Schematic "USBHUB")

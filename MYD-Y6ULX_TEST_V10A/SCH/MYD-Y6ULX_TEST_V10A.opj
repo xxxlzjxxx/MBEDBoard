@@ -21,7 +21,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\github\INTELLIGENT-CONTROL\09RTU\HARDWARE\ZHZK_F091_RTU_V10A\SCH\ZHZK_F091_RTU_V10A.DRC")
+       "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -66,8 +66,7 @@
     (width_start "80")
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory"
-       "H:\INTELLIGENT-CONTROL\09RTU\HARDWARE\ZHZK_F091_RTU_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory" "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -100,37 +99,46 @@
     (BOM_View_Output "FALSE")
     (Board_sim_option "VHDL_flow")
     (IREFReportFile
-       "H:\github\INTELLIGENT-CONTROL\09RTU\HARDWARE\ZHZK_F091_RTU_V10A\SCH\ZHZK_F091_RTU_V10A.csv")
+       "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.csv")
     (IREFViewOutput "0")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (File ".\myd-y6ulx_test_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\myd-y6ulx_test_v10a.csv"
+      (Type "Report"))
+    (File ".\myd-y6ulx_test_v10a.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\myd-y6ulx_test_v10a.dsn")
-      (Path "Design Resources"
-         "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\myd-y6ulx_test_v10a.dsn" "SCH")
+      (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn")
+      (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
-      (Select "Design Resources"
-         "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\myd-y6ulx_test_v10a.dsn" "SCH"
-         "08 LCD"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 277 0 946"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 697")
-        (Scroll "-34 0")
-        (Zoom "74")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1564 234 853")
+        (Scroll "727 654")
+        (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
@@ -138,19 +146,29 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1151 78 697")
-        (Scroll "59 10")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1590 182 674")
+        (Scroll "0 60")
         (Zoom "100")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "05 4G"))
+      (Page "08 LCD"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1407 104 723")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1203 130 749")
         (Scroll "0 0")
-        (Zoom "100")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "06 ETHERNET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 723")
+        (Scroll "0 0")
+        (Zoom "228")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
@@ -158,14 +176,60 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1433 130 749")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
+        (Scroll "0 0")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "04 SD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1486 156 775")
+        (Scroll "96 50")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "05 4G"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1616 208 700")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "08 LCD")))
+      (Page "12 IO-SDIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1408 0 492")
+        (Scroll "0 80")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "07 AUDIO")))
   (PartMRUSelector
+    ("CONN RCPT 2"
+      (FullPartName "CONN RCPT 2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BAT54C
+      (FullPartName "BAT54C.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    ("CONN RECT 10x2"
+      (FullPartName "CONN RECT 10x2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 5x2"
+      (FullPartName "CONN RCPT 5x2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (FPC30
       (FullPartName "FPC30.Normal")
       (LibraryName
@@ -243,10 +307,6 @@
       (LibraryName
          "I:\2015年11月----LINUX\MYD-Y6ULX\01-DOCUMENT\HARDWARE\LIBRARY\SCH_LIB\SCH.OLB")
       (DeviceIndex "0"))
-    (BAT54C
-      (FullPartName "BAT54C.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
     (TPD4E1U06DBVR
       (FullPartName "TPD4E1U06DBVR.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
@@ -258,19 +318,6 @@
     (TPS2051BDBVR
       (FullPartName "TPS2051BDBVR.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (MYC-Y6ULX_SOM
-      (FullPartName "MYC-Y6ULX_SOM.Normal")
-      (LibraryName
-         "I:\2015年11月----LINUX\MYD-Y6ULX\01-DOCUMENT\HARDWARE\LIBRARY\SCH_LIB\SCH.OLB")
-      (DeviceIndex "0"))
-    (TXB0104PWR
-      (FullPartName "TXB0104PWR.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (SLM750
-      (FullPartName "SLM750.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "Administrator")
