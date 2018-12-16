@@ -126,7 +126,8 @@
       (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn")
       (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\myd-y6ulx_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -136,83 +137,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1564 234 853")
-        (Scroll "727 654")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "03 CPU-6UL"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1590 182 674")
-        (Scroll "0 60")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "08 LCD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1203 130 749")
-        (Scroll "0 0")
-        (Zoom "74")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "06 ETHERNET"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 723")
-        (Scroll "0 0")
-        (Zoom "228")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "13 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "0 0")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "04 SD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1486 156 775")
-        (Scroll "96 50")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "05 4G"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1616 208 700")
+        (Placement "44 2 3 -1 -1 -8 -31 286 1616 286 905")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "12 IO-SDIO"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1408 0 492")
-        (Scroll "0 80")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "07 AUDIO")))
+      (Page "11 IO-CAN")))
   (PartMRUSelector
     ("CONN RCPT 2"
       (FullPartName "CONN RCPT 2.Normal")

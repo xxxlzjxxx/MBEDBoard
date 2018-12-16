@@ -127,8 +127,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1373 26 615")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1373 26 615")
+        (Scroll "0 14")
         (Zoom "142")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\RELAY_TEST_V10A\SCH\RELAY_TEST_V10A.DSN")

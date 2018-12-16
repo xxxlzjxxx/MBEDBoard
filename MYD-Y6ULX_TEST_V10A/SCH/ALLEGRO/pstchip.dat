@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-12-2018 at 21:04:15}
+{ Using PSTWRITER 17.2.0 d001Dec-14-2018 at 10:40:29}
 primitive 'JMP-2_0_CR1220_CR2032/NI';
   pin
     '1':
@@ -336,7 +336,7 @@ primitive 'SIM_CARD_2_SIM_PUSH_5039600696';
     VALUE='5039600696';
   end_body;
 end_primitive;
-primitive 'LED_4_LED_3R00_LED_RED';
+primitive 'LED_4_LED0805_LED_RED';
   pin
     'ANODE':
       PIN_NUMBER='(1)';
@@ -347,7 +347,7 @@ primitive 'LED_4_LED_3R00_LED_RED';
   end_pin;
   body
     PART_NAME='LED_4';
-    JEDEC_TYPE='LED_3R00';
+    JEDEC_TYPE='LED0805';
     VALUE='LED_RED';
   end_body;
 end_primitive;
