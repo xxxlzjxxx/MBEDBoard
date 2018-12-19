@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-14-2018 at 10:40:29 }
+{ Using PSTWRITER 17.2.0 d001Dec-19-2018 at 18:54:52 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MYD-Y6ULX_TEST_V10A';
@@ -238,42 +238,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C29 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17014493@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17014493@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page7_ins17014493@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  C3 'CAP NP_CC0603_0.1UF_50V':;
 
 SECTION_NUMBER 1
  '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17320156@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17320156@discrete.\cap np.normal\(chips)',
  P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page4_ins17320156@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C30 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17014583@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17014583@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page7_ins17014583@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C31 'CAP NP_2_CC0805_10UF_25V':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17014609@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17014609@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page7_ins17014609@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1484,16 +1454,6 @@ SECTION_NUMBER 1
  '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS16872892@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
  C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins16872892@\emulation module\.\r_generic.normal\(chips)',
  P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page6_ins16872892@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R37 'R_GENERIC_RC0603_10R':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS16871701@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins16871701@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page6_ins16871701@\emulation module\.\r_generic.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

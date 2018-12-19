@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-14-2018 at 10:40:29}
+{ Using PSTWRITER 17.2.0 d001Dec-19-2018 at 18:54:52}
 primitive 'JMP-2_0_CR1220_CR2032/NI';
   pin
     '1':
@@ -1234,21 +1234,6 @@ primitive 'R_GENERIC_RC0603_510R';
     PART_NAME='R_Generic';
     JEDEC_TYPE='RC0603';
     VALUE='510R';
-  end_body;
-end_primitive;
-primitive 'R_GENERIC_RC0603_10R';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='RC0603';
-    VALUE='10R';
   end_body;
 end_primitive;
 primitive 'R_GENERIC_R0805_10M';
