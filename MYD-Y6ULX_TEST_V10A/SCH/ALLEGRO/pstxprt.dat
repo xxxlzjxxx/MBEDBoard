@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-19-2018 at 18:54:52 }
+{ Using PSTWRITER 17.2.0 d001Dec-20-2018 at 20:17:10 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MYD-Y6ULX_TEST_V10A';
@@ -934,26 +934,6 @@ SECTION_NUMBER 1
  '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17333715@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
  C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17333715@connector.\conn rcpt 4.normal\(chips)',
  P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page3_ins17333715@connector.\conn rcpt 4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J3 'CONN RCPT 4_HEADER4X1_2R54_HEAD':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17333893@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17333893@connector.\conn rcpt 4.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page3_ins17333893@connector.\conn rcpt 4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J4 'CONN RCPT 4_HEADER4X1_2R54_HEAD':;
-
-SECTION_NUMBER 1
- '@MYD-Y6ULX_TEST_V10A.SCH(SCH_1):INS17334078@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
- C_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):ins17334078@connector.\conn rcpt 4.normal\(chips)',
- P_PATH='@\myd-y6ulx_test_v10a\.sch(sch_1):page3_ins17334078@connector.\conn rcpt 4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

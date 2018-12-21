@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Dec-19-2018 at 18:54:51 }
+{ Using PSTWRITER 17.2.0 d001Dec-20-2018 at 20:17:09 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.101" ignored for U1: SCH, 03 CPU-6UL (78.74, 20.32). Connecting pin to net "LCD_DATA13".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.102" ignored for U1: SCH, 03 CPU-6UL (78.74, 20.32). Connecting pin to net "LCD_DATA14".
