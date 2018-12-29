@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-20-2018 at 20:17:10}
+{ Using PSTWRITER 17.2.0 d001Dec-27-2018 at 10:07:56}
 primitive 'JMP-2_0_CR1220_CR2032/NI';
   pin
     '1':

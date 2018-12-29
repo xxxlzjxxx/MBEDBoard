@@ -66,8 +66,7 @@
     (width_start "80")
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory"
-       "H:\INTELLIGENT-CONTROL\10EC20\HARDWARE\ZHZK_EC20_DTU_L_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory" "H:\MBEDBoard\MYD-Y6ULX_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -150,13 +149,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1486 156 775")
-        (Scroll "596 499")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1408 78 697")
+        (Scroll "0 996")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "03 CPU-6UL")))
+      (Page "12 IO-SDIO")))
   (PartMRUSelector
     ("CONN RCPT 2"
       (FullPartName "CONN RCPT 2.Normal")
