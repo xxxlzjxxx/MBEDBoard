@@ -214,14 +214,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 252 418 836"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 252 418 836"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1548 234 823")
-        (Scroll "198 0")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 234 1548 234 823")
+        (Scroll "-309 -4")
+        (Zoom "74")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\JY02A_TEST_V10A\SCH\JY02A_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")
