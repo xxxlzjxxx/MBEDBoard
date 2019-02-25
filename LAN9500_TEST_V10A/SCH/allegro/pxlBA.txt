@@ -70,7 +70,9 @@ FUNC_CDS_FSP_TERM_NAME
 FUNC_ROOM
 FUNC_GROUP
 FUNC_CDS_FSP_TERM_INDEX
+FUNC_CDS_FSP_INSTANCE_ID
 FUNC_NO_SWAP_GATE
+FUNC_CDS_FSP_IS_FPGA
 END
 
 # Component properties view. File: compView.dat
@@ -80,14 +82,10 @@ END
 COMPONENT
 REFDES
 COMP_VOLTAGE
-COMP_CDS_FSP_LIB_PART_MODEL
-COMP_CDS_FSP_INSTANCE_NAME
 COMP_ROOM
 COMP_GROUP
 COMP_SIGNAL_MODEL
-COMP_CDS_FSP_INSTANCE_ID
 COMP_NO_XNET_CONNECTION
-COMP_CDS_FSP_IS_FPGA
 #   The following two properties are needed to feedback ppt
 #   part selections done in Allegro.
 #   You may comment them out if you do not use this functionality.

@@ -2,11 +2,7 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library"
-      (File "e:\cadencelib\orcad\hyoc.olb"
-        (Type "Schematic Library"))
-      (File "e:\cadencelib\orcad\ic.olb"
-        (Type "Schematic Library")))
+    (Folder "Library")
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (Netlist_TAB "0")
@@ -64,8 +60,7 @@
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory"
-       "G:\HUIYUAN COMMUNICATION\18µÕ≥…±æ∑¿Õ‚∆∆\CADENCE\LAN9500_TEST_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory" "G:\SVN\test\LAN9500_TEST_V10A\SCH\allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -180,15 +175,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn")
-      (Path "Design Resources"
-         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\lan9500_test_v10a.dsn")
+      (Path "Design Resources" ".\lan9500_test_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\MBEDBoard\LAN9500_TEST_V10A\SCH\lan9500_test_v10a.dsn" "SCHEMATIC1"
-         "02 USB"))
+      (Select "Design Resources" ".\lan9500_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -198,12 +189,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1347 0 589")
-        (Scroll "636 108")
-        (Zoom "142")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 645")
+        (Scroll "0 0")
+        (Zoom "148")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
+      (Path "G:\SVN\TEST\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "02 USB")))
+      (Page "02 USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1639 52 671")
+        (Scroll "-163 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path "G:\SVN\TEST\LAN9500_TEST_V10A\SCH\LAN9500_TEST_V10A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01 COVER")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))
