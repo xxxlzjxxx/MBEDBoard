@@ -57,9 +57,13 @@ void TIM3_IRQHandler(void)   //TIM3中断
 		TIM_ClearITPendingBit(TIM3, TIM_IT_Update  );  //清除TIMx的中断待处理位:TIM 中断源 
 		count++;
 	//设置3分钟切换一次
-		if(count == 3 * 60 *2){
+		if(count == 10){
 			LED1=!LED1;
-			CTL_RELAY = !CTL_RELAY;
+			CTL_RELAY = 1;
+		}
+		if(count == 150){
+			LED1=!LED1;
+			CTL_RELAY = 0;
 			count = 0;
 		}
 	}

@@ -222,14 +222,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1191 0 490"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 1191 0 490"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1373 26 615")
-        (Scroll "737 615")
-        (Zoom "142")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1373 26 615")
+        (Scroll "852 744")
+        (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
       (Schematic "MAIN")

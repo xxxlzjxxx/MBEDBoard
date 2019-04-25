@@ -129,7 +129,17 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 334"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1479 130 643")
+        (Scroll "2474 2015")
+        (Zoom "244")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
+      (Schematic "MAIN")
+      (Page "03 MCU")))
   (PartMRUSelector
     (TestPoint
       (FullPartName "TestPoint.Normal")

@@ -163,6 +163,16 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 374"))
-      (Tab 0)))
-  (MPSSessionName "HUIYUAN-LZJ")
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
+        (Scroll "3161 2390")
+        (Zoom "296")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\F5438A_MINI_V10A\SCH\F5438A_MINI_V10A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01 MCU")))
+  (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))
