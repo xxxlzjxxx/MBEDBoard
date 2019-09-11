@@ -96,7 +96,9 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
     (File ".\f407_pack_v10c.dsn"
-      (Type "Schematic Design")))
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
   (Folder "Outputs"
     (File ".\f407_pack_v10c.drc"
       (Type "Report"))
@@ -215,16 +217,19 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f407_pack_v10c.dsn")
-      (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
+      (Path "Design Resources"
+         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn")
+      (Path "Design Resources"
+         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN" "02 MCU"))
+      (Select "Design Resources"
+         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn" "MAIN" "13 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 373"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
