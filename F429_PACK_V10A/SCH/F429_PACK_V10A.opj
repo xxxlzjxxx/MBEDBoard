@@ -111,7 +111,7 @@
       (Path "Design Resources" ".\f429_pack_v10a.dsn")
       (Path "Design Resources" ".\f429_pack_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\f429_pack_v10a.dsn" "MAIN" "04 MODULE"))
+      (Select "Design Resources" ".\f429_pack_v10a.dsn" "MAIN" "05 ETHERNET"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -121,33 +121,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1375 78 697")
-        (Scroll "0 75")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1248 208 827")
+        (Scroll "1272 881")
+        (Zoom "240")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU"))
+      (Page "05 ETHERNET"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1401 104 723")
-        (Scroll "1328 674")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1118 78 697")
+        (Scroll "-10 -91")
+        (Zoom "60")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
       (Schematic "MAIN")
-      (Page "04 MODULE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1427 130 749")
-        (Scroll "0 230")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
-      (Schematic "MAIN")
-      (Page "05 ETHERNET")))
+      (Page "06 POWER")))
   (PartMRUSelector
     ("CONN RCPT 6"
       (FullPartName "CONN RCPT 6.Normal")

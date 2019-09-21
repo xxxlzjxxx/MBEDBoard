@@ -122,13 +122,24 @@
       (Path "Design Resources" ".\mk60_pack_v20a.dsn")
       (Path "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\mk60_pack_v20a.dsn" "MAIN" "04 MODULE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 334"))
-      (Tab 0)))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 334"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1040 0 619")
+        (Scroll "0 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MK60_PACK_V20A\SCH\MK60_PACK_V20A.DSN")
+      (Schematic "MAIN")
+      (Page "04 MODULE")))
   (PartMRUSelector
     (TestPoint
       (FullPartName "TestPoint.Normal")

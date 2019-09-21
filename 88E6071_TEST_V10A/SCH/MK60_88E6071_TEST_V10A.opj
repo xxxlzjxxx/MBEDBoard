@@ -213,11 +213,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN" "03 MCU"))
+      (Select "Design Resources"
+         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn" "MAIN"
+         "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -228,7 +232,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1373 26 615")
-        (Scroll "852 744")
+        (Scroll "886 206")
         (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
