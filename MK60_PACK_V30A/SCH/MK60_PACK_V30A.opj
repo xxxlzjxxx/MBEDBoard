@@ -226,10 +226,20 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 182 1479 182 801")
-        (Scroll "-169 -9")
+        (Scroll "629 0")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
+      (Schematic "MAIN")
+      (Page "02 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1349 52 671")
+        (Scroll "-18 0")
         (Zoom "74")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
       (Schematic "MAIN")
-      (Page "02 MCU")))
+      (Page "03 POWER")))
   (ISPCBBASICLICENSE "false"))

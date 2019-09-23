@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Sep-21-2019 at 16:58:50 }
+{ Using PSTWRITER 17.2.0 d001Sep-23-2019 at 16:14:48 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.7" ignored for U12: MAIN, 02 MCU (152.40, 276.86). Connecting pin to net "CLK_50M_MK60".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.1" ignored for U8: MAIN, 02 MCU (302.26, 167.64). Connecting pin to net "CAN_H".
@@ -13,9 +13,6 @@
 #11 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.11" ignored for U2: MAIN, 02 MCU (337.82, 20.32). Connecting pin to net "GND".
 #12 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.12" ignored for U2: MAIN, 02 MCU (337.82, 20.32). Connecting pin to net "GND".
 #13 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.13" ignored for U2: MAIN, 02 MCU (337.82, 20.32). Connecting pin to net "GND".
-INFO(ORCAP-36102): Diff Pair DRC check Warnings:
-INFO(ORCAP-17055): Differential pair D has only one net DP associated with it. A valid differential pair must have two nets associated with it. 
-
 #14 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_CN2X6-2P54-Z_CN2X6-2P54-Z" is renamed to "CONN RCPT 6X2_CN2X6-2P54-Z_CN2X".
 #15 WARNING(ORCAP-36006): Part Name "CONN RECT 17X2_CN2X17-2P54-Z_CN2X17-2P54-Z" is renamed to "CONN RECT 17X2_CN2X17-2P54-Z_CN".
 #16 WARNING(ORCAP-36006): Part Name "CONN RCPT 2_WJ2EDGRC-5R08-2P_WJ2EDGRC-5R08-2P" is renamed to "CONN RCPT 2_WJ2EDGRC-5R08-2P_WJ".

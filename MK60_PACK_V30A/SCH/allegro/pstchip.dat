@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Sep-21-2019 at 16:58:51}
+{ Using PSTWRITER 17.2.0 d001Sep-23-2019 at 16:14:49}
 primitive 'CAP NP_3_C0603_0.1UF_25V';
   pin
     '1':
@@ -88,6 +88,21 @@ primitive 'CAP NP_C0805_10UF_25V';
     PART_NAME='CAP NP';
     JEDEC_TYPE='C0805';
     VALUE='10uF_25V';
+  end_body;
+end_primitive;
+primitive 'CAP NP_2_C1206_1NF_2000V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP_2';
+    JEDEC_TYPE='C1206';
+    VALUE='1nF_2000V';
   end_body;
 end_primitive;
 primitive 'LED_4_LED0805_LED_RED';
@@ -757,6 +772,36 @@ primitive 'R_GENERIC_R0603_510R';
     PART_NAME='R_Generic';
     JEDEC_TYPE='R0603';
     VALUE='510R';
+  end_body;
+end_primitive;
+primitive 'R_GENERIC_R0603_0R/NI';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_Generic';
+    JEDEC_TYPE='R0603';
+    VALUE='0R/NI';
+  end_body;
+end_primitive;
+primitive 'R_GENERIC_R1206_10M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_Generic';
+    JEDEC_TYPE='R1206';
+    VALUE='10M';
   end_body;
 end_primitive;
 primitive 'SW PUSHBUTTON_0_KEY-2P-SMD-6R2X';
