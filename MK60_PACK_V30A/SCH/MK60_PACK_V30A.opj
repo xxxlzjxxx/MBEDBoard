@@ -215,7 +215,7 @@
       (Path "Design Resources" ".\mk60_pack_v30a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_pack_v30a.dsn"))
+      (Select "Design Resources" ".\mk60_pack_v30a.dsn" "MAIN" "02 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -225,21 +225,21 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1479 182 801")
-        (Scroll "629 0")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -8 -31 286 1326 286 905")
+        (Scroll "80 1471")
+        (Zoom "296")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
       (Schematic "MAIN")
-      (Page "02 MCU"))
+      (Page "03 POWER"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1349 52 671")
-        (Scroll "-18 0")
-        (Zoom "74")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1066 26 645")
+        (Scroll "1205 2579")
+        (Zoom "296")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
       (Schematic "MAIN")
-      (Page "03 POWER")))
+      (Page "02 MCU")))
   (ISPCBBASICLICENSE "false"))

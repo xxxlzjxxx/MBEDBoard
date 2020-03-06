@@ -170,7 +170,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1613 26 645")
-        (Scroll "561 0")
+        (Scroll "629 60")
         (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\CP2102-UART-RS485\UART_V10A\SCH\UART_V10A.DSN")

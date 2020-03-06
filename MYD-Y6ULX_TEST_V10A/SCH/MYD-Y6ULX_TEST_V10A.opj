@@ -139,7 +139,7 @@
       (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH" "05 4G"))
+      (Select "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH" "03 CPU-6UL"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -170,8 +170,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1066 26 645")
-        (Scroll "-40 -9")
-        (Zoom "74")
+        (Scroll "6 0")
+        (Zoom "148")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
