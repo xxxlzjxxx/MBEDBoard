@@ -114,6 +114,9 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (TitleBlock0
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     ("CONN RECT 17x2"
       (FullPartName "CONN RECT 17x2.Normal")
       (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -215,19 +218,19 @@
       (Path "Design Resources" ".\mk60_pack_v30a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mk60_pack_v30a.dsn" "MAIN" "02 MCU"))
+      (Select "Design Resources" ".\mk60_pack_v30a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 955"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 286 1326 286 905")
-        (Scroll "80 1471")
-        (Zoom "296")
+        (Placement "44 2 3 -1 -1 -8 -31 286 1326 286 905")
+        (Scroll "-155 0")
+        (Zoom "78")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
       (Schematic "MAIN")
@@ -235,11 +238,21 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1066 26 645")
-        (Scroll "1205 2579")
-        (Zoom "296")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1066 26 645")
+        (Scroll "3360 2616")
+        (Zoom "300")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
       (Schematic "MAIN")
-      (Page "02 MCU")))
+      (Page "02 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1414 78 706")
+        (Scroll "880 862")
+        (Zoom "150")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\MK60_PACK_V30A\SCH\MK60_PACK_V30A.DSN")
+      (Schematic "MAIN")
+      (Page "01 COVER")))
   (ISPCBBASICLICENSE "false"))

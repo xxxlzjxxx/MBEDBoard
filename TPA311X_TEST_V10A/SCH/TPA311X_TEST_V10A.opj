@@ -117,11 +117,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\tpa311x_test_v10a.dsn")
-      (Path "Design Resources" ".\tpa311x_test_v10a.dsn" "SCH")
+      (Path "Design Resources"
+         "H:\MBEDBoard\TPA311X_TEST_V10A\SCH\tpa311x_test_v10a.dsn")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\tpa311x_test_v10a.dsn"))
+      (Select "Design Resources"
+         "H:\MBEDBoard\TPA311X_TEST_V10A\SCH\tpa311x_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -132,8 +133,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1388 52 680")
-        (Scroll "0 321")
-        (Zoom "150")
+        (Scroll "0 2544")
+        (Zoom "300")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\TPA311X_TEST_V10A\SCH\TPA311X_TEST_V10A.DSN")
       (Schematic "SCH")
@@ -142,8 +143,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1388 52 680")
-        (Scroll "9 862")
-        (Zoom "150")
+        (Scroll "384 0")
+        (Zoom "248")
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\TPA311X_TEST_V10A\SCH\TPA311X_TEST_V10A.DSN")
       (Schematic "SCH")
