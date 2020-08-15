@@ -213,15 +213,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn")
-      (Path "Design Resources"
-         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn" "MAIN")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn")
+      (Path "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\MBEDBoard\88E6071_TEST_V10A\SCH\mk60_88e6071_test_v10a.dsn" "MAIN"
-         "03 MCU"))
+      (Select "Design Resources" ".\mk60_88e6071_test_v10a.dsn" "MAIN"
+         "05 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -237,7 +234,17 @@
         (Occurrence "/"))
       (Path "H:\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU")))
+      (Page "03 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1492 156 784")
+        (Scroll "0 106")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "H:\MBEDBOARD\88E6071_TEST_V10A\SCH\MK60_88E6071_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "05 POWER")))
   (LastUsedLibraryBrowseDirectory "E:\CadenceLib\orcad")
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

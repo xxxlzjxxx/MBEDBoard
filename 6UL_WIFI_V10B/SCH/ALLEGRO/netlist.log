@@ -1,0 +1,66 @@
+{ Using PSTWRITER 17.2.0 d001Jul-16-2020 at 20:03:04 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.8" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SNVS_TAMPER7_S".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.9" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SNVS_TAMPER6_S".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.15" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SNVS_TAMPER0_S".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.3" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "PMIC_ON_REQ".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "USB2.3" ignored for USB2: MAIN, 03 6UL (378.46, 93.98). Connecting pin to net "DP".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.2" ignored for USB1: MAIN, 03 6UL (378.46, 43.18). Connecting pin to net "DN".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "USB2.2" ignored for USB2: MAIN, 03 6UL (378.46, 93.98). Connecting pin to net "DN".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.10" ignored for J2: MAIN, 04 ETH (134.62, 27.94). Connecting pin to net "N17456348".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.12" ignored for J2: MAIN, 04 ETH (134.62, 27.94). Connecting pin to net "N17456497".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.81" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_RXER".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.80" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_CRS_DV".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.85" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_TXD0".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.47" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET_MDC".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.46" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET_MDIO".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.82" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_RXD1".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.18" ignored for U6: MAIN, 04 ETH (284.48, 53.34). Connecting pin to net "N17521944".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.11" ignored for J4: MAIN, 04 ETH (355.60, 200.66). Connecting pin to net "ETH2_LED2".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.4" ignored for USB1: MAIN, 03 6UL (378.46, 43.18). Connecting pin to net "USB_OTG1_ID".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "USB2.4" ignored for USB2: MAIN, 03 6UL (378.46, 93.98). Connecting pin to net "USB_OTG1_ID".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.78" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_TX_CLK".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.79" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_RXD0".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.9" ignored for J4: MAIN, 04 ETH (355.60, 200.66). Connecting pin to net "ETH2_LED1".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.84" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_TXD1".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.83" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "ENET2_TXEN".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.10" ignored for U6: MAIN, 04 ETH (284.48, 53.34). Connecting pin to net "N17522088".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.1" ignored for USB1: MAIN, 03 6UL (378.46, 43.18). Connecting pin to net "USB_OTG1_VBUS".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 05 MODULE (66.04, 86.36). Connecting pin to net "GND_EARTH".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.111" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD2_D2".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.109" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD2_D0".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.108" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD2_CLK".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.107" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD_CMD".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.112" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD2_D3".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "IPX1.3" ignored for IPX1: MAIN, 04 ETH (63.50, 142.24). Connecting pin to net "GND".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.68" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "GND".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.10" ignored for J4: MAIN, 04 ETH (355.60, 200.66). Connecting pin to net "N17522763".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.12" ignored for J4: MAIN, 04 ETH (355.60, 200.66). Connecting pin to net "N17522882".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.110" ignored for U1: MAIN, 03 6UL (91.44, 22.86). Connecting pin to net "SD2_D1".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.9" ignored for J2: MAIN, 04 ETH (134.62, 27.94). Connecting pin to net "ETH1_LED1".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.11" ignored for J2: MAIN, 04 ETH (134.62, 27.94). Connecting pin to net "ETH1_LED2".
+#40 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-2P54-Z" is renamed to "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-".
+#41 WARNING(ORCAP-36006): Part Name "CON_RJ45_1X8_F_RA_0_HR911105A_HR911105A" is renamed to "CON_RJ45_1X8_F_RA_0_HR911105A_H".
+#42 WARNING(ORCAP-36006): Part Name "HDR_1_WJ2EDGR-5R08-2P_WJ2EDGR-5.08-2P" is renamed to "HDR_1_WJ2EDGR-5R08-2P_WJ2EDGR-5".
+#43 WARNING(ORCAP-36006): Part Name "SMA-50R_0_SMA-STRAIGHT-SOCKET_SMA-STRAIGHT-SOCKET" is renamed to "SMA-50R_0_SMA-STRAIGHT-SOCKET_S".
+#44 WARNING(ORCAP-36006): Part Name "744822222_0_ACM2012_ACM2012-900-2P-T002" is renamed to "744822222_0_ACM2012_ACM2012-900".
+#45 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_L0805_BL".
+#46 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_0_KEY-2P-SMD-6R2X3R8X2R5_KEY" is renamed to "SW PUSHBUTTON_0_KEY-2P-SMD-6R2X".
+#47 WARNING(ORCAP-36006): Part Name "MYC-Y6ULX_SOM_MYC-Y6ULX_SOM_MYC-Y6ULX_SOM" is renamed to "MYC-Y6ULX_SOM_MYC-Y6ULX_SOM_MYC".
+#48 WARNING(ORCAP-36006): Part Name "TPS2051BDBVR_SOT23-5_TPS2041BDBV" is renamed to "TPS2051BDBVR_SOT23-5_TPS2041BDB".
+#49 WARNING(ORCAP-36006): Part Name "TPD4E1U06DBVR_SOT363_TPD4E1U06DCKR" is renamed to "TPD4E1U06DBVR_SOT363_TPD4E1U06D".
+#50 WARNING(ORCAP-36006): Part Name "LAN8720A_QFN24-4X4X0R5-2R4X2R4_LAN8720A" is renamed to "LAN8720A_QFN24-4X4X0R5-2R4X2R4_".
+#51 WARNING(ORCAP-36006): Part Name "USB-MICRO_0_USB-MICRO-L_U-D-M5DD-Y-2" is renamed to "USB-MICRO_0_USB-MICRO-L_U-D-M5D".
+#52 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_U-F-M5SS-W-1/NI" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_U-F-".
+#53 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_NX3225SA-26MHZ-G4" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_NX322".
+#54 WARNING(ORCAP-36006): Part Name "SMD_OSC_6_X-4P-3R2X2R5-SMD_S3D32.768KB20F30T/NI" is renamed to "SMD_OSC_6_X-4P-3R2X2R5-SMD_S3D3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBEDBoard\6UL_WIFI_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\6UL_WIFI_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\6UL_WIFI_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\6UL_WIFI_V10B\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

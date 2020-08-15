@@ -149,31 +149,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 903 156 775")
-        (Scroll "2292 305")
-        (Zoom "240")
+        (Placement "44 2 3 -1 -1 -8 -31 0 1073 0 619")
+        (Scroll "2078 1746")
+        (Zoom "296")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "05 4G"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 747 0 619")
-        (Scroll "0 0")
-        (Zoom "120")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
-      (Schematic "SCH")
-      (Page "13 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1066 26 645")
-        (Scroll "6 0")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Path
+         "H:\GITHUB\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
       (Page "03 CPU-6UL")))
   (PartMRUSelector

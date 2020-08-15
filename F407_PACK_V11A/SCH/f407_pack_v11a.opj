@@ -96,7 +96,9 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
     (File ".\f407_pack_v11a.dsn"
-      (Type "Schematic Design")))
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
   (Folder "Outputs"
     (File ".\f407_pack_v11a.drc"
       (Type "Report"))
@@ -225,27 +227,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 541"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1717 130 749")
-        (Scroll "382 185")
-        (Zoom "296")
+        (Placement "44 2 3 -1 -1 -8 -31 26 754 26 645")
+        (Scroll "0 1876")
+        (Zoom "236")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
+      (Path "H:\GITHUB\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "04 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "0 278")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F407_PACK_V11A\SCH\F407_PACK_V11A.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03 MODULE")))
+      (Page "04 MCU")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

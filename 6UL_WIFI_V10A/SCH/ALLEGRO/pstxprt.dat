@@ -1,0 +1,1470 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-27-2020 at 16:45:48 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='6UL_WIFI_V10A';
+ POST_TIME='Aug  6 2019 19:29:12';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BAT1 'JMP-2_0_CR1220HOLDER-SMD_CR1220':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17492721@DESIGN2.JMP-2_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17492721@design2.\jmp-2_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17492721@design2.\jmp-2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448549@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448549@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448549@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522256@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522256@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522256@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522264@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522264@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522264@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522663@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522663@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522663@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516853@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516853@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516853@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516877@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516877@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516877@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_C0603_2.2UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517385@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517385@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517385@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517015@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517015@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517015@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517023@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517023@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517023@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448557@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448557@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448557@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517031@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517031@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517031@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454530@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454530@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454530@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454559@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454559@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454559@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454497@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454497@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454497@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454098@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454098@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454098@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454672@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454672@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454672@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17453736@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17453736@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17453736@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0603_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454508@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454508@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454508@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17453782@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17453782@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17453782@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520850@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520850@discrete.\cap np.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520850@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456244@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456244@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456244@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_C0805_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522042@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522042@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522042@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522050@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522050@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522050@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522058@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522058@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522058@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_2_C1206_1NF-2KV':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456517@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456517@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456517@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_2_C0805_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522240@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522240@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522240@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522248@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522248@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522248@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE13_9_SOD123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448582@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448582@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448582@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17451232@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17451232@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17451232@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE13_9_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520503@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520503@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520503@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'DIODE13_9_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17457319@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17457319@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17457319@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'DIODE13_9_DO-214AC_SS34':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520529@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520529@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520529@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520978@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520978@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520978@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE13_9_SOD123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17498929@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17498929@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17498929@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE13_9_SOD123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17498942@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17498942@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17498942@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE13_9_SOD123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17498868@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17498868@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17498868@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE13_9_SOD123_MBR0520':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17518105@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17518105@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17518105@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC1 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520141@HYOC.DC005.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520141@hyoc.\dc005.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520141@hyoc.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE1206_0469005.WR':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17457243@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17457243@hyoc.\fuse.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17457243@hyoc.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IPX1 'IPEX_0_IPX3_U.FL-R-SMT-1(80)':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516471@HY_DDDW_V10B.IPEX_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516471@hy_dddw_v10b.\ipex_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516471@hy_dddw_v10b.\ipex_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN RCPT 4_CN1X4-2P54-Z_CN1X4-':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450901@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450901@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450901@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON_RJ45_1X8_F_RA_0_HR911105A_H':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456259@ZHZK_STM32_RS485_V10B.CON_RJ45_1X8_F_RA_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456259@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456259@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'WM-N-BM-02_WM-N-BM-02_IO_WM-N-B':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516354@SCH.WM-N-BM-02.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516354@sch.\wm-n-bm-02.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516354@sch.\wm-n-bm-02.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON_RJ45_1X8_F_RA_0_HR911105A_H':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522673@ZHZK_STM32_RS485_V10B.CON_RJ45_1X8_F_RA_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522673@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522673@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HDR_1_WJ2EDGR-5R08-2P_WJ2EDGR-5':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17457235@MK60_YTAI_V41B.HDR_1.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17457235@mk60_ytai_v41b.\hdr_1.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17457235@mk60_ytai_v41b.\hdr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'SMA-50R_0_SMA-STRAIGHT-SOCKET_S':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17526722@4GMD_V10A.SMA-50R_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17526722@\4gmd_v10a\.\sma-50r_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17526722@\4gmd_v10a\.\sma-50r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 '744822222_0_ACM2012_ACM2012-900':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448691@SIM8909_TEST_V10A.744822222_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448691@sim8909_test_v10a.\744822222_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448691@sim8909_test_v10a.\744822222_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522206@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522206@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522206@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516896@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516896@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516896@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_0_L5020_SWPA5020S4R7MT':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454452@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454452@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454452@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_0_L5020_SWPA5020S4R7MT':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454168@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454168@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454168@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD6R35X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454541@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454541@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454541@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD6R35X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17453793@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17453793@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17453793@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD6R35X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454314@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454314@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454314@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD6R35X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454781@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454781@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454781@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOS-P_SOT23-3_IRLML6401':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516928@IC.MOS-P.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516928@ic.\mos-p.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516928@ic.\mos-p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOS-P_0_SOT23-3_2N7002/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517063@F247_POWE_V12C.MOS-P_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517063@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517063@f247_powe_v12c.\mos-p_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448765@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448765@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448765@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450320@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450320@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450320@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17486650@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17486650@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17486650@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450332@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450332@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450332@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450355@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450355@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450355@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17486671@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17486671@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17486671@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17451224@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17451224@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17451224@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_R0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521757@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521757@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521757@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17471770@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17471770@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17471770@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_GENERIC_R0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521765@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521765@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521765@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_R0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521773@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521773@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521773@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_R0603_49.9R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521781@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521781@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521781@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_R0603_12.1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521795@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521795@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521795@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456325@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456325@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456325@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_R0603_10R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456384@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456384@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456384@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521902@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521902@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521902@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521910@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521910@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521910@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521926@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521926@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521926@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_GENERIC_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456483@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456483@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456483@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17471778@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17471778@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17471778@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521945@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521945@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521945@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521967@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521967@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521967@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521997@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521997@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521997@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522017@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522017@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522017@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_GENERIC_R1206_10M':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456498@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456498@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456498@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522097@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522097@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522097@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522114@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522114@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522114@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522133@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522133@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522133@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522152@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522152@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522152@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522171@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522171@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522171@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450211@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450211@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450211@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522188@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522188@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522188@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516437@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516437@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516437@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516459@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516459@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516459@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516549@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516549@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516549@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516557@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516557@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516557@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516565@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516565@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516565@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516573@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516573@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516573@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516581@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516581@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516581@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_GENERIC_R0603_22R/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516637@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516637@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516637@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450232@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450232@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450232@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516654@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516654@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516654@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516681@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516681@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516681@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516708@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516708@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516708@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516735@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516735@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516735@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516761@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516761@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516761@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516777@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516777@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516777@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_GENERIC_R0603_22R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516794@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516794@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516794@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_GENERIC_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522740@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522740@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522740@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516836@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516836@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516836@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_GENERIC_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522868@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522868@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522868@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450244@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450244@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450244@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516951@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516951@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516951@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516994@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516994@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516994@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517005@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517005@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517005@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517308@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517308@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517308@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_GENERIC_R0603_1K/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17517085@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17517085@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17517085@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_GENERIC_R0603_300K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454430@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454430@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454430@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_GENERIC_R0603_300K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454334@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454334@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454334@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_GENERIC_R0603_57.6K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454519@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454519@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454519@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_GENERIC_R0603_96K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454354@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454354@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454354@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_GENERIC_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454404@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454404@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454404@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450305@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450305@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450305@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_GENERIC_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454323@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454323@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454323@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521177@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521177@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17521177@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17520970@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17520970@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17520970@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_GENERIC_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450286@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450286@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450286@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SW PUSHBUTTON_0_KEY-2P-SMD-6R2X':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17471793@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17471793@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17471793@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'SW PUSHBUTTON_0_KEY-2P-SMD-6R2X':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17471843@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17471843@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17471843@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S3 'SW PUSHBUTTON_0_KEY-2P-SMD-6R2X':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17518003@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17518003@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17518003@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW DIP-4_0_DM-04-V_DM-04-V':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17450252@STEP_TEST_V10A.SW DIP-4_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17450252@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17450252@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516885@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516885@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516885@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454772@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454772@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454772@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17454345@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17454345@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17454345@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17527096@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17527096@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17527096@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MYC-Y6ULX_SOM_MYC-Y6ULX_SOM_MYC':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17445166@SCH.MYC-Y6ULX_SOM.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17445166@sch.\myc-y6ulx_som.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17445166@sch.\myc-y6ulx_som.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'BL8032CB6TR_SOT23-6_BL8032CB6TR':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17453858@IC.BL8032CB6TR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17453858@ic.\bl8032cb6tr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17453858@ic.\bl8032cb6tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS2051BDBVR_SOT23-5_TPS2041BDB':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448571@IC.TPS2051BDBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448571@ic.\tps2051bdbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448571@ic.\tps2051bdbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17448650@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17448650@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17448650@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456284@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456284@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456284@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17456392@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17456392@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17456392@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'LAN8720A_QFN24-4X4X0R5-2R4X2R4_':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17521859@XXXLZJXXX.LAN8720A.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17521859@xxxlzjxxx.\lan8720a.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17521859@xxxlzjxxx.\lan8720a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522698@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522698@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522698@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17522787@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17522787@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17522787@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'BL8032CB6TR_SOT23-6_BL8032CB6TR':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17453980@IC.BL8032CB6TR.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17453980@ic.\bl8032cb6tr.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page5_ins17453980@ic.\bl8032cb6tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB-MICRO_0_USB-MICRO-L_U-D-M5D':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17501605@I283_SDM2_V10A.USB-MICRO_0.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17501605@i283_sdm2_v10a.\usb-micro_0.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17501605@i283_sdm2_v10a.\usb-micro_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB2 'USB-MICRO_USB-U-F-M5SS-W-1_U-F-':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17529998@HYOC.USB-MICRO.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17529998@hyoc.\usb-micro.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page3_ins17529998@hyoc.\usb-micro.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'SMD_OSC_6_X-4P-3R2X2R5-SMD_S3D3':;
+
+SECTION_NUMBER 1
+ '@6UL_WIFI_V10A.MAIN(SCH_1):INS17516908@HY_DDDW_RTK_V10A.SMD_OSC_6.NORMAL(CHIPS)':
+ C_PATH='@\6ul_wifi_v10a\.main(sch_1):ins17516908@hy_dddw_rtk_v10a.\smd_osc_6.normal\(chips)',
+ P_PATH='@\6ul_wifi_v10a\.main(sch_1):page4_ins17516908@hy_dddw_rtk_v10a.\smd_osc_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
