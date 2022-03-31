@@ -217,20 +217,49 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn")
-      (Path "Design Resources"
-         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn" "MAIN")
+      (Path "Design Resources" ".\f407_pack_v10c.dsn")
+      (Path "Design Resources" ".\f407_pack_v10c.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "h:\mbedboard\f407_pack_v10c\sch\f407_pack_v10c.dsn" "MAIN" "13 POWER"))
+      (Select "Design Resources" ".\f407_pack_v10c.dsn" "MAIN"
+         "09 EEPROM&FLASH"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
-      (Tab 0))) >>>>>>> 1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1404 26 535")
+        (Scroll "-58 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path "G:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "02 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 671")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "03 MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1408 78 697")
+        (Scroll "934 400")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "G:\GITHUB\MBEDBOARD\F407_PACK_V10C\SCH\F407_PACK_V10C.DSN")
+      (Schematic "MAIN")
+      (Page "09 EEPROM&FLASH"))) >>>>>>>
+   1f942cfdecf2741bc72ee6013a9aa7418f98a8c5
   (HierarchyView)
   (Doc
     (Type "COrCapturePMDoc")

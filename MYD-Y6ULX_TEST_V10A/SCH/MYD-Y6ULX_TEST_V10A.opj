@@ -139,7 +139,7 @@
       (Path "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH" "03 CPU-6UL"))
+      (Select "Design Resources" ".\myd-y6ulx_test_v10a.dsn" "SCH" "04 SD"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -149,14 +149,47 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1073 0 619")
-        (Scroll "2078 1746")
-        (Zoom "296")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1073 0 619")
+        (Scroll "1110 340")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
       (Schematic "SCH")
-      (Page "03 CPU-6UL")))
+      (Page "03 CPU-6UL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 936 156 775")
+        (Scroll "0 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "05 4G"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 962 182 801")
+        (Scroll "0 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "13 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1099 26 645")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBEDBOARD\MYD-Y6ULX_TEST_V10A\SCH\MYD-Y6ULX_TEST_V10A.DSN")
+      (Schematic "SCH")
+      (Page "04 SD")))
   (PartMRUSelector
     ("CONN RCPT 2"
       (FullPartName "CONN RCPT 2.Normal")

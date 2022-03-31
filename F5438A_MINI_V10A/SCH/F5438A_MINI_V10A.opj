@@ -157,7 +157,7 @@
       (Path "Design Resources" ".\f5438a_mini_v10a.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f5438a_mini_v10a.dsn" "SCHEMATIC1" "01 MCU"))
+      (Select "Design Resources" ".\f5438a_mini_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -167,11 +167,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "3161 2390")
-        (Zoom "296")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 645")
+        (Scroll "-158 0")
+        (Zoom "74")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F5438A_MINI_V10A\SCH\F5438A_MINI_V10A.DSN")
+      (Path "G:\GITHUB\MBEDBOARD\F5438A_MINI_V10A\SCH\F5438A_MINI_V10A.DSN")
       (Schematic "SCHEMATIC1")
       (Page "01 MCU")))
   (MPSSessionName "Administrator")

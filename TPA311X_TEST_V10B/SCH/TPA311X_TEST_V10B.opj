@@ -12,12 +12,13 @@
     (NoModify)
     (DRC_Scope "0")
     (DRC_Action "0")
-    (DRC_Create_Warnings "FALSE")
+    (DRC_Create_Warnings "TRUE")
     (DRC_View_Output "FALSE")
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "H:\MBEDBoard\TPA311X_TEST_V10A\SCH\TPA311X_TEST_V10A.DRC")
+    (DRC_Report_File
+       "H:\github\MBEDBoard\TPA311X_TEST_V10B\SCH\TPA311X_TEST_V10B.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -62,7 +63,8 @@
     (width_start "80")
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "H:\MBEDBoard\TPA311X_TEST_V10A\SCH\ALLEGRO")
+    ("Allegro Netlist Directory"
+       "H:\github\MBEDBoard\TPA311X_TEST_V10B\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -101,46 +103,53 @@
     (DOCKING_POSITION "59420")
     (File ".\tpa311x_test_v10b.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\tpa311x_test_v10b.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\github\MBEDBoard\TPA311X_TEST_V10B\SCH\tpa311x_test_v10b.dsn")
-      (Path "Design Resources"
-         "H:\github\MBEDBoard\TPA311X_TEST_V10B\SCH\tpa311x_test_v10b.dsn" "SCH")
+      (Path "Design Resources" ".\tpa311x_test_v10b.dsn")
+      (Path "Design Resources" ".\tpa311x_test_v10b.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\github\MBEDBoard\TPA311X_TEST_V10B\SCH\tpa311x_test_v10b.dsn" "SCH"
-         "03 TPA311X"))
+      (Select "Design Resources" ".\tpa311x_test_v10b.dsn" "SCH" "04 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 302 0 946"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1330 52 671")
-        (Scroll "-13 -9")
-        (Zoom "74")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1225 156 771")
+        (Scroll "0 45")
+        (Zoom "148")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\TPA311X_TEST_V10B\SCH\TPA311X_TEST_V10B.DSN")
+      (Path "G:\GITHUB\MBEDBOARD\TPA311X_TEST_V10B\SCH\TPA311X_TEST_V10B.DSN")
       (Schematic "SCH")
-      (Page "03 TPA311X"))
+      (Page "04 POWER"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1089 104 723")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1255 182 801")
+        (Scroll "-57 -9")
         (Zoom "74")
         (Occurrence "/"))
-      (Path "H:\GITHUB\MBEDBOARD\TPA311X_TEST_V10B\SCH\TPA311X_TEST_V10B.DSN")
+      (Path "G:\GITHUB\MBEDBOARD\TPA311X_TEST_V10B\SCH\TPA311X_TEST_V10B.DSN")
       (Schematic "SCH")
-      (Page "04 POWER")))
+      (Page "03 TPA311X")))
   (PartMRUSelector
     (RCA-SOCKET
       (FullPartName "RCA-SOCKET.Normal")

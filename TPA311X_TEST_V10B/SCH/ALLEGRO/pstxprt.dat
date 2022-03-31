@@ -1,0 +1,960 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-17-2020 at 16:34:19 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TPA311X_TEST_V10B';
+ POST_TIME='Apr 26 2020 05:36:08';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_2_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107674@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107674@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107674@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_2_C0603_10NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17128588@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17128588@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17128588@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_2_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17110404@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17110404@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17110404@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_2_C0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17109293@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17109293@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17109293@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_C0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17109301@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17109301@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17109301@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17106593@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17106593@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17106593@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_C0603_10NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17112388@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17112388@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17112388@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_C0603_10NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17112083@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17112083@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17112083@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17112065@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17112065@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17112065@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17140384@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17140384@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17140384@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17106556@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17106556@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17106556@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_C0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107784@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107784@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107784@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_2_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17140400@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17140400@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17140400@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_2_C0603_15PF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17140424@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17140424@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17140424@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17144523@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17144523@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17144523@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17141254@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17141254@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17141254@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145730@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145730@discrete.\cap np.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145730@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C1206_10UF_35V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145868@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145868@discrete.\cap np.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145868@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145754@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145754@discrete.\cap np.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145754@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145762@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145762@discrete.\cap np.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145762@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_C0603_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107797@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107797@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107797@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17105711@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17105711@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17105711@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17105773@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17105773@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17105773@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_2_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17108070@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17108070@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17108070@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17106813@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17106813@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17106813@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_2_C0805_1UF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17106221@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17106221@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17106221@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_2_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17109464@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17109464@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17109464@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17143292@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17143292@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17143292@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_BLUE':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17143304@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17143304@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17143304@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE13_9_SOD123_LMBR140':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17146328@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17146328@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17146328@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE13_6_TO-277A_V10P10':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17153086@MK60_YTAI_V41A.DIODE13_6.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17153086@mk60_ytai_v41a.\diode13_6.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17153086@mk60_ytai_v41a.\diode13_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17153367@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17153367@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17153367@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC1 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17153065@HYOC.DC005.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17153065@hyoc.\dc005.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17153065@hyoc.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'SMA-50R_0_SMA-50R-DIP_SMA-50R/N':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17136456@4GMD_V10A.SMA-50R_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17136456@\4gmd_v10a\.\sma-50r_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17136456@\4gmd_v10a\.\sma-50r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN RCPT 6_CN1X6-2P54-Z_CN1X6-':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17142918@CONNECTOR.CONN RCPT 6.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17142918@connector.\conn rcpt 6.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17142918@connector.\conn rcpt 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN RCPT 2_WJ2EDGRC-5R08-2P_WJ':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17153867@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17153867@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17153867@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CONN RCPT 6_HX25035-6A_HX25035-':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17154385@CONNECTOR.CONN RCPT 6.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17154385@connector.\conn rcpt 6.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17154385@connector.\conn rcpt 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_0_L-10MMX20MM_1MH':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107732@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107732@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107732@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_0_L-10MMX20MM_1MH':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17108008@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17108008@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17108008@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_0_L-10MMX20MM_1MH':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17109309@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17109309@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17109309@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_0_L-10MMX20MM_1MH':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17109326@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17109326@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17109326@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_0_L0603_15NH':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17139745@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17139745@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17139745@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_0_L4020_SWPA4020S150MT':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145694@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145694@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145694@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127815@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127815@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127815@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH10 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147387@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147387@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17147387@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127822@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127822@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127822@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127861@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127861@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127861@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147366@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147366@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17147366@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH5 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147373@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147373@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17147373@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH6 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127829@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127829@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127829@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH7 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127836@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127836@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127836@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH8 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17127868@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17127868@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17127868@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH9 'HOLD_1_HOLD6R90X3R10_HOLD-M3/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147380@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147380@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17147380@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'L14G1/TO_2_SOT23-3_MMBT3904':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17144553@MK60_YTAI_V41B.L14G1/TO_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17144553@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17144553@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'L14G1/TO_2_SOT23-3_MMBT3904':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17141160@MK60_YTAI_V41B.L14G1/TO_2.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17141160@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17141160@mk60_ytai_v41b.\l14g1/to_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0805_10R':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17106162@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17106162@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17106162@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17131843@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17131843@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17131843@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17138795@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17138795@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17138795@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17131830@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17131830@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17131830@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17139551@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17139551@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17139551@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_R0603_2.2K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17140347@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17140347@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17140347@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17144531@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17144531@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17144531@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_R0603_47K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17144541@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17144541@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17144541@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17144577@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17144577@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17144577@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17141262@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17141262@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17141262@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17141952@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17141952@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17141952@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17138494@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17138494@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17138494@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17141630@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17141630@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17141630@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17143368@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17143368@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17143368@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17143392@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17143392@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17143392@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_R1206_0R':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17149029@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17149029@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17149029@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_R0603_40.2K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17146427@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17146427@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17146427@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_R0603_499K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145884@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145884@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145884@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_R0603_124K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17146435@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17146435@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17146435@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17153375@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17153375@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17153375@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_R1206_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17154565@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17154565@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17154565@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_GENERIC_R1206_0R':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17155349@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17155349@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17155349@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17113750@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17113750@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17113750@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R0603_0R/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17113836@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17113836@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17113836@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107266@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107266@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107266@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17138575@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17138575@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17138575@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17113758@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17113758@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17113758@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_GENERIC_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17113844@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17113844@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17113844@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17107279@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17107279@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17107279@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_SW-6X6X6-L_KEY':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17136625@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17136625@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17136625@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH-SPST-4P_SW-6X6X6-L_KEY':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17138553@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17138553@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17138553@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH-SPST-4P_SW-6X6X6-L_KEY':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17138773@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17138773@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17138773@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SWITCH-SPST-4P_SW-6X6X6-L_KEY':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17139533@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17139533@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17139533@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145687@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145687@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145687@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TPA3110D2PWPR_HTSSOP28-9R7X4R4X':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17104308@IC.TPA3110D2PWPR.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17104308@ic.\tpa3110d2pwpr.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17104308@ic.\tpa3110d2pwpr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'BTM308-C_0_BTM308-C_BTM308-C':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17130271@TPA311X_TEST_V10B.BTM308-C_0.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17130271@tpa311x_test_v10b.\btm308-c_0.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17130271@tpa311x_test_v10b.\btm308-c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MIC_MIC_MIC':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17136402@HYOC.MIC.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17136402@hyoc.\mic.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17136402@hyoc.\mic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'RCA-SOCKET_RCA-SOCKET_RCA-SOCKE':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147401@HYOC.RCA-SOCKET.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147401@hyoc.\rca-socket.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17147401@hyoc.\rca-socket.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'RCA-SOCKET_RCA-SOCKET_RCA-SOCKE':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17147418@HYOC.RCA-SOCKET.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17147418@hyoc.\rca-socket.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page3_ins17147418@hyoc.\rca-socket.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'MP2451DT_SOT23-6_MP2456GJ':;
+
+SECTION_NUMBER 1
+ '@TPA311X_TEST_V10B.SCH(SCH_1):INS17145400@IC.MP2451DT.NORMAL(CHIPS)':
+ C_PATH='@tpa311x_test_v10b.sch(sch_1):ins17145400@ic.\mp2451dt.normal\(chips)',
+ P_PATH='@tpa311x_test_v10b.sch(sch_1):page4_ins17145400@ic.\mp2451dt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

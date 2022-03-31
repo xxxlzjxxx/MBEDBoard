@@ -111,7 +111,7 @@
       (Path "Design Resources" ".\f429_pack_v10a.dsn")
       (Path "Design Resources" ".\f429_pack_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\f429_pack_v10a.dsn" "MAIN" "05 ETHERNET"))
+      (Select "Design Resources" ".\f429_pack_v10a.dsn" "MAIN" "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -121,21 +121,41 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1248 208 827")
-        (Scroll "1272 881")
-        (Zoom "240")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1404 26 535")
+        (Scroll "0 384")
+        (Zoom "122")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
+      (Path "G:\GITHUB\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "03 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 565")
+        (Scroll "0 627")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path "G:\GITHUB\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "04 MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 591")
+        (Scroll "0 701")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path "G:\GITHUB\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
       (Schematic "MAIN")
       (Page "05 ETHERNET"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1118 78 697")
-        (Scroll "-10 -91")
-        (Zoom "60")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1486 104 617")
+        (Scroll "0 144")
+        (Zoom "122")
         (Occurrence "/"))
-      (Path "H:\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
+      (Path "G:\GITHUB\MBEDBOARD\F429_PACK_V10A\SCH\F429_PACK_V10A.DSN")
       (Schematic "MAIN")
       (Page "06 POWER")))
   (PartMRUSelector
