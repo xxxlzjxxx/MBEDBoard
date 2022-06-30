@@ -1,0 +1,4 @@
+1、层叠：	TOP		L02-GND		L03-VCC 	BOTTOM；
+2、板厚：	1.6 mm；
+3、铜厚：	1oz；
+4、尺寸：	8.5cm * 5.4cm

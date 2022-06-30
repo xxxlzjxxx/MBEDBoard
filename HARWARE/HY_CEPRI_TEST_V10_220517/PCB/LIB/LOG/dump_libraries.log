@@ -1,0 +1,124 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Fri Jun 10 14:50:23 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: G:/github/MBEDBoard/HY_CEPRI_TEST_V10_220517/PCB/HY_CEPRI_TEST_V10_220517.brd ***
+
+
+
+  *** Creating padstacks. ***
+
+  SMDC0R75 being dumped.
+
+  THE1R00X1R60_0R60X1R20 being dumped.
+
+  THE1R00X2R10_0R60X1R70 being dumped.
+
+  THC1R00D0R60 being dumped.
+
+  THC1R70D1R10 being dumped.
+
+  THC1R80D1R10 being dumped.
+
+  THC1R65D1R00 being dumped.
+
+  THS1R00D0R60 being dumped.
+
+  THS1R80D1R10 being dumped.
+
+  SMD1R00X4R10 being dumped.
+
+  SMD0R30X1R20 being dumped.
+
+  THS1R60D0R90 being dumped.
+
+  SMD1R40X1R20 being dumped.
+
+  SMD1R20X1R40 being dumped.
+
+  SMD1R10X0R60 being dumped.
+
+  SMD0R60X1R20 being dumped.
+
+  SMD1R00X1R80 being dumped.
+
+  SMD0R30X0R70 being dumped.
+
+  SMD0R60X0R50 being dumped.
+
+  SMD3R40X3R40 being dumped.
+
+  SMD0R25X0R80 being dumped.
+
+  SMD1R60X0R90 being dumped.
+
+  THC6R90X3R30 being dumped.
+
+  SMD0R80X0R80 being dumped.
+
+  SMD4R50X4R50 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  er14250 being dumped.
+
+  led0603 being dumped.
+
+  type-c-31-m-12 being dumped.
+
+  sot23-5 being dumped.
+
+  tp-0r75 being dumped.
+
+  hole6r90x3r40 being dumped.
+
+  sma-khd being dumped.
+
+  wson6-2r0x2r0x0r65-1r6x1r0 being dumped.
+
+  dc3-10p-z being dumped.
+
+  hx25035-2a being dumped.
+
+  k2-1112sw-a4sw-04 being dumped.
+
+  x-2p-3r2x1r5-smd being dumped.
+
+  x-4p-3r2x2r5-smd being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  l0402 being dumped.
+
+  r0402 being dumped.
+
+  lfcsp32-5x5x0r5-3r3x3r3 being dumped.
+
+  lfcsp64-9x9x0r5-4r5x4r5 being dumped.
+
+  cn1x2-2p54-z being dumped.
+
+  cn1x4-2p54-z being dumped.
+
+  cn1x6-2p54-z being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               25
+Number of package symbols dumped:         22
+
+Total number of symbols dumped:           22
+*****************************************************
+

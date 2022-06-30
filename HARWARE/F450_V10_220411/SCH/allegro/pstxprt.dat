@@ -1,0 +1,1120 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-14-2022 at 09:43:42 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='F450_V10_220411';
+ POST_TIME='Sep 27 2020 03:58:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17302897@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17302897@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17302897@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297971@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297971@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297971@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297979@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297979@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297979@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297987@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297987@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297987@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17257069@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17257069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17257069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17257246@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17257246@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17257246@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17257058@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17257058@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17257058@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17257402@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17257402@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17257402@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17289486@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17289486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17289486@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17294848@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17294848@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17294848@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17294856@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17294856@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17294856@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315329@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315329@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315329@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17324894@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17324894@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17324894@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0402_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328512@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328512@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328512@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_C0402_12PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328520@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328520@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328520@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17271137@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17271137@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17271137@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17320762@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17320762@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17320762@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_3_C0402_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328570@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328570@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328570@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_3_C0402_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328578@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328578@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328578@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279689@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279689@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279689@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301190@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301190@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301190@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_3_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301198@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301198@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301198@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315793@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315793@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315793@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301403@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301403@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301403@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310323@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310323@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310323@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310331@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310331@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310331@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310339@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310339@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310339@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310347@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310347@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310347@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310471@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310471@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310471@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310479@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310479@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310479@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17340230@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17340230@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17340230@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297275@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297275@discrete.\cap np.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297275@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297283@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297283@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297283@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17304957@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17304957@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17304957@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_3_C0402_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297995@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297995@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297995@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_3_C0402_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17298003@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17298003@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17298003@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297963@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297963@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297963@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'XL-2012SURUGC_XL-2012SURUGC_XL-':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17280544@HYOC.XL-2012SURUGC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17280544@hyoc.\xl-2012surugc.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17280544@hyoc.\xl-2012surugc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D21 'LED_4_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17339020@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17339020@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17339020@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'LED_4_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17340023@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17340023@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17340023@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE1206_0469005.WR':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301275@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301275@hyoc.\fuse.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301275@hyoc.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON_RJ45_1X8_F_RA_0_HR911105A_H':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17302907@ZHZK_STM32_RS485_V10B.CON_RJ45_1X8_F_RA_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17302907@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17302907@zhzk_stm32_rs485_v10b.\con_rj45_1x8_f_ra_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON20_0_Z-231012820106_Z-231012':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17312359@MK60_YTAI_V41B.CON20_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17312359@mk60_ytai_v41b.\con20_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17312359@mk60_ytai_v41b.\con20_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17256791@HYOC.DC3-10P-Z-L.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17256791@hyoc.\dc3-10p-z-l.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17256791@hyoc.\dc3-10p-z-l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN RCPT 15X2_CN2X15-2P54-Z_CN':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17305300@CONNECTOR.CONN RCPT 15X2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17305300@connector.\conn rcpt 15x2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17305300@connector.\conn rcpt 15x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN RCPT 15X2_CN2X15-2P54-Z_CN':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17305336@CONNECTOR.CONN RCPT 15X2.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17305336@connector.\conn rcpt 15x2.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17305336@connector.\conn rcpt 15x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297916@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297916@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297916@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17324602@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17324602@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17324602@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17324618@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17324618@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17324618@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_0_L5020_SWPA5020S4R7':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310287@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310287@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310287@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301696@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301696@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301696@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301703@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301703@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301703@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301738@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301738@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301738@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301745@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301745@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301745@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297003@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297003@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297003@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17304947@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17304947@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17304947@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315905@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315905@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315905@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315913@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315913@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315913@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297011@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297011@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297011@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297396@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297396@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297396@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297404@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297404@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297404@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17312343@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17312343@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17312343@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17318490@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17318490@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17318490@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17271125@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17271125@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17271125@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17320750@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17320750@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17320750@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17257222@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17257222@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17257222@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17256866@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17256866@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17256866@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17256877@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17256877@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17256877@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297019@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297019@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297019@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279562@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279562@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279562@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279589@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279589@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279589@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279635@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279635@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279635@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17256725@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17256725@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17256725@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279665@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279665@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279665@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301218@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301218@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301218@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301226@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301226@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301226@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_R2512_0R5':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301285@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301285@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301285@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301325@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301325@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301325@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301381@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301381@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301381@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297027@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297027@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297027@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_GENERIC_R0402_31.6K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310375@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310375@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310375@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310433@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310433@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310433@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310463@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310463@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310463@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310487@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310487@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310487@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17331641@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17331641@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17331641@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17335410@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17335410@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17335410@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_R0402_12.1K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297055@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297055@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297055@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17302938@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17302938@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17302938@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315321@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315321@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315321@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297119@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297119@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297119@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_GENERIC_R0402_510R':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17302986@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17302986@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17302986@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17271160@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17271160@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17271160@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17320785@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17320785@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17320785@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH_3P_SS-12D11G3R_SS-12D11G':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301169@HYOC.SWITCH_3P.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301169@hyoc.\switch_3p.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301169@hyoc.\switch_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301122@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301122@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301122@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301345@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301345@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301345@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310280@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310280@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310280@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'GD32F450VET6_LQFP100-14X14X0R5_':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17292068@IC.GD32F450VET6.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17292068@ic.\gd32f450vet6.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17292068@ic.\gd32f450vet6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'BL8032CB6TR_SOT23-6_BL8032CB6TR':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17310387@IC.BL8032CB6TR.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17310387@ic.\bl8032cb6tr.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17310387@ic.\bl8032cb6tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LAN87420AI-CZ_QFN24-4X4X0R5-2R4':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297143@IC.LAN87420AI-CZ.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297143@ic.\lan87420ai-cz.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297143@ic.\lan87420ai-cz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'CEIT_C5000_0_SOIC8_208_W25Q128J':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315344@HY_HWYT_3S24_V10A.CEIT_C5000_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315344@hy_hwyt_3s24_v10a.\ceit_c5000_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315344@hy_hwyt_3s24_v10a.\ceit_c5000_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'MB85RC64PNF-G-JNERE1_SOIC8_AT24':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17315801@IC.MB85RC64PNF-G-JNERE1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17315801@ic.\mb85rc64pnf-g-jnere1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17315801@ic.\mb85rc64pnf-g-jnere1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX809_0_SOT23-3_MAX809SN293D3T':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17304938@I283_SDM1_V20A.MAX809_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17304938@i283_sdm1_v20a.\max809_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17304938@i283_sdm1_v20a.\max809_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'CH340E_MSOP10_CH340E':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279612@IC.CH340E.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279612@ic.\ch340e.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279612@ic.\ch340e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'PRTR5V0U2X_SOT143B_PRTR5V0U2X':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17279909@SUN3530.PRTR5V0U2X.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17279909@sun3530.\prtr5v0u2x.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17279909@sun3530.\prtr5v0u2x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 '74AHC1G08_1_SOT23-5_INA193AIDBV':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301142@SIM8909_TEST_V10A.74AHC1G08_1.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301142@sim8909_test_v10a.\74ahc1g08_1.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301142@sim8909_test_v10a.\74ahc1g08_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'PRTR5V0U2X_SOT143B_PRTR5V0U2X':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17301389@SUN3530.PRTR5V0U2X.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17301389@sun3530.\prtr5v0u2x.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page4_ins17301389@sun3530.\prtr5v0u2x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'TYPE-C_0_TYPE-C-31-M-12_TYPE-C-':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17256918@B-G431B-ESC1_V10_211203.TYPE-C_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17256918@\b-g431b-esc1_v10_211203\.\type-c_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17256918@\b-g431b-esc1_v10_211203\.\type-c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'TSX-3225_X-4P-3R2X2R5-SMD_X3225':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17297893@ALEX_GENERAL_LIB.TSX-3225.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17297893@alex_general_lib.\tsx-3225.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17297893@alex_general_lib.\tsx-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'XTAL_5032_0_X-2P-3R2X1R5-SMD_Q1':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328490@F407_PACK_V10A.XTAL_5032_0.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328490@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328490@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 'TSX-3225_X-4P-3R2X2R5-SMD_DSX32':;
+
+SECTION_NUMBER 1
+ '@F450_V10_220411.MAIN(SCH_1):INS17328538@ALEX_GENERAL_LIB.TSX-3225.NORMAL(CHIPS)':
+ C_PATH='@f450_v10_220411.main(sch_1):ins17328538@alex_general_lib.\tsx-3225.normal\(chips)',
+ P_PATH='@f450_v10_220411.main(sch_1):page3_ins17328538@alex_general_lib.\tsx-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
