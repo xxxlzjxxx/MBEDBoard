@@ -1,0 +1,26 @@
+{ Using PSTWRITER 17.2.0 d001Dec-29-2022 at 10:52:50 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U503.4" ignored for U503: MAIN, 10 POWER (48.26, 142.24). Connecting pin to net "N17421947".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U504.4" ignored for U504: MAIN, 10 POWER (48.26, 177.80). Connecting pin to net "N17422446".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U505.4" ignored for U505: MAIN, 10 POWER (48.26, 213.36). Connecting pin to net "N17422773".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 10 POWER (368.30, 220.98). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 10 POWER (388.62, 220.98). Connecting pin to net "GND".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 10 POWER (388.62, 238.76). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36006): Part Name "4G_DDR3_SDRAM_256MX16_96P_FBGA96_0R8_14X8X1__NT5CC256M16EP-EK" is renamed to "4G_DDR3_SDRAM_256MX16_96P_FBGA9".
+#8 WARNING(ORCAP-36006): Part Name "MTFC4GMVEA_WFBGA_153P_FBGA153_0R5_11R5X13X8__KLM8G1GETF/NI" is renamed to "MTFC4GMVEA_WFBGA_153P_FBGA153_0".
+#9 WARNING(ORCAP-36006): Part Name "SGM803_SOT23-3P_SOT23-3__UM803RS" is renamed to "SGM803_SOT23-3P_SOT23-3__UM803R".
+#10 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-ADJ" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#11 WARNING(ORCAP-36006): Part Name "MT29F32G08CBADB_0_TSOP48-12X20__MT29F4G08ABADAWP-IT" is renamed to "MT29F32G08CBADB_0_TSOP48-12X20_".
+#12 WARNING(ORCAP-36006): Part Name "PCIMX6G3CVM05AA_BGA289_0R8_14X14X1R2_IC_PCIMX6G3CVM05AA" is renamed to "PCIMX6G3CVM05AA_BGA289_0R8_14X1".
+#13 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_Q13FC1350000400" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_Q1".
+#14 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322524MRB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X3225".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\MBEDBoard\HARDWARE\6ULL_V10_221209\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MBEDBoard\HARDWARE\6ULL_V10_221209\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MBEDBoard\HARDWARE\6ULL_V10_221209\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MBEDBoard\HARDWARE\6ULL_V10_221209\SCH\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,29 @@
+{ Using PSTWRITER 17.2.0 d001Mar-10-2021 at 11:20:02 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 02 F071 (78.74, 241.30). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 02 F071 (78.74, 259.08). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 02 F071 (58.42, 241.30). Connecting pin to net "GND".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.9" ignored for J3: MAIN, 02 F071 (363.22, 147.32). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.10" ignored for J3: MAIN, 02 F071 (363.22, 147.32). Connecting pin to net "GND".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.11" ignored for J3: MAIN, 02 F071 (363.22, 147.32). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.12" ignored for J3: MAIN, 02 F071 (363.22, 147.32). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.13" ignored for J3: MAIN, 02 F071 (363.22, 147.32). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.1" ignored for U5: MAIN, 02 F071 (269.24, 147.32). Connecting pin to net "GND".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.2" ignored for U5: MAIN, 02 F071 (269.24, 147.32). Connecting pin to net "GND".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.3" ignored for U5: MAIN, 02 F071 (269.24, 147.32). Connecting pin to net "GND".
+#12 WARNING(ORCAP-36006): Part Name "XL-2012SURUGC_XL-2012SURUGC_XL-2012SURUGC" is renamed to "XL-2012SURUGC_XL-2012SURUGC_XL-".
+#13 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-2P54-Z" is renamed to "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-".
+#14 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#15 WARNING(ORCAP-36006): Part Name "STM32F071RBT6_LQFP64-10X10X0R5_STM32F071RBT6" is renamed to "STM32F071RBT6_LQFP64-10X10X0R5_".
+#16 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_16P_TYPE-C-31-M-12_TYPE-".
+#17 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G52-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBEDBoard\F071_HCHO_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\F071_HCHO_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\F071_HCHO_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBEDBoard\F071_HCHO_V10\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

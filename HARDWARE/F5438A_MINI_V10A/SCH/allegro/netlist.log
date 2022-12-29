@@ -1,0 +1,122 @@
+{ Using PSTWRITER 16.6.0 d001Jun-30-2016 at 17:46:45 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.91" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "JTAG_TEST".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.93" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "JTAG_TDI".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.96" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "SYS_RESET#".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.95" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "JTAG_TCK".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.94" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "JTAG_TMS".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.17" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.0".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.18" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.1".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.8" ignored for U3: SCHEMATIC1, 01 MCU (66.04, 256.54). Connecting pin to net "N11833384".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.19" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.2".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.20" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.3".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.21" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.4".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.6" ignored for U3: SCHEMATIC1, 01 MCU (66.04, 256.54). Connecting pin to net "P1.4".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.22" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.5".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.23" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.6".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.24" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P1.7".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.25" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.0".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.26" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.1".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.27" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.2".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.28" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.3".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.4".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.30" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.5".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.32" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.7".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.35" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.2".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.36" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.3".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.4".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.41" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.6".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.42" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.7".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.44" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.1".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.2".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.46" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.3".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.47" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.4".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.48" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.5".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.49" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.6".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.50" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.7".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.9" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.0".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.1".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.92" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "JTAG_TDO".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.89" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.2".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.90" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.3".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.51" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.4".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.52" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.5".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.53" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.6".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.72" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.4".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.73" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.5".
+#45 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.62" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "N10945329".
+#46 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.97" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.0".
+#47 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.98" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.1".
+#48 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.99" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.2".
+#49 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.100" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.3".
+#50 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.1" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.4".
+#51 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.2" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.5".
+#52 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.3" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.6".
+#53 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.4" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P6.7".
+#54 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.55" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.2".
+#55 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.56" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.3".
+#56 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.5" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.4".
+#57 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "N10946051".
+#58 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.6" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.5".
+#59 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.12" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "N10946055".
+#60 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.7" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.6".
+#61 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.8" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P7.7".
+#62 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.57" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.0".
+#63 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.58" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.1".
+#64 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.59" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.2".
+#65 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.60" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.3".
+#66 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.61" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.4".
+#67 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.65" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.5".
+#68 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.66" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.6".
+#69 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.67" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P8.7".
+#70 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.68" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.0".
+#71 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.69" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.1".
+#72 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.70" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.2".
+#73 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.71" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.3".
+#74 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.74" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.6".
+#75 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.76" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.0".
+#76 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.77" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.1".
+#77 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.78" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.2".
+#78 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.79" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.3".
+#79 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.80" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.4".
+#80 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.81" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.5".
+#81 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.82" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.6".
+#82 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.83" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P10.7".
+#83 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.84" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P11.0".
+#84 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.85" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P11.1".
+#85 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.86" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P11.2".
+#86 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.13" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "XIN".
+#87 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.14" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "XOUT".
+#88 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P3.5".
+#89 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.54" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P5.7".
+#90 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.31" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P2.6".
+#91 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "I2C_SDA".
+#92 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.34" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "I2C_SCL".
+#93 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.43" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P4.0".
+#94 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.63" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "GND".
+#95 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.15" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "GND".
+#96 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.1" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#97 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.3" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#98 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.2" ignored for U2: SCHEMATIC1, 01 MCU (337.82, 91.44). Connecting pin to net "GND".
+#99 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.4" ignored for USB1: SCHEMATIC1, 02 POWER (86.36, 53.34). Connecting pin to net "GND".
+#100 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.75" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "P9.7".
+#101 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.64" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "VCC_3V3".
+#102 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.16" ignored for U1: SCHEMATIC1, 01 MCU (60.96, 35.56). Connecting pin to net "VCC_3V3".
+#103 WARNING(ORCAP-36006): Part Name "D SCHOTTKY_SOD123_MBR0520_SOD123" is renamed to "D SCHOTTKY_SOD123_MBR0520_SOD12".
+#104 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_HEADER6X2_CONN RCPT 6X2" is renamed to "CONN RCPT 6X2_HEADER6X2_CONN RC".
+#105 WARNING(ORCAP-36006): Part Name "CONN RCPT 21X2_HEADER21X2-2R54_CONN RCPT 21X2" is renamed to "CONN RCPT 21X2_HEADER21X2-2R54_".
+#106 WARNING(ORCAP-36006): Part Name "HEADER 4_0_HEADER4X1-2R54_SWD_SMD" is renamed to "HEADER 4_0_HEADER4X1-2R54_SWD_S".
+#107 WARNING(ORCAP-36006): Part Name "MARKPOINT_MARKPOINT_R3_MARKPOINT" is renamed to "MARKPOINT_MARKPOINT_R3_MARKPOIN".
+#108 WARNING(ORCAP-36006): Part Name "MSP430F5438A_0_LQFP100_MSP430F5438AIPZ" is renamed to "MSP430F5438A_0_LQFP100_MSP430F5".
+#109 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-3-3/TR_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-3-3/TR_SOT23-5_SPX3".
+#110 WARNING(ORCAP-36006): Part Name "0R96-OLED-PACK_0R96-OLED-PACK_0R96-OLED-PACK" is renamed to "0R96-OLED-PACK_0R96-OLED-PACK_0".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\迅雷下载\47_MSP430F5438A最小系统板\SCH\ALLEGRO/pstchip.dat
+
+Loading... F:\迅雷下载\47_MSP430F5438A最小系统板\SCH\ALLEGRO/pstchip.dat
+
+Loading... F:\迅雷下载\47_MSP430F5438A最小系统板\SCH\ALLEGRO/pstxprt.dat
+
+Loading... F:\迅雷下载\47_MSP430F5438A最小系统板\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

@@ -1,5 +1,0 @@
-Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
-"PC2/ADC_VOLT","OffPage","03 GD32F450VE","3","MAIN","U1.17","140","200","5D","{4}"
-"PC2/ADC_VOLT","OffPage","04 POWER","4","MAIN","C30.1,R38.1,R39.2,TP2.1,U9.2","720","300","3C","{3}"
-"PC3/ADC_CURR","OffPage","04 POWER","4","MAIN","TP1.1,U8.1,U9.3","720","130","3D","{3}"
-"PC3/ADC_CURR","OffPage","03 GD32F450VE","3","MAIN","U1.18","140","210","5D","{4}"

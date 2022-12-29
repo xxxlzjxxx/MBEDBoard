@@ -1,0 +1,17 @@
+{ Using PSTWRITER 16.6.0 d001Aug-19-2016 at 11:21:09 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.2" ignored for USB1: SCHEMATIC1, 01 USBtoUART (149.86, 48.26). Connecting pin to net "USB_DN".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.5" ignored for J2: SCHEMATIC1, 01 USBtoUART (241.30, 180.34). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HEADER4X1_2R54_HEADER4X1_2R54" is renamed to "CONN RCPT 4_HEADER4X1_2R54_HEAD".
+#4 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#5 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-MICRO_USB-MICRO_USB232" is renamed to "USB-MICRO_USB-MICRO_USB-MICRO_U".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... E:\GITHUB\48_CP2102\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\48_CP2102\SCH\ALLEGRO/pstchip.dat
+
+Loading... E:\GITHUB\48_CP2102\SCH\ALLEGRO/pstxprt.dat
+
+Loading... E:\GITHUB\48_CP2102\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

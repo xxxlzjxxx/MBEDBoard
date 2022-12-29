@@ -1,0 +1,45 @@
+
+#ifndef __GPIO_H
+#define __GPIO_H
+
+/********************************************/
+
+#define SENSORS_POWER_DIR_OUT (P2DIR |=BIT3)
+#define SENSORS_POWER_ON (P2OUT |= BIT3)
+#define SENSORS_POWER_OFF (P2OUT &=~BIT3)
+
+#define RF900HP_RESET_DIR_OUT (P9DIR |=BIT6)
+#define RF900HP_RESET_ON (P9OUT &=~ BIT6)
+#define RF900HP_RESET_OFF (P9OUT |= BIT6)
+
+#define RF900HP_SLEEP_DIR_OUT (P5DIR |=BIT5)
+#define RF900HP_SLEEP_ON (P5OUT |=BIT5)
+#define RF900HP_SLEEP_OFF (P5OUT &=~BIT5)
+
+#define RESTART_WDI_DIR_OUT (P6DIR |=BIT6)
+#define RESTART_WDI_ON (P6OUT |=BIT6)
+#define RESTART_WDI_OFF (P6OUT &=~BIT6)
+
+#define SYSTEM_WDI_DIR_OUT (P5DIR |=BIT4)
+#define SYSTEM_WDI_ON (P5OUT |=BIT4)
+#define SYSTEM_WDI_OFF (P5OUT &=~BIT4)
+
+
+#define P1_DIR_IN (P1DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5|BIT6|BIT7))
+#define P2_DIR_IN (P2DIR &= ~(BIT0|BIT1|BIT2|BIT4|BIT5|BIT6|BIT7))
+#define P3_DIR_IN (P3DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5))
+#define P4_DIR_IN (P4DIR &= ~(BIT2|BIT3|BIT4|BIT5|BIT6|BIT7))
+#define P5_DIR_IN (P5DIR &= ~(BIT0|BIT1))
+#define P6_DIR_IN (P6DIR &= ~(BIT0|BIT3|BIT4|BIT5|BIT7))
+#define P7_DIR_IN (P7DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5|BIT6|BIT7))
+#define P8_DIR_IN (P8DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5|BIT6|BIT7))
+#define P9_DIR_IN (P9DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5|BIT7))
+#define P10_DIR_IN (P10DIR &= ~(BIT0|BIT1|BIT2|BIT3|BIT4|BIT5|BIT6|BIT7))
+#define P11_DIR_IN (P11DIR &= ~(BIT0|BIT1|BIT2))
+
+/********************************************/
+void GPIO_Init();
+void Ext_Wdog_Feed(void);
+
+
+#endif
